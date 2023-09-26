@@ -20,12 +20,14 @@ def callback(ch, method, properties, body):
     """ Define behavior on getting a message."""
     # decode the binary message body to a string
     logger.info(f" [x] Received {body.decode()}")
-    varietal = str(body.decode)
-    title = varietal.title()
+    time = body.decode().split(",")[0]
+    foodBtemp = body.decode().split(",")[1]
     # write message to nation
-    with open('varietal.csv', 'a') as file:
+    with open('food_A_temp.csv', 'w') as file:
+        
         writer = csv.writer(file, delimiter = ',')
-        writer.writerow([varietal, title])
+        writer.writerow(["Time", "Food B Temperature"])
+        writer.writerow([time, foodBtemp])
     # when done with task, tell the user
     logger.info(" [x] Done.")
     # acknowledge the message was received and processed 
@@ -34,7 +36,7 @@ def callback(ch, method, properties, body):
 
 
 # define a main function to run the program
-def main(hn: str = "localhost", qn: str = "queue_name_c"):
+def main(hn: str = "localhost", qn: str = "03-food-B"):
     """ Continuously listen for task messages on a named queue."""
 
     # when a statement can go wrong, use a try-except block
@@ -104,4 +106,4 @@ def main(hn: str = "localhost", qn: str = "queue_name_c"):
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
     # call the main function with the information needed
-    main("localhost", "queue_name_c")
+    main("localhost", "03-food-B")
