@@ -10,31 +10,62 @@
 import pika
 import sys
 import time
+import sys
+from collections import deque
 import csv
 from util_logger import setup_logger
 
+
 logger, logname = setup_logger(__file__)
+
+
+#set variable min to length of time for the alert
+min = 2.5
+#initialze deque of maxlen assuming 30second intervals)
+queue = deque(maxlen=int(min * 60/30))
+#establish divider for ease of viewing
+divider="   " * 10
 
 # define a callback function to be called when a message is received
 def callback(ch, method, properties, body):
     """ Define behavior on getting a message."""
     # decode the binary message body to a string
-    logger.info(f" [x] Received {body.decode()}")
-    smokertime = body.decode().split(",")[0]
-    smokertemp = body.decode().split(",")[1]
-    # write message to nation
-    with open('smokertemp.csv', 'w') as file:
+    logger.info(divider)
+    logger.info(f" [x] Received {body.decode()} for smoker.")
+    logger.info(divider)
+    #split the message
+    try:
+        message = body.decode().split(",")
+        #check to see if a temperature is present and append the temperatures to the deque
+        if message[1] != "":
+            timestamp = message[0]
+            temp = float(message[1])
+            queue.append(temp)
+            #start checking the temperature difference between the first and subsequent readings. 
+            #Anything larger than 0 indicates a drop in temperature
+            if len(queue) >=2:
+                temp_change = [(queue[i]-queue[-1]) 
+                               for i in range(0,(len(queue)-1))]
+                #if there is a drop in temp larger than 15degrees send an alert for the smoker temp.
+                if any(tc>15 for tc in temp_change):
+                    logger.info(divider)
+                    logger.info(f'Smoker Alert at {timestamp}')
+                    logger.info(f"The smoker temp has fallen by more than 15 degrees!")
+                    logger.info(divider)
         
-        writer = csv.writer(file, delimiter = ',')
-        writer.writerow(["Time", "SmokerTemp"])
-        writer.writerow([smokertime, smokertemp])
-    # when done with task, tell the user
-    logger.info(" [x] Done.")
-    # acknowledge the message was received and processed 
-    # (now it can be deleted from the queue)
-    ch.basic_ack(delivery_tag=method.delivery_tag)
-
-
+        # when done with task, tell the user
+        logger.info(divider)
+        logger.info(" [x] Done.")
+        logger.info(divider)
+        # acknowledge the message was received and processed 
+        # (now it can be deleted from the queue)
+        ch.basic_ack(delivery_tag=method.delivery_tag)
+    except Exception as error:
+        logger.info(divider)
+        logger.error('An error as occured with the alert system.')
+        logger.error(f'Error: {error}')
+        logger.info(divider)
+        
 # define a main function to run the program
 def main(hn: str = "localhost", qn: str = "01-smoker"):
     """ Continuously listen for task messages on a named queue."""
@@ -80,7 +111,9 @@ def main(hn: str = "localhost", qn: str = "01-smoker"):
         channel.basic_consume( queue=qn, on_message_callback=callback)
 
         # print a message to the console for the user
+        logger.info(divider)
         logger.info(" [*] Ready for work. To exit press CTRL+C")
+        logger.info(divider)
 
         # start consuming messages via the communication channel
         channel.start_consuming()
@@ -90,13 +123,16 @@ def main(hn: str = "localhost", qn: str = "01-smoker"):
         logger.info("---***---")
         logger.info("ERROR: something went wrong.")
         logger.info(f"The error says: {e}")
+        logger.info(divider)
         sys.exit(1)
     except KeyboardInterrupt:
         logger.info("---***---")
         logger.info(" User interrupted continuous listening process.")
+        logger.info(divider)
         sys.exit(0)
     finally:
         logger.info("\nClosing connection. Goodbye.\n")
+        logger.info(divider)
         connection.close()
 
 

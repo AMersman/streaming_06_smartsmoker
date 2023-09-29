@@ -1,0 +1,2278 @@
+2023-09-28 08:31:09,689.smokertemp_consumer.INFO --------------------------------------------------
+2023-09-28 08:31:09,689.smokertemp_consumer.INFO Today is 2023-09-28 at 08:31 AM
+2023-09-28 08:31:09,689.smokertemp_consumer.INFO Running on: posix Darwin 19.6.0
+2023-09-28 08:31:09,690.smokertemp_consumer.INFO Python version:  3.11.4
+2023-09-28 08:31:09,690.smokertemp_consumer.INFO Python path: /Users/ashleymersman/Desktop/Streaming/streaming_06_smartsmoker/.venv
+2023-09-28 08:31:09,690.smokertemp_consumer.INFO Working dir: /Users/ashleymersman/Desktop/Streaming/streaming_06_smartsmoker
+2023-09-28 08:31:09,690.smokertemp_consumer.INFO --------------------------------------------------
+2023-09-28 08:31:09,704.smokertemp_consumer.INFO                               
+2023-09-28 08:31:09,704.smokertemp_consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-28 08:31:09,704.smokertemp_consumer.INFO                               
+2023-09-28 08:31:09,705.smokertemp_consumer.INFO                               
+2023-09-28 08:31:09,705.smokertemp_consumer.INFO  [x] Received 05/22/21 12:20:15,84.2 for smoker.
+2023-09-28 08:31:09,705.smokertemp_consumer.INFO                               
+2023-09-28 08:31:09,705.smokertemp_consumer.INFO                               
+2023-09-28 08:31:09,705.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:31:09,705.smokertemp_consumer.INFO                               
+2023-09-28 08:31:35,828.smokertemp_consumer.INFO                               
+2023-09-28 08:31:35,829.smokertemp_consumer.INFO  [x] Received 05/22/21 12:20:20,84.2 for smoker.
+2023-09-28 08:31:35,829.smokertemp_consumer.INFO                               
+2023-09-28 08:31:35,829.smokertemp_consumer.INFO                               
+2023-09-28 08:31:35,829.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:31:35,829.smokertemp_consumer.INFO                               
+2023-09-28 08:32:05,834.smokertemp_consumer.INFO                               
+2023-09-28 08:32:05,834.smokertemp_consumer.INFO  [x] Received 05/22/21 12:21:10,87.6 for smoker.
+2023-09-28 08:32:05,835.smokertemp_consumer.INFO                               
+2023-09-28 08:32:05,835.smokertemp_consumer.INFO                               
+2023-09-28 08:32:05,835.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:32:05,835.smokertemp_consumer.INFO                               
+2023-09-28 08:32:35,837.smokertemp_consumer.INFO                               
+2023-09-28 08:32:35,837.smokertemp_consumer.INFO  [x] Received 05/22/21 12:21:15,87.6 for smoker.
+2023-09-28 08:32:35,837.smokertemp_consumer.INFO                               
+2023-09-28 08:32:35,837.smokertemp_consumer.INFO                               
+2023-09-28 08:32:35,837.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:32:35,838.smokertemp_consumer.INFO                               
+2023-09-28 08:33:05,843.smokertemp_consumer.INFO                               
+2023-09-28 08:33:05,843.smokertemp_consumer.INFO  [x] Received 05/22/21 12:22:10,86.3 for smoker.
+2023-09-28 08:33:05,843.smokertemp_consumer.INFO                               
+2023-09-28 08:33:05,843.smokertemp_consumer.INFO                               
+2023-09-28 08:33:05,843.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:33:05,844.smokertemp_consumer.INFO                               
+2023-09-28 08:33:35,846.smokertemp_consumer.INFO                               
+2023-09-28 08:33:35,846.smokertemp_consumer.INFO  [x] Received 05/22/21 12:22:15,86.3 for smoker.
+2023-09-28 08:33:35,847.smokertemp_consumer.INFO                               
+2023-09-28 08:33:35,847.smokertemp_consumer.INFO                               
+2023-09-28 08:33:35,847.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:33:35,847.smokertemp_consumer.INFO                               
+2023-09-28 08:34:05,849.smokertemp_consumer.INFO                               
+2023-09-28 08:34:05,849.smokertemp_consumer.INFO  [x] Received 05/22/21 12:23:10,92.0 for smoker.
+2023-09-28 08:34:05,849.smokertemp_consumer.INFO                               
+2023-09-28 08:34:05,850.smokertemp_consumer.INFO                               
+2023-09-28 08:34:05,850.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:34:05,850.smokertemp_consumer.INFO                               
+2023-09-28 08:34:35,855.smokertemp_consumer.INFO                               
+2023-09-28 08:34:35,855.smokertemp_consumer.INFO  [x] Received 05/22/21 12:23:15,92.0 for smoker.
+2023-09-28 08:34:35,856.smokertemp_consumer.INFO                               
+2023-09-28 08:34:35,856.smokertemp_consumer.INFO                               
+2023-09-28 08:34:35,856.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:34:35,856.smokertemp_consumer.INFO                               
+2023-09-28 08:35:05,862.smokertemp_consumer.INFO                               
+2023-09-28 08:35:05,862.smokertemp_consumer.INFO  [x] Received 05/22/21 12:24:10,96.8 for smoker.
+2023-09-28 08:35:05,862.smokertemp_consumer.INFO                               
+2023-09-28 08:35:05,862.smokertemp_consumer.INFO                               
+2023-09-28 08:35:05,863.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:35:05,863.smokertemp_consumer.INFO                               
+2023-09-28 08:35:35,864.smokertemp_consumer.INFO                               
+2023-09-28 08:35:35,864.smokertemp_consumer.INFO  [x] Received 05/22/21 12:24:15,96.8 for smoker.
+2023-09-28 08:35:35,865.smokertemp_consumer.INFO                               
+2023-09-28 08:35:35,865.smokertemp_consumer.INFO                               
+2023-09-28 08:35:35,865.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:35:35,865.smokertemp_consumer.INFO                               
+2023-09-28 08:36:05,867.smokertemp_consumer.INFO                               
+2023-09-28 08:36:05,868.smokertemp_consumer.INFO  [x] Received 05/22/21 12:25:05,100.6 for smoker.
+2023-09-28 08:36:05,868.smokertemp_consumer.INFO                               
+2023-09-28 08:36:05,868.smokertemp_consumer.INFO                               
+2023-09-28 08:36:05,868.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:36:05,868.smokertemp_consumer.INFO                               
+2023-09-28 08:36:35,873.smokertemp_consumer.INFO                               
+2023-09-28 08:36:35,874.smokertemp_consumer.INFO  [x] Received 05/22/21 12:25:10,100.9 for smoker.
+2023-09-28 08:36:35,874.smokertemp_consumer.INFO                               
+2023-09-28 08:36:35,874.smokertemp_consumer.INFO                               
+2023-09-28 08:36:35,874.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:36:35,874.smokertemp_consumer.INFO                               
+2023-09-28 08:37:05,880.smokertemp_consumer.INFO                               
+2023-09-28 08:37:05,881.smokertemp_consumer.INFO  [x] Received 05/22/21 12:25:15,100.9 for smoker.
+2023-09-28 08:37:05,881.smokertemp_consumer.INFO                               
+2023-09-28 08:37:05,881.smokertemp_consumer.INFO                               
+2023-09-28 08:37:05,881.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:37:05,881.smokertemp_consumer.INFO                               
+2023-09-28 08:37:35,881.smokertemp_consumer.INFO                               
+2023-09-28 08:37:35,881.smokertemp_consumer.INFO  [x] Received 05/22/21 12:26:10,104.8 for smoker.
+2023-09-28 08:37:35,881.smokertemp_consumer.INFO                               
+2023-09-28 08:37:35,881.smokertemp_consumer.INFO                               
+2023-09-28 08:37:35,881.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:37:35,882.smokertemp_consumer.INFO                               
+2023-09-28 08:38:05,882.smokertemp_consumer.INFO                               
+2023-09-28 08:38:05,882.smokertemp_consumer.INFO  [x] Received 05/22/21 12:26:15,104.8 for smoker.
+2023-09-28 08:38:05,882.smokertemp_consumer.INFO                               
+2023-09-28 08:38:05,882.smokertemp_consumer.INFO                               
+2023-09-28 08:38:05,883.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:38:05,883.smokertemp_consumer.INFO                               
+2023-09-28 08:38:35,888.smokertemp_consumer.INFO                               
+2023-09-28 08:38:35,888.smokertemp_consumer.INFO  [x] Received 05/22/21 12:27:10,108.2 for smoker.
+2023-09-28 08:38:35,888.smokertemp_consumer.INFO                               
+2023-09-28 08:38:35,889.smokertemp_consumer.INFO                               
+2023-09-28 08:38:35,889.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:38:35,889.smokertemp_consumer.INFO                               
+2023-09-28 08:39:05,889.smokertemp_consumer.INFO                               
+2023-09-28 08:39:05,889.smokertemp_consumer.INFO  [x] Received 05/22/21 12:27:15,108.2 for smoker.
+2023-09-28 08:39:05,889.smokertemp_consumer.INFO                               
+2023-09-28 08:39:05,890.smokertemp_consumer.INFO                               
+2023-09-28 08:39:05,890.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:39:05,890.smokertemp_consumer.INFO                               
+2023-09-28 08:39:35,895.smokertemp_consumer.INFO                               
+2023-09-28 08:39:35,895.smokertemp_consumer.INFO  [x] Received 05/22/21 12:28:10,111.4 for smoker.
+2023-09-28 08:39:35,896.smokertemp_consumer.INFO                               
+2023-09-28 08:39:35,896.smokertemp_consumer.INFO                               
+2023-09-28 08:39:35,896.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:39:35,896.smokertemp_consumer.INFO                               
+2023-09-28 08:40:05,898.smokertemp_consumer.INFO                               
+2023-09-28 08:40:05,898.smokertemp_consumer.INFO  [x] Received 05/22/21 12:28:15,111.4 for smoker.
+2023-09-28 08:40:05,898.smokertemp_consumer.INFO                               
+2023-09-28 08:40:05,898.smokertemp_consumer.INFO                               
+2023-09-28 08:40:05,899.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:40:05,899.smokertemp_consumer.INFO                               
+2023-09-28 08:40:35,908.smokertemp_consumer.INFO                               
+2023-09-28 08:40:35,909.smokertemp_consumer.INFO  [x] Received 05/22/21 12:29:10,114.2 for smoker.
+2023-09-28 08:40:35,909.smokertemp_consumer.INFO                               
+2023-09-28 08:40:35,909.smokertemp_consumer.INFO                               
+2023-09-28 08:40:35,909.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:40:35,909.smokertemp_consumer.INFO                               
+2023-09-28 08:41:05,913.smokertemp_consumer.INFO                               
+2023-09-28 08:41:05,914.smokertemp_consumer.INFO  [x] Received 05/22/21 12:29:15,114.2 for smoker.
+2023-09-28 08:41:05,914.smokertemp_consumer.INFO                               
+2023-09-28 08:41:05,914.smokertemp_consumer.INFO                               
+2023-09-28 08:41:05,914.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:41:05,914.smokertemp_consumer.INFO                               
+2023-09-28 08:41:35,919.smokertemp_consumer.INFO                               
+2023-09-28 08:41:35,920.smokertemp_consumer.INFO  [x] Received 05/22/21 12:30:10,116.9 for smoker.
+2023-09-28 08:41:35,920.smokertemp_consumer.INFO                               
+2023-09-28 08:41:35,920.smokertemp_consumer.INFO                               
+2023-09-28 08:41:35,920.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:41:35,920.smokertemp_consumer.INFO                               
+2023-09-28 08:42:05,929.smokertemp_consumer.INFO                               
+2023-09-28 08:42:05,929.smokertemp_consumer.INFO  [x] Received 05/22/21 12:30:15,116.9 for smoker.
+2023-09-28 08:42:05,930.smokertemp_consumer.INFO                               
+2023-09-28 08:42:05,930.smokertemp_consumer.INFO                               
+2023-09-28 08:42:05,930.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:42:05,930.smokertemp_consumer.INFO                               
+2023-09-28 08:42:35,940.smokertemp_consumer.INFO                               
+2023-09-28 08:42:35,940.smokertemp_consumer.INFO  [x] Received 05/22/21 12:31:10,119.4 for smoker.
+2023-09-28 08:42:35,940.smokertemp_consumer.INFO                               
+2023-09-28 08:42:35,940.smokertemp_consumer.INFO                               
+2023-09-28 08:42:35,940.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:42:35,941.smokertemp_consumer.INFO                               
+2023-09-28 08:43:05,945.smokertemp_consumer.INFO                               
+2023-09-28 08:43:05,945.smokertemp_consumer.INFO  [x] Received 05/22/21 12:31:15,119.4 for smoker.
+2023-09-28 08:43:05,946.smokertemp_consumer.INFO                               
+2023-09-28 08:43:05,946.smokertemp_consumer.INFO                               
+2023-09-28 08:43:05,946.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:43:05,946.smokertemp_consumer.INFO                               
+2023-09-28 08:43:35,948.smokertemp_consumer.INFO                               
+2023-09-28 08:43:35,948.smokertemp_consumer.INFO  [x] Received 05/22/21 12:32:10,120.1 for smoker.
+2023-09-28 08:43:35,948.smokertemp_consumer.INFO                               
+2023-09-28 08:43:35,948.smokertemp_consumer.INFO                               
+2023-09-28 08:43:35,948.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:43:35,949.smokertemp_consumer.INFO                               
+2023-09-28 08:44:05,955.smokertemp_consumer.INFO                               
+2023-09-28 08:44:05,955.smokertemp_consumer.INFO  [x] Received 05/22/21 12:32:15,120.1 for smoker.
+2023-09-28 08:44:05,955.smokertemp_consumer.INFO                               
+2023-09-28 08:44:05,955.smokertemp_consumer.INFO                               
+2023-09-28 08:44:05,956.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:44:05,956.smokertemp_consumer.INFO                               
+2023-09-28 08:44:35,966.smokertemp_consumer.INFO                               
+2023-09-28 08:44:35,966.smokertemp_consumer.INFO  [x] Received 05/22/21 12:33:10,106.2 for smoker.
+2023-09-28 08:44:35,966.smokertemp_consumer.INFO                               
+2023-09-28 08:44:35,966.smokertemp_consumer.INFO                               
+2023-09-28 08:44:35,967.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:44:35,967.smokertemp_consumer.INFO                               
+2023-09-28 08:45:05,978.smokertemp_consumer.INFO                               
+2023-09-28 08:45:05,978.smokertemp_consumer.INFO  [x] Received 05/22/21 12:33:15,106.2 for smoker.
+2023-09-28 08:45:05,978.smokertemp_consumer.INFO                               
+2023-09-28 08:45:05,978.smokertemp_consumer.INFO                               
+2023-09-28 08:45:05,978.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:45:05,978.smokertemp_consumer.INFO                               
+2023-09-28 08:45:35,988.smokertemp_consumer.INFO                               
+2023-09-28 08:45:35,988.smokertemp_consumer.INFO  [x] Received 05/22/21 12:34:10,103.5 for smoker.
+2023-09-28 08:45:35,988.smokertemp_consumer.INFO                               
+2023-09-28 08:45:35,988.smokertemp_consumer.INFO                               
+2023-09-28 08:45:35,989.smokertemp_consumer.INFO Smoker Alert at 05/22/21 12:34:10
+2023-09-28 08:45:35,989.smokertemp_consumer.INFO The smoker temp has fallen by more than 15 degrees!
+2023-09-28 08:45:35,989.smokertemp_consumer.INFO                               
+2023-09-28 08:45:35,989.smokertemp_consumer.INFO                               
+2023-09-28 08:45:35,989.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:45:35,990.smokertemp_consumer.INFO                               
+2023-09-28 08:46:05,999.smokertemp_consumer.INFO                               
+2023-09-28 08:46:05,999.smokertemp_consumer.INFO  [x] Received 05/22/21 12:34:15,103.5 for smoker.
+2023-09-28 08:46:05,999.smokertemp_consumer.INFO                               
+2023-09-28 08:46:06,000.smokertemp_consumer.INFO                               
+2023-09-28 08:46:06,000.smokertemp_consumer.INFO Smoker Alert at 05/22/21 12:34:15
+2023-09-28 08:46:06,000.smokertemp_consumer.INFO The smoker temp has fallen by more than 15 degrees!
+2023-09-28 08:46:06,000.smokertemp_consumer.INFO                               
+2023-09-28 08:46:06,000.smokertemp_consumer.INFO                               
+2023-09-28 08:46:06,000.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:46:06,001.smokertemp_consumer.INFO                               
+2023-09-28 08:46:36,001.smokertemp_consumer.INFO                               
+2023-09-28 08:46:36,001.smokertemp_consumer.INFO  [x] Received 05/22/21 12:35:10,105.3 for smoker.
+2023-09-28 08:46:36,002.smokertemp_consumer.INFO                               
+2023-09-28 08:46:36,002.smokertemp_consumer.INFO                               
+2023-09-28 08:46:36,002.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:46:36,002.smokertemp_consumer.INFO                               
+2023-09-28 08:47:06,013.smokertemp_consumer.INFO                               
+2023-09-28 08:47:06,014.smokertemp_consumer.INFO  [x] Received 05/22/21 12:35:15,105.3 for smoker.
+2023-09-28 08:47:06,014.smokertemp_consumer.INFO                               
+2023-09-28 08:47:06,014.smokertemp_consumer.INFO                               
+2023-09-28 08:47:06,014.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:47:06,014.smokertemp_consumer.INFO                               
+2023-09-28 08:47:36,023.smokertemp_consumer.INFO                               
+2023-09-28 08:47:36,024.smokertemp_consumer.INFO  [x] Received 05/22/21 12:36:10,106.9 for smoker.
+2023-09-28 08:47:36,024.smokertemp_consumer.INFO                               
+2023-09-28 08:47:36,024.smokertemp_consumer.INFO                               
+2023-09-28 08:47:36,024.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:47:36,024.smokertemp_consumer.INFO                               
+2023-09-28 08:48:06,028.smokertemp_consumer.INFO                               
+2023-09-28 08:48:06,029.smokertemp_consumer.INFO  [x] Received 05/22/21 12:36:15,106.9 for smoker.
+2023-09-28 08:48:06,029.smokertemp_consumer.INFO                               
+2023-09-28 08:48:06,029.smokertemp_consumer.INFO                               
+2023-09-28 08:48:06,029.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:48:06,030.smokertemp_consumer.INFO                               
+2023-09-28 08:48:36,033.smokertemp_consumer.INFO                               
+2023-09-28 08:48:36,034.smokertemp_consumer.INFO  [x] Received 05/22/21 12:37:10,111.9 for smoker.
+2023-09-28 08:48:36,034.smokertemp_consumer.INFO                               
+2023-09-28 08:48:36,034.smokertemp_consumer.INFO                               
+2023-09-28 08:48:36,034.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:48:36,034.smokertemp_consumer.INFO                               
+2023-09-28 08:49:06,038.smokertemp_consumer.INFO                               
+2023-09-28 08:49:06,038.smokertemp_consumer.INFO  [x] Received 05/22/21 12:37:15,111.9 for smoker.
+2023-09-28 08:49:06,038.smokertemp_consumer.INFO                               
+2023-09-28 08:49:06,039.smokertemp_consumer.INFO                               
+2023-09-28 08:49:06,039.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:49:06,039.smokertemp_consumer.INFO                               
+2023-09-28 08:49:36,044.smokertemp_consumer.INFO                               
+2023-09-28 08:49:36,044.smokertemp_consumer.INFO  [x] Received 05/22/21 12:38:10,114.2 for smoker.
+2023-09-28 08:49:36,045.smokertemp_consumer.INFO                               
+2023-09-28 08:49:36,045.smokertemp_consumer.INFO                               
+2023-09-28 08:49:36,045.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:49:36,045.smokertemp_consumer.INFO                               
+2023-09-28 08:50:06,049.smokertemp_consumer.INFO                               
+2023-09-28 08:50:06,049.smokertemp_consumer.INFO  [x] Received 05/22/21 12:38:15,114.2 for smoker.
+2023-09-28 08:50:06,050.smokertemp_consumer.INFO                               
+2023-09-28 08:50:06,050.smokertemp_consumer.INFO                               
+2023-09-28 08:50:06,050.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:50:06,050.smokertemp_consumer.INFO                               
+2023-09-28 08:50:36,053.smokertemp_consumer.INFO                               
+2023-09-28 08:50:36,053.smokertemp_consumer.INFO  [x] Received 05/22/21 12:39:10,115.5 for smoker.
+2023-09-28 08:50:36,053.smokertemp_consumer.INFO                               
+2023-09-28 08:50:36,054.smokertemp_consumer.INFO                               
+2023-09-28 08:50:36,054.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:50:36,054.smokertemp_consumer.INFO                               
+2023-09-28 08:51:06,058.smokertemp_consumer.INFO                               
+2023-09-28 08:51:06,058.smokertemp_consumer.INFO  [x] Received 05/22/21 12:39:15,115.5 for smoker.
+2023-09-28 08:51:06,058.smokertemp_consumer.INFO                               
+2023-09-28 08:51:06,059.smokertemp_consumer.INFO                               
+2023-09-28 08:51:06,059.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:51:06,059.smokertemp_consumer.INFO                               
+2023-09-28 08:51:36,063.smokertemp_consumer.INFO                               
+2023-09-28 08:51:36,064.smokertemp_consumer.INFO  [x] Received 05/22/21 12:40:10,112.6 for smoker.
+2023-09-28 08:51:36,064.smokertemp_consumer.INFO                               
+2023-09-28 08:51:36,064.smokertemp_consumer.INFO                               
+2023-09-28 08:51:36,064.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:51:36,064.smokertemp_consumer.INFO                               
+2023-09-28 08:52:06,069.smokertemp_consumer.INFO                               
+2023-09-28 08:52:06,069.smokertemp_consumer.INFO  [x] Received 05/22/21 12:40:15,112.6 for smoker.
+2023-09-28 08:52:06,069.smokertemp_consumer.INFO                               
+2023-09-28 08:52:06,069.smokertemp_consumer.INFO                               
+2023-09-28 08:52:06,070.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:52:06,070.smokertemp_consumer.INFO                               
+2023-09-28 08:52:36,074.smokertemp_consumer.INFO                               
+2023-09-28 08:52:36,074.smokertemp_consumer.INFO  [x] Received 05/22/21 12:41:10,118.8 for smoker.
+2023-09-28 08:52:36,074.smokertemp_consumer.INFO                               
+2023-09-28 08:52:36,075.smokertemp_consumer.INFO                               
+2023-09-28 08:52:36,075.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:52:36,075.smokertemp_consumer.INFO                               
+2023-09-28 08:53:06,079.smokertemp_consumer.INFO                               
+2023-09-28 08:53:06,079.smokertemp_consumer.INFO  [x] Received 05/22/21 12:41:15,118.8 for smoker.
+2023-09-28 08:53:06,079.smokertemp_consumer.INFO                               
+2023-09-28 08:53:06,080.smokertemp_consumer.INFO                               
+2023-09-28 08:53:06,080.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:53:06,080.smokertemp_consumer.INFO                               
+2023-09-28 08:53:36,082.smokertemp_consumer.INFO                               
+2023-09-28 08:53:36,083.smokertemp_consumer.INFO  [x] Received 05/22/21 12:42:10,113.2 for smoker.
+2023-09-28 08:53:36,083.smokertemp_consumer.INFO                               
+2023-09-28 08:53:36,083.smokertemp_consumer.INFO                               
+2023-09-28 08:53:36,084.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:53:36,084.smokertemp_consumer.INFO                               
+2023-09-28 08:54:06,086.smokertemp_consumer.INFO                               
+2023-09-28 08:54:06,086.smokertemp_consumer.INFO  [x] Received 05/22/21 12:42:15,113.2 for smoker.
+2023-09-28 08:54:06,086.smokertemp_consumer.INFO                               
+2023-09-28 08:54:06,087.smokertemp_consumer.INFO                               
+2023-09-28 08:54:06,087.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:54:06,087.smokertemp_consumer.INFO                               
+2023-09-28 08:54:36,092.smokertemp_consumer.INFO                               
+2023-09-28 08:54:36,092.smokertemp_consumer.INFO  [x] Received 05/22/21 12:43:10,126.7 for smoker.
+2023-09-28 08:54:36,092.smokertemp_consumer.INFO                               
+2023-09-28 08:54:36,092.smokertemp_consumer.INFO                               
+2023-09-28 08:54:36,093.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:54:36,093.smokertemp_consumer.INFO                               
+2023-09-28 08:55:06,096.smokertemp_consumer.INFO                               
+2023-09-28 08:55:06,096.smokertemp_consumer.INFO  [x] Received 05/22/21 12:43:15,126.7 for smoker.
+2023-09-28 08:55:06,096.smokertemp_consumer.INFO                               
+2023-09-28 08:55:06,097.smokertemp_consumer.INFO                               
+2023-09-28 08:55:06,097.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:55:06,097.smokertemp_consumer.INFO                               
+2023-09-28 08:55:36,101.smokertemp_consumer.INFO                               
+2023-09-28 08:55:36,101.smokertemp_consumer.INFO  [x] Received 05/22/21 12:44:10,130.0 for smoker.
+2023-09-28 08:55:36,102.smokertemp_consumer.INFO                               
+2023-09-28 08:55:36,102.smokertemp_consumer.INFO                               
+2023-09-28 08:55:36,102.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:55:36,102.smokertemp_consumer.INFO                               
+2023-09-28 08:56:06,105.smokertemp_consumer.INFO                               
+2023-09-28 08:56:06,105.smokertemp_consumer.INFO  [x] Received 05/22/21 12:44:15,130.0 for smoker.
+2023-09-28 08:56:06,106.smokertemp_consumer.INFO                               
+2023-09-28 08:56:06,106.smokertemp_consumer.INFO                               
+2023-09-28 08:56:06,106.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:56:06,106.smokertemp_consumer.INFO                               
+2023-09-28 08:56:36,111.smokertemp_consumer.INFO                               
+2023-09-28 08:56:36,111.smokertemp_consumer.INFO  [x] Received 05/22/21 12:45:10,130.0 for smoker.
+2023-09-28 08:56:36,111.smokertemp_consumer.INFO                               
+2023-09-28 08:56:36,112.smokertemp_consumer.INFO                               
+2023-09-28 08:56:36,112.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:56:36,112.smokertemp_consumer.INFO                               
+2023-09-28 08:57:06,112.smokertemp_consumer.INFO                               
+2023-09-28 08:57:06,112.smokertemp_consumer.INFO  [x] Received 05/22/21 12:45:15,130.0 for smoker.
+2023-09-28 08:57:06,112.smokertemp_consumer.INFO                               
+2023-09-28 08:57:06,112.smokertemp_consumer.INFO                               
+2023-09-28 08:57:06,113.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:57:06,113.smokertemp_consumer.INFO                               
+2023-09-28 08:57:36,117.smokertemp_consumer.INFO                               
+2023-09-28 08:57:36,117.smokertemp_consumer.INFO  [x] Received 05/22/21 12:46:10,137.3 for smoker.
+2023-09-28 08:57:36,118.smokertemp_consumer.INFO                               
+2023-09-28 08:57:36,118.smokertemp_consumer.INFO                               
+2023-09-28 08:57:36,118.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:57:36,118.smokertemp_consumer.INFO                               
+2023-09-28 08:58:06,122.smokertemp_consumer.INFO                               
+2023-09-28 08:58:06,122.smokertemp_consumer.INFO  [x] Received 05/22/21 12:46:15,137.3 for smoker.
+2023-09-28 08:58:06,123.smokertemp_consumer.INFO                               
+2023-09-28 08:58:06,123.smokertemp_consumer.INFO                               
+2023-09-28 08:58:06,123.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:58:06,123.smokertemp_consumer.INFO                               
+2023-09-28 08:58:36,128.smokertemp_consumer.INFO                               
+2023-09-28 08:58:36,128.smokertemp_consumer.INFO  [x] Received 05/22/21 12:47:10,139.5 for smoker.
+2023-09-28 08:58:36,128.smokertemp_consumer.INFO                               
+2023-09-28 08:58:36,128.smokertemp_consumer.INFO                               
+2023-09-28 08:58:36,129.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:58:36,129.smokertemp_consumer.INFO                               
+2023-09-28 08:59:06,133.smokertemp_consumer.INFO                               
+2023-09-28 08:59:06,133.smokertemp_consumer.INFO  [x] Received 05/22/21 12:47:15,139.5 for smoker.
+2023-09-28 08:59:06,133.smokertemp_consumer.INFO                               
+2023-09-28 08:59:06,134.smokertemp_consumer.INFO                               
+2023-09-28 08:59:06,134.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:59:06,134.smokertemp_consumer.INFO                               
+2023-09-28 08:59:36,138.smokertemp_consumer.INFO                               
+2023-09-28 08:59:36,139.smokertemp_consumer.INFO  [x] Received 05/22/21 12:48:10,141.8 for smoker.
+2023-09-28 08:59:36,139.smokertemp_consumer.INFO                               
+2023-09-28 08:59:36,139.smokertemp_consumer.INFO                               
+2023-09-28 08:59:36,139.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 08:59:36,139.smokertemp_consumer.INFO                               
+2023-09-28 09:00:06,143.smokertemp_consumer.INFO                               
+2023-09-28 09:00:06,143.smokertemp_consumer.INFO  [x] Received 05/22/21 12:48:15,141.8 for smoker.
+2023-09-28 09:00:06,144.smokertemp_consumer.INFO                               
+2023-09-28 09:00:06,144.smokertemp_consumer.INFO                               
+2023-09-28 09:00:06,144.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:00:06,144.smokertemp_consumer.INFO                               
+2023-09-28 09:00:36,148.smokertemp_consumer.INFO                               
+2023-09-28 09:00:36,149.smokertemp_consumer.INFO  [x] Received 05/22/21 12:49:10,143.6 for smoker.
+2023-09-28 09:00:36,149.smokertemp_consumer.INFO                               
+2023-09-28 09:00:36,149.smokertemp_consumer.INFO                               
+2023-09-28 09:00:36,149.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:00:36,149.smokertemp_consumer.INFO                               
+2023-09-28 09:01:06,154.smokertemp_consumer.INFO                               
+2023-09-28 09:01:06,154.smokertemp_consumer.INFO  [x] Received 05/22/21 12:49:15,143.6 for smoker.
+2023-09-28 09:01:06,154.smokertemp_consumer.INFO                               
+2023-09-28 09:01:06,154.smokertemp_consumer.INFO                               
+2023-09-28 09:01:06,154.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:01:06,154.smokertemp_consumer.INFO                               
+2023-09-28 09:01:36,157.smokertemp_consumer.INFO                               
+2023-09-28 09:01:36,157.smokertemp_consumer.INFO  [x] Received 05/22/21 12:50:10,145.0 for smoker.
+2023-09-28 09:01:36,158.smokertemp_consumer.INFO                               
+2023-09-28 09:01:36,158.smokertemp_consumer.INFO                               
+2023-09-28 09:01:36,158.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:01:36,158.smokertemp_consumer.INFO                               
+2023-09-28 09:02:06,162.smokertemp_consumer.INFO                               
+2023-09-28 09:02:06,162.smokertemp_consumer.INFO  [x] Received 05/22/21 12:50:15,145.0 for smoker.
+2023-09-28 09:02:06,162.smokertemp_consumer.INFO                               
+2023-09-28 09:02:06,162.smokertemp_consumer.INFO                               
+2023-09-28 09:02:06,162.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:02:06,162.smokertemp_consumer.INFO                               
+2023-09-28 09:02:36,167.smokertemp_consumer.INFO                               
+2023-09-28 09:02:36,168.smokertemp_consumer.INFO  [x] Received 05/22/21 12:51:10,146.2 for smoker.
+2023-09-28 09:02:36,168.smokertemp_consumer.INFO                               
+2023-09-28 09:02:36,168.smokertemp_consumer.INFO                               
+2023-09-28 09:02:36,168.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:02:36,168.smokertemp_consumer.INFO                               
+2023-09-28 09:03:06,173.smokertemp_consumer.INFO                               
+2023-09-28 09:03:06,173.smokertemp_consumer.INFO  [x] Received 05/22/21 12:51:15,146.2 for smoker.
+2023-09-28 09:03:06,173.smokertemp_consumer.INFO                               
+2023-09-28 09:03:06,173.smokertemp_consumer.INFO                               
+2023-09-28 09:03:06,174.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:03:06,174.smokertemp_consumer.INFO                               
+2023-09-28 09:03:36,178.smokertemp_consumer.INFO                               
+2023-09-28 09:03:36,178.smokertemp_consumer.INFO  [x] Received 05/22/21 12:52:10,147.5 for smoker.
+2023-09-28 09:03:36,179.smokertemp_consumer.INFO                               
+2023-09-28 09:03:36,179.smokertemp_consumer.INFO                               
+2023-09-28 09:03:36,179.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:03:36,179.smokertemp_consumer.INFO                               
+2023-09-28 09:04:06,183.smokertemp_consumer.INFO                               
+2023-09-28 09:04:06,183.smokertemp_consumer.INFO  [x] Received 05/22/21 12:52:15,147.5 for smoker.
+2023-09-28 09:04:06,184.smokertemp_consumer.INFO                               
+2023-09-28 09:04:06,184.smokertemp_consumer.INFO                               
+2023-09-28 09:04:06,184.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:04:06,184.smokertemp_consumer.INFO                               
+2023-09-28 09:04:36,188.smokertemp_consumer.INFO                               
+2023-09-28 09:04:36,189.smokertemp_consumer.INFO  [x] Received 05/22/21 12:53:10,148.7 for smoker.
+2023-09-28 09:04:36,189.smokertemp_consumer.INFO                               
+2023-09-28 09:04:36,189.smokertemp_consumer.INFO                               
+2023-09-28 09:04:36,189.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:04:36,190.smokertemp_consumer.INFO                               
+2023-09-28 09:05:06,194.smokertemp_consumer.INFO                               
+2023-09-28 09:05:06,194.smokertemp_consumer.INFO  [x] Received 05/22/21 12:53:15,148.7 for smoker.
+2023-09-28 09:05:06,194.smokertemp_consumer.INFO                               
+2023-09-28 09:05:06,194.smokertemp_consumer.INFO                               
+2023-09-28 09:05:06,195.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:05:06,195.smokertemp_consumer.INFO                               
+2023-09-28 09:05:36,198.smokertemp_consumer.INFO                               
+2023-09-28 09:05:36,198.smokertemp_consumer.INFO  [x] Received 05/22/21 12:54:10,149.9 for smoker.
+2023-09-28 09:05:36,198.smokertemp_consumer.INFO                               
+2023-09-28 09:05:36,198.smokertemp_consumer.INFO                               
+2023-09-28 09:05:36,199.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:05:36,199.smokertemp_consumer.INFO                               
+2023-09-28 09:06:06,203.smokertemp_consumer.INFO                               
+2023-09-28 09:06:06,203.smokertemp_consumer.INFO  [x] Received 05/22/21 12:54:15,149.9 for smoker.
+2023-09-28 09:06:06,203.smokertemp_consumer.INFO                               
+2023-09-28 09:06:06,204.smokertemp_consumer.INFO                               
+2023-09-28 09:06:06,204.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:06:06,204.smokertemp_consumer.INFO                               
+2023-09-28 09:06:36,204.smokertemp_consumer.INFO                               
+2023-09-28 09:06:36,205.smokertemp_consumer.INFO  [x] Received 05/22/21 12:55:05,151.1 for smoker.
+2023-09-28 09:06:36,205.smokertemp_consumer.INFO                               
+2023-09-28 09:06:36,205.smokertemp_consumer.INFO                               
+2023-09-28 09:06:36,206.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:06:36,206.smokertemp_consumer.INFO                               
+2023-09-28 09:07:06,210.smokertemp_consumer.INFO                               
+2023-09-28 09:07:06,210.smokertemp_consumer.INFO  [x] Received 05/22/21 12:55:10,151.2 for smoker.
+2023-09-28 09:07:06,211.smokertemp_consumer.INFO                               
+2023-09-28 09:07:06,211.smokertemp_consumer.INFO                               
+2023-09-28 09:07:06,211.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:07:06,211.smokertemp_consumer.INFO                               
+2023-09-28 09:07:36,215.smokertemp_consumer.INFO                               
+2023-09-28 09:07:36,216.smokertemp_consumer.INFO  [x] Received 05/22/21 12:55:15,151.2 for smoker.
+2023-09-28 09:07:36,216.smokertemp_consumer.INFO                               
+2023-09-28 09:07:36,216.smokertemp_consumer.INFO                               
+2023-09-28 09:07:36,216.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:07:36,216.smokertemp_consumer.INFO                               
+2023-09-28 09:08:06,221.smokertemp_consumer.INFO                               
+2023-09-28 09:08:06,221.smokertemp_consumer.INFO  [x] Received 05/22/21 12:56:10,152.4 for smoker.
+2023-09-28 09:08:06,221.smokertemp_consumer.INFO                               
+2023-09-28 09:08:06,221.smokertemp_consumer.INFO                               
+2023-09-28 09:08:06,221.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:08:06,221.smokertemp_consumer.INFO                               
+2023-09-28 09:08:36,224.smokertemp_consumer.INFO                               
+2023-09-28 09:08:36,224.smokertemp_consumer.INFO  [x] Received 05/22/21 12:56:15,152.4 for smoker.
+2023-09-28 09:08:36,225.smokertemp_consumer.INFO                               
+2023-09-28 09:08:36,225.smokertemp_consumer.INFO                               
+2023-09-28 09:08:36,225.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:08:36,225.smokertemp_consumer.INFO                               
+2023-09-28 09:09:06,230.smokertemp_consumer.INFO                               
+2023-09-28 09:09:06,230.smokertemp_consumer.INFO  [x] Received 05/22/21 12:57:10,153.4 for smoker.
+2023-09-28 09:09:06,230.smokertemp_consumer.INFO                               
+2023-09-28 09:09:06,230.smokertemp_consumer.INFO                               
+2023-09-28 09:09:06,231.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:09:06,231.smokertemp_consumer.INFO                               
+2023-09-28 09:09:36,235.smokertemp_consumer.INFO                               
+2023-09-28 09:09:36,235.smokertemp_consumer.INFO  [x] Received 05/22/21 12:57:15,153.4 for smoker.
+2023-09-28 09:09:36,236.smokertemp_consumer.INFO                               
+2023-09-28 09:09:36,236.smokertemp_consumer.INFO                               
+2023-09-28 09:09:36,236.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:09:36,236.smokertemp_consumer.INFO                               
+2023-09-28 09:10:06,240.smokertemp_consumer.INFO                               
+2023-09-28 09:10:06,240.smokertemp_consumer.INFO  [x] Received 05/22/21 12:58:10,154.5 for smoker.
+2023-09-28 09:10:06,241.smokertemp_consumer.INFO                               
+2023-09-28 09:10:06,241.smokertemp_consumer.INFO                               
+2023-09-28 09:10:06,241.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:10:06,241.smokertemp_consumer.INFO                               
+2023-09-28 09:10:36,245.smokertemp_consumer.INFO                               
+2023-09-28 09:10:36,245.smokertemp_consumer.INFO  [x] Received 05/22/21 12:58:15,154.5 for smoker.
+2023-09-28 09:10:36,246.smokertemp_consumer.INFO                               
+2023-09-28 09:10:36,246.smokertemp_consumer.INFO                               
+2023-09-28 09:10:36,246.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:10:36,246.smokertemp_consumer.INFO                               
+2023-09-28 09:11:06,250.smokertemp_consumer.INFO                               
+2023-09-28 09:11:06,251.smokertemp_consumer.INFO  [x] Received 05/22/21 12:59:10,155.6 for smoker.
+2023-09-28 09:11:06,251.smokertemp_consumer.INFO                               
+2023-09-28 09:11:06,251.smokertemp_consumer.INFO                               
+2023-09-28 09:11:06,251.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:11:06,251.smokertemp_consumer.INFO                               
+2023-09-28 09:11:36,252.smokertemp_consumer.INFO                               
+2023-09-28 09:11:36,253.smokertemp_consumer.INFO  [x] Received 05/22/21 12:59:15,155.6 for smoker.
+2023-09-28 09:11:36,253.smokertemp_consumer.INFO                               
+2023-09-28 09:11:36,253.smokertemp_consumer.INFO                               
+2023-09-28 09:11:36,253.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:11:36,253.smokertemp_consumer.INFO                               
+2023-09-28 09:12:06,258.smokertemp_consumer.INFO                               
+2023-09-28 09:12:06,258.smokertemp_consumer.INFO  [x] Received 05/22/21 13:00:10,156.5 for smoker.
+2023-09-28 09:12:06,258.smokertemp_consumer.INFO                               
+2023-09-28 09:12:06,259.smokertemp_consumer.INFO                               
+2023-09-28 09:12:06,259.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:12:06,259.smokertemp_consumer.INFO                               
+2023-09-28 09:12:36,263.smokertemp_consumer.INFO                               
+2023-09-28 09:12:36,264.smokertemp_consumer.INFO  [x] Received 05/22/21 13:00:15,156.5 for smoker.
+2023-09-28 09:12:36,264.smokertemp_consumer.INFO                               
+2023-09-28 09:12:36,264.smokertemp_consumer.INFO                               
+2023-09-28 09:12:36,264.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:12:36,264.smokertemp_consumer.INFO                               
+2023-09-28 09:13:06,267.smokertemp_consumer.INFO                               
+2023-09-28 09:13:06,267.smokertemp_consumer.INFO  [x] Received 05/22/21 13:01:10,157.8 for smoker.
+2023-09-28 09:13:06,267.smokertemp_consumer.INFO                               
+2023-09-28 09:13:06,267.smokertemp_consumer.INFO                               
+2023-09-28 09:13:06,267.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:13:06,268.smokertemp_consumer.INFO                               
+2023-09-28 09:13:36,272.smokertemp_consumer.INFO                               
+2023-09-28 09:13:36,272.smokertemp_consumer.INFO  [x] Received 05/22/21 13:01:15,157.8 for smoker.
+2023-09-28 09:13:36,272.smokertemp_consumer.INFO                               
+2023-09-28 09:13:36,272.smokertemp_consumer.INFO                               
+2023-09-28 09:13:36,273.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:13:36,273.smokertemp_consumer.INFO                               
+2023-09-28 09:14:06,277.smokertemp_consumer.INFO                               
+2023-09-28 09:14:06,277.smokertemp_consumer.INFO  [x] Received 05/22/21 13:02:10,158.8 for smoker.
+2023-09-28 09:14:06,277.smokertemp_consumer.INFO                               
+2023-09-28 09:14:06,278.smokertemp_consumer.INFO                               
+2023-09-28 09:14:06,278.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:14:06,278.smokertemp_consumer.INFO                               
+2023-09-28 09:14:36,282.smokertemp_consumer.INFO                               
+2023-09-28 09:14:36,283.smokertemp_consumer.INFO  [x] Received 05/22/21 13:02:15,158.8 for smoker.
+2023-09-28 09:14:36,283.smokertemp_consumer.INFO                               
+2023-09-28 09:14:36,283.smokertemp_consumer.INFO                               
+2023-09-28 09:14:36,283.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:14:36,283.smokertemp_consumer.INFO                               
+2023-09-28 09:15:06,287.smokertemp_consumer.INFO                               
+2023-09-28 09:15:06,287.smokertemp_consumer.INFO  [x] Received 05/22/21 13:03:10,159.9 for smoker.
+2023-09-28 09:15:06,288.smokertemp_consumer.INFO                               
+2023-09-28 09:15:06,288.smokertemp_consumer.INFO                               
+2023-09-28 09:15:06,288.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:15:06,288.smokertemp_consumer.INFO                               
+2023-09-28 09:15:36,292.smokertemp_consumer.INFO                               
+2023-09-28 09:15:36,293.smokertemp_consumer.INFO  [x] Received 05/22/21 13:03:15,159.9 for smoker.
+2023-09-28 09:15:36,293.smokertemp_consumer.INFO                               
+2023-09-28 09:15:36,293.smokertemp_consumer.INFO                               
+2023-09-28 09:15:36,293.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:15:36,293.smokertemp_consumer.INFO                               
+2023-09-28 09:16:06,299.smokertemp_consumer.INFO                               
+2023-09-28 09:16:06,299.smokertemp_consumer.INFO  [x] Received 05/22/21 13:04:10,160.7 for smoker.
+2023-09-28 09:16:06,299.smokertemp_consumer.INFO                               
+2023-09-28 09:16:06,299.smokertemp_consumer.INFO                               
+2023-09-28 09:16:06,300.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:16:06,300.smokertemp_consumer.INFO                               
+2023-09-28 09:16:36,303.smokertemp_consumer.INFO                               
+2023-09-28 09:16:36,303.smokertemp_consumer.INFO  [x] Received 05/22/21 13:04:15,160.7 for smoker.
+2023-09-28 09:16:36,303.smokertemp_consumer.INFO                               
+2023-09-28 09:16:36,303.smokertemp_consumer.INFO                               
+2023-09-28 09:16:36,304.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:16:36,304.smokertemp_consumer.INFO                               
+2023-09-28 09:17:06,308.smokertemp_consumer.INFO                               
+2023-09-28 09:17:06,308.smokertemp_consumer.INFO  [x] Received 05/22/21 13:05:10,161.9 for smoker.
+2023-09-28 09:17:06,308.smokertemp_consumer.INFO                               
+2023-09-28 09:17:06,309.smokertemp_consumer.INFO                               
+2023-09-28 09:17:06,309.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:17:06,309.smokertemp_consumer.INFO                               
+2023-09-28 09:17:36,313.smokertemp_consumer.INFO                               
+2023-09-28 09:17:36,313.smokertemp_consumer.INFO  [x] Received 05/22/21 13:05:15,161.9 for smoker.
+2023-09-28 09:17:36,314.smokertemp_consumer.INFO                               
+2023-09-28 09:17:36,314.smokertemp_consumer.INFO                               
+2023-09-28 09:17:36,314.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:17:36,314.smokertemp_consumer.INFO                               
+2023-09-28 09:18:06,318.smokertemp_consumer.INFO                               
+2023-09-28 09:18:06,318.smokertemp_consumer.INFO  [x] Received 05/22/21 13:06:10,163.1 for smoker.
+2023-09-28 09:18:06,319.smokertemp_consumer.INFO                               
+2023-09-28 09:18:06,319.smokertemp_consumer.INFO                               
+2023-09-28 09:18:06,319.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:18:06,319.smokertemp_consumer.INFO                               
+2023-09-28 09:18:36,323.smokertemp_consumer.INFO                               
+2023-09-28 09:18:36,324.smokertemp_consumer.INFO  [x] Received 05/22/21 13:06:15,163.1 for smoker.
+2023-09-28 09:18:36,324.smokertemp_consumer.INFO                               
+2023-09-28 09:18:36,324.smokertemp_consumer.INFO                               
+2023-09-28 09:18:36,325.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:18:36,325.smokertemp_consumer.INFO                               
+2023-09-28 09:19:06,328.smokertemp_consumer.INFO                               
+2023-09-28 09:19:06,328.smokertemp_consumer.INFO  [x] Received 05/22/21 13:07:10,164.3 for smoker.
+2023-09-28 09:19:06,328.smokertemp_consumer.INFO                               
+2023-09-28 09:19:06,328.smokertemp_consumer.INFO                               
+2023-09-28 09:19:06,328.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:19:06,329.smokertemp_consumer.INFO                               
+2023-09-28 09:19:36,333.smokertemp_consumer.INFO                               
+2023-09-28 09:19:36,333.smokertemp_consumer.INFO  [x] Received 05/22/21 13:07:15,164.3 for smoker.
+2023-09-28 09:19:36,334.smokertemp_consumer.INFO                               
+2023-09-28 09:19:36,334.smokertemp_consumer.INFO                               
+2023-09-28 09:19:36,334.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:19:36,334.smokertemp_consumer.INFO                               
+2023-09-28 09:20:06,338.smokertemp_consumer.INFO                               
+2023-09-28 09:20:06,338.smokertemp_consumer.INFO  [x] Received 05/22/21 13:08:10,165.6 for smoker.
+2023-09-28 09:20:06,338.smokertemp_consumer.INFO                               
+2023-09-28 09:20:06,338.smokertemp_consumer.INFO                               
+2023-09-28 09:20:06,339.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:20:06,339.smokertemp_consumer.INFO                               
+2023-09-28 09:20:36,342.smokertemp_consumer.INFO                               
+2023-09-28 09:20:36,342.smokertemp_consumer.INFO  [x] Received 05/22/21 13:08:15,165.6 for smoker.
+2023-09-28 09:20:36,342.smokertemp_consumer.INFO                               
+2023-09-28 09:20:36,342.smokertemp_consumer.INFO                               
+2023-09-28 09:20:36,342.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:20:36,343.smokertemp_consumer.INFO                               
+2023-09-28 09:21:06,347.smokertemp_consumer.INFO                               
+2023-09-28 09:21:06,347.smokertemp_consumer.INFO  [x] Received 05/22/21 13:09:10,166.7 for smoker.
+2023-09-28 09:21:06,347.smokertemp_consumer.INFO                               
+2023-09-28 09:21:06,347.smokertemp_consumer.INFO                               
+2023-09-28 09:21:06,347.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:21:06,348.smokertemp_consumer.INFO                               
+2023-09-28 09:21:36,352.smokertemp_consumer.INFO                               
+2023-09-28 09:21:36,352.smokertemp_consumer.INFO  [x] Received 05/22/21 13:09:15,166.7 for smoker.
+2023-09-28 09:21:36,352.smokertemp_consumer.INFO                               
+2023-09-28 09:21:36,353.smokertemp_consumer.INFO                               
+2023-09-28 09:21:36,353.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:21:36,353.smokertemp_consumer.INFO                               
+2023-09-28 09:22:06,356.smokertemp_consumer.INFO                               
+2023-09-28 09:22:06,357.smokertemp_consumer.INFO  [x] Received 05/22/21 13:10:10,167.8 for smoker.
+2023-09-28 09:22:06,357.smokertemp_consumer.INFO                               
+2023-09-28 09:22:06,357.smokertemp_consumer.INFO                               
+2023-09-28 09:22:06,357.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:22:06,357.smokertemp_consumer.INFO                               
+2023-09-28 09:22:36,362.smokertemp_consumer.INFO                               
+2023-09-28 09:22:36,362.smokertemp_consumer.INFO  [x] Received 05/22/21 13:10:15,167.8 for smoker.
+2023-09-28 09:22:36,362.smokertemp_consumer.INFO                               
+2023-09-28 09:22:36,362.smokertemp_consumer.INFO                               
+2023-09-28 09:22:36,363.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:22:36,363.smokertemp_consumer.INFO                               
+2023-09-28 09:23:06,367.smokertemp_consumer.INFO                               
+2023-09-28 09:23:06,367.smokertemp_consumer.INFO  [x] Received 05/22/21 13:11:10,168.8 for smoker.
+2023-09-28 09:23:06,368.smokertemp_consumer.INFO                               
+2023-09-28 09:23:06,368.smokertemp_consumer.INFO                               
+2023-09-28 09:23:06,368.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:23:06,369.smokertemp_consumer.INFO                               
+2023-09-28 09:23:36,372.smokertemp_consumer.INFO                               
+2023-09-28 09:23:36,372.smokertemp_consumer.INFO  [x] Received 05/22/21 13:11:15,168.8 for smoker.
+2023-09-28 09:23:36,373.smokertemp_consumer.INFO                               
+2023-09-28 09:23:36,373.smokertemp_consumer.INFO                               
+2023-09-28 09:23:36,373.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:23:36,373.smokertemp_consumer.INFO                               
+2023-09-28 09:24:06,377.smokertemp_consumer.INFO                               
+2023-09-28 09:24:06,378.smokertemp_consumer.INFO  [x] Received 05/22/21 13:12:10,170.2 for smoker.
+2023-09-28 09:24:06,378.smokertemp_consumer.INFO                               
+2023-09-28 09:24:06,378.smokertemp_consumer.INFO                               
+2023-09-28 09:24:06,378.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:24:06,378.smokertemp_consumer.INFO                               
+2023-09-28 09:24:36,383.smokertemp_consumer.INFO                               
+2023-09-28 09:24:36,383.smokertemp_consumer.INFO  [x] Received 05/22/21 13:12:15,170.2 for smoker.
+2023-09-28 09:24:36,383.smokertemp_consumer.INFO                               
+2023-09-28 09:24:36,383.smokertemp_consumer.INFO                               
+2023-09-28 09:24:36,383.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:24:36,383.smokertemp_consumer.INFO                               
+2023-09-28 09:25:06,388.smokertemp_consumer.INFO                               
+2023-09-28 09:25:06,388.smokertemp_consumer.INFO  [x] Received 05/22/21 13:13:10,171.7 for smoker.
+2023-09-28 09:25:06,389.smokertemp_consumer.INFO                               
+2023-09-28 09:25:06,389.smokertemp_consumer.INFO                               
+2023-09-28 09:25:06,389.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:25:06,389.smokertemp_consumer.INFO                               
+2023-09-28 09:25:36,393.smokertemp_consumer.INFO                               
+2023-09-28 09:25:36,393.smokertemp_consumer.INFO  [x] Received 05/22/21 13:13:15,171.7 for smoker.
+2023-09-28 09:25:36,393.smokertemp_consumer.INFO                               
+2023-09-28 09:25:36,393.smokertemp_consumer.INFO                               
+2023-09-28 09:25:36,394.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:25:36,394.smokertemp_consumer.INFO                               
+2023-09-28 09:26:06,398.smokertemp_consumer.INFO                               
+2023-09-28 09:26:06,398.smokertemp_consumer.INFO  [x] Received 05/22/21 13:14:10,173.3 for smoker.
+2023-09-28 09:26:06,398.smokertemp_consumer.INFO                               
+2023-09-28 09:26:06,399.smokertemp_consumer.INFO                               
+2023-09-28 09:26:06,399.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:26:06,399.smokertemp_consumer.INFO                               
+2023-09-28 09:26:36,405.smokertemp_consumer.INFO                               
+2023-09-28 09:26:36,405.smokertemp_consumer.INFO  [x] Received 05/22/21 13:14:15,173.3 for smoker.
+2023-09-28 09:26:36,405.smokertemp_consumer.INFO                               
+2023-09-28 09:26:36,405.smokertemp_consumer.INFO                               
+2023-09-28 09:26:36,405.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:26:36,405.smokertemp_consumer.INFO                               
+2023-09-28 09:27:06,410.smokertemp_consumer.INFO                               
+2023-09-28 09:27:06,410.smokertemp_consumer.INFO  [x] Received 05/22/21 13:15:10,174.6 for smoker.
+2023-09-28 09:27:06,410.smokertemp_consumer.INFO                               
+2023-09-28 09:27:06,410.smokertemp_consumer.INFO                               
+2023-09-28 09:27:06,411.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:27:06,411.smokertemp_consumer.INFO                               
+2023-09-28 09:27:36,414.smokertemp_consumer.INFO                               
+2023-09-28 09:27:36,414.smokertemp_consumer.INFO  [x] Received 05/22/21 13:15:15,174.6 for smoker.
+2023-09-28 09:27:36,415.smokertemp_consumer.INFO                               
+2023-09-28 09:27:36,415.smokertemp_consumer.INFO                               
+2023-09-28 09:27:36,415.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:27:36,415.smokertemp_consumer.INFO                               
+2023-09-28 09:28:06,419.smokertemp_consumer.INFO                               
+2023-09-28 09:28:06,420.smokertemp_consumer.INFO  [x] Received 05/22/21 13:16:10,175.5 for smoker.
+2023-09-28 09:28:06,420.smokertemp_consumer.INFO                               
+2023-09-28 09:28:06,420.smokertemp_consumer.INFO                               
+2023-09-28 09:28:06,420.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:28:06,420.smokertemp_consumer.INFO                               
+2023-09-28 09:28:36,425.smokertemp_consumer.INFO                               
+2023-09-28 09:28:36,425.smokertemp_consumer.INFO  [x] Received 05/22/21 13:16:15,175.5 for smoker.
+2023-09-28 09:28:36,425.smokertemp_consumer.INFO                               
+2023-09-28 09:28:36,426.smokertemp_consumer.INFO                               
+2023-09-28 09:28:36,426.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:28:36,426.smokertemp_consumer.INFO                               
+2023-09-28 09:29:06,430.smokertemp_consumer.INFO                               
+2023-09-28 09:29:06,430.smokertemp_consumer.INFO  [x] Received 05/22/21 13:17:10,176.8 for smoker.
+2023-09-28 09:29:06,430.smokertemp_consumer.INFO                               
+2023-09-28 09:29:06,430.smokertemp_consumer.INFO                               
+2023-09-28 09:29:06,430.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:29:06,431.smokertemp_consumer.INFO                               
+2023-09-28 09:29:36,434.smokertemp_consumer.INFO                               
+2023-09-28 09:29:36,434.smokertemp_consumer.INFO  [x] Received 05/22/21 13:17:15,176.8 for smoker.
+2023-09-28 09:29:36,434.smokertemp_consumer.INFO                               
+2023-09-28 09:29:36,435.smokertemp_consumer.INFO                               
+2023-09-28 09:29:36,435.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:29:36,435.smokertemp_consumer.INFO                               
+2023-09-28 09:30:06,439.smokertemp_consumer.INFO                               
+2023-09-28 09:30:06,440.smokertemp_consumer.INFO  [x] Received 05/22/21 13:18:10,177.8 for smoker.
+2023-09-28 09:30:06,440.smokertemp_consumer.INFO                               
+2023-09-28 09:30:06,440.smokertemp_consumer.INFO                               
+2023-09-28 09:30:06,440.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:30:06,440.smokertemp_consumer.INFO                               
+2023-09-28 09:30:36,445.smokertemp_consumer.INFO                               
+2023-09-28 09:30:36,445.smokertemp_consumer.INFO  [x] Received 05/22/21 13:18:15,177.8 for smoker.
+2023-09-28 09:30:36,445.smokertemp_consumer.INFO                               
+2023-09-28 09:30:36,445.smokertemp_consumer.INFO                               
+2023-09-28 09:30:36,446.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:30:36,446.smokertemp_consumer.INFO                               
+2023-09-28 09:31:06,449.smokertemp_consumer.INFO                               
+2023-09-28 09:31:06,449.smokertemp_consumer.INFO  [x] Received 05/22/21 13:19:10,178.9 for smoker.
+2023-09-28 09:31:06,449.smokertemp_consumer.INFO                               
+2023-09-28 09:31:06,449.smokertemp_consumer.INFO                               
+2023-09-28 09:31:06,449.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:31:06,449.smokertemp_consumer.INFO                               
+2023-09-28 09:31:36,454.smokertemp_consumer.INFO                               
+2023-09-28 09:31:36,454.smokertemp_consumer.INFO  [x] Received 05/22/21 13:19:15,178.9 for smoker.
+2023-09-28 09:31:36,455.smokertemp_consumer.INFO                               
+2023-09-28 09:31:36,455.smokertemp_consumer.INFO                               
+2023-09-28 09:31:36,455.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:31:36,455.smokertemp_consumer.INFO                               
+2023-09-28 09:32:06,459.smokertemp_consumer.INFO                               
+2023-09-28 09:32:06,460.smokertemp_consumer.INFO  [x] Received 05/22/21 13:20:10,180.3 for smoker.
+2023-09-28 09:32:06,460.smokertemp_consumer.INFO                               
+2023-09-28 09:32:06,460.smokertemp_consumer.INFO                               
+2023-09-28 09:32:06,461.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:32:06,461.smokertemp_consumer.INFO                               
+2023-09-28 09:32:36,465.smokertemp_consumer.INFO                               
+2023-09-28 09:32:36,465.smokertemp_consumer.INFO  [x] Received 05/22/21 13:20:15,180.3 for smoker.
+2023-09-28 09:32:36,465.smokertemp_consumer.INFO                               
+2023-09-28 09:32:36,465.smokertemp_consumer.INFO                               
+2023-09-28 09:32:36,466.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:32:36,466.smokertemp_consumer.INFO                               
+2023-09-28 09:33:06,470.smokertemp_consumer.INFO                               
+2023-09-28 09:33:06,470.smokertemp_consumer.INFO  [x] Received 05/22/21 13:21:10,181.4 for smoker.
+2023-09-28 09:33:06,470.smokertemp_consumer.INFO                               
+2023-09-28 09:33:06,471.smokertemp_consumer.INFO                               
+2023-09-28 09:33:06,471.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:33:06,471.smokertemp_consumer.INFO                               
+2023-09-28 09:33:36,475.smokertemp_consumer.INFO                               
+2023-09-28 09:33:36,475.smokertemp_consumer.INFO  [x] Received 05/22/21 13:21:15,181.4 for smoker.
+2023-09-28 09:33:36,476.smokertemp_consumer.INFO                               
+2023-09-28 09:33:36,476.smokertemp_consumer.INFO                               
+2023-09-28 09:33:36,476.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:33:36,476.smokertemp_consumer.INFO                               
+2023-09-28 09:34:06,481.smokertemp_consumer.INFO                               
+2023-09-28 09:34:06,481.smokertemp_consumer.INFO  [x] Received 05/22/21 13:22:10,182.6 for smoker.
+2023-09-28 09:34:06,481.smokertemp_consumer.INFO                               
+2023-09-28 09:34:06,481.smokertemp_consumer.INFO                               
+2023-09-28 09:34:06,481.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:34:06,482.smokertemp_consumer.INFO                               
+2023-09-28 09:34:36,486.smokertemp_consumer.INFO                               
+2023-09-28 09:34:36,486.smokertemp_consumer.INFO  [x] Received 05/22/21 13:22:15,182.6 for smoker.
+2023-09-28 09:34:36,486.smokertemp_consumer.INFO                               
+2023-09-28 09:34:36,486.smokertemp_consumer.INFO                               
+2023-09-28 09:34:36,487.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:34:36,487.smokertemp_consumer.INFO                               
+2023-09-28 09:35:06,491.smokertemp_consumer.INFO                               
+2023-09-28 09:35:06,491.smokertemp_consumer.INFO  [x] Received 05/22/21 13:23:10,183.9 for smoker.
+2023-09-28 09:35:06,491.smokertemp_consumer.INFO                               
+2023-09-28 09:35:06,492.smokertemp_consumer.INFO                               
+2023-09-28 09:35:06,492.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:35:06,492.smokertemp_consumer.INFO                               
+2023-09-28 09:35:36,496.smokertemp_consumer.INFO                               
+2023-09-28 09:35:36,497.smokertemp_consumer.INFO  [x] Received 05/22/21 13:23:15,183.9 for smoker.
+2023-09-28 09:35:36,497.smokertemp_consumer.INFO                               
+2023-09-28 09:35:36,497.smokertemp_consumer.INFO                               
+2023-09-28 09:35:36,497.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:35:36,497.smokertemp_consumer.INFO                               
+2023-09-28 09:36:06,502.smokertemp_consumer.INFO                               
+2023-09-28 09:36:06,502.smokertemp_consumer.INFO  [x] Received 05/22/21 13:24:10,184.8 for smoker.
+2023-09-28 09:36:06,502.smokertemp_consumer.INFO                               
+2023-09-28 09:36:06,502.smokertemp_consumer.INFO                               
+2023-09-28 09:36:06,502.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:36:06,503.smokertemp_consumer.INFO                               
+2023-09-28 09:36:36,508.smokertemp_consumer.INFO                               
+2023-09-28 09:36:36,508.smokertemp_consumer.INFO  [x] Received 05/22/21 13:24:15,184.8 for smoker.
+2023-09-28 09:36:36,508.smokertemp_consumer.INFO                               
+2023-09-28 09:36:36,509.smokertemp_consumer.INFO                               
+2023-09-28 09:36:36,509.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:36:36,509.smokertemp_consumer.INFO                               
+2023-09-28 09:37:06,510.smokertemp_consumer.INFO                               
+2023-09-28 09:37:06,516.smokertemp_consumer.INFO  [x] Received 05/22/21 13:25:10,186.0 for smoker.
+2023-09-28 09:37:06,517.smokertemp_consumer.INFO                               
+2023-09-28 09:37:06,517.smokertemp_consumer.INFO                               
+2023-09-28 09:37:06,517.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:37:06,517.smokertemp_consumer.INFO                               
+2023-09-28 09:37:36,528.smokertemp_consumer.INFO                               
+2023-09-28 09:37:36,528.smokertemp_consumer.INFO  [x] Received 05/22/21 13:25:15,186.0 for smoker.
+2023-09-28 09:37:36,528.smokertemp_consumer.INFO                               
+2023-09-28 09:37:36,529.smokertemp_consumer.INFO                               
+2023-09-28 09:37:36,529.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:37:36,529.smokertemp_consumer.INFO                               
+2023-09-28 09:38:06,531.smokertemp_consumer.INFO                               
+2023-09-28 09:38:06,531.smokertemp_consumer.INFO  [x] Received 05/22/21 13:26:10,187.1 for smoker.
+2023-09-28 09:38:06,532.smokertemp_consumer.INFO                               
+2023-09-28 09:38:06,532.smokertemp_consumer.INFO                               
+2023-09-28 09:38:06,532.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:38:06,532.smokertemp_consumer.INFO                               
+2023-09-28 09:38:36,542.smokertemp_consumer.INFO                               
+2023-09-28 09:38:36,542.smokertemp_consumer.INFO  [x] Received 05/22/21 13:26:15,187.1 for smoker.
+2023-09-28 09:38:36,542.smokertemp_consumer.INFO                               
+2023-09-28 09:38:36,543.smokertemp_consumer.INFO                               
+2023-09-28 09:38:36,543.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:38:36,543.smokertemp_consumer.INFO                               
+2023-09-28 09:39:06,553.smokertemp_consumer.INFO                               
+2023-09-28 09:39:06,553.smokertemp_consumer.INFO  [x] Received 05/22/21 13:27:10,211.9 for smoker.
+2023-09-28 09:39:06,554.smokertemp_consumer.INFO                               
+2023-09-28 09:39:06,554.smokertemp_consumer.INFO                               
+2023-09-28 09:39:06,554.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:39:06,554.smokertemp_consumer.INFO                               
+2023-09-28 09:39:36,564.smokertemp_consumer.INFO                               
+2023-09-28 09:39:36,564.smokertemp_consumer.INFO  [x] Received 05/22/21 13:27:15,211.9 for smoker.
+2023-09-28 09:39:36,564.smokertemp_consumer.INFO                               
+2023-09-28 09:39:36,565.smokertemp_consumer.INFO                               
+2023-09-28 09:39:36,565.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:39:36,565.smokertemp_consumer.INFO                               
+2023-09-28 09:40:06,571.smokertemp_consumer.INFO                               
+2023-09-28 09:40:06,571.smokertemp_consumer.INFO  [x] Received 05/22/21 13:28:10,215.3 for smoker.
+2023-09-28 09:40:06,571.smokertemp_consumer.INFO                               
+2023-09-28 09:40:06,571.smokertemp_consumer.INFO                               
+2023-09-28 09:40:06,571.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:40:06,572.smokertemp_consumer.INFO                               
+2023-09-28 09:40:36,572.smokertemp_consumer.INFO                               
+2023-09-28 09:40:36,579.smokertemp_consumer.INFO  [x] Received 05/22/21 13:28:15,215.3 for smoker.
+2023-09-28 09:40:36,579.smokertemp_consumer.INFO                               
+2023-09-28 09:40:36,579.smokertemp_consumer.INFO                               
+2023-09-28 09:40:36,579.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:40:36,580.smokertemp_consumer.INFO                               
+2023-09-28 09:41:06,590.smokertemp_consumer.INFO                               
+2023-09-28 09:41:06,591.smokertemp_consumer.INFO  [x] Received 05/22/21 13:29:10,217.0 for smoker.
+2023-09-28 09:41:06,591.smokertemp_consumer.INFO                               
+2023-09-28 09:41:06,591.smokertemp_consumer.INFO                               
+2023-09-28 09:41:06,591.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:41:06,591.smokertemp_consumer.INFO                               
+2023-09-28 09:41:36,601.smokertemp_consumer.INFO                               
+2023-09-28 09:41:36,601.smokertemp_consumer.INFO  [x] Received 05/22/21 13:29:15,217.0 for smoker.
+2023-09-28 09:41:36,601.smokertemp_consumer.INFO                               
+2023-09-28 09:41:36,601.smokertemp_consumer.INFO                               
+2023-09-28 09:41:36,601.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:41:36,602.smokertemp_consumer.INFO                               
+2023-09-28 09:42:06,612.smokertemp_consumer.INFO                               
+2023-09-28 09:42:06,612.smokertemp_consumer.INFO  [x] Received 05/22/21 13:30:10,218.6 for smoker.
+2023-09-28 09:42:06,612.smokertemp_consumer.INFO                               
+2023-09-28 09:42:06,613.smokertemp_consumer.INFO                               
+2023-09-28 09:42:06,613.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:42:06,613.smokertemp_consumer.INFO                               
+2023-09-28 09:42:36,620.smokertemp_consumer.INFO                               
+2023-09-28 09:42:36,620.smokertemp_consumer.INFO  [x] Received 05/22/21 13:30:15,218.6 for smoker.
+2023-09-28 09:42:36,620.smokertemp_consumer.INFO                               
+2023-09-28 09:42:36,620.smokertemp_consumer.INFO                               
+2023-09-28 09:42:36,620.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:42:36,621.smokertemp_consumer.INFO                               
+2023-09-28 09:43:06,631.smokertemp_consumer.INFO                               
+2023-09-28 09:43:06,631.smokertemp_consumer.INFO  [x] Received 05/22/21 13:31:10,218.5 for smoker.
+2023-09-28 09:43:06,631.smokertemp_consumer.INFO                               
+2023-09-28 09:43:06,631.smokertemp_consumer.INFO                               
+2023-09-28 09:43:06,632.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:43:06,632.smokertemp_consumer.INFO                               
+2023-09-28 09:43:36,642.smokertemp_consumer.INFO                               
+2023-09-28 09:43:36,642.smokertemp_consumer.INFO  [x] Received 05/22/21 13:31:15,218.5 for smoker.
+2023-09-28 09:43:36,642.smokertemp_consumer.INFO                               
+2023-09-28 09:43:36,643.smokertemp_consumer.INFO                               
+2023-09-28 09:43:36,643.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:43:36,643.smokertemp_consumer.INFO                               
+2023-09-28 09:44:06,653.smokertemp_consumer.INFO                               
+2023-09-28 09:44:06,653.smokertemp_consumer.INFO  [x] Received 05/22/21 13:32:10,219.4 for smoker.
+2023-09-28 09:44:06,654.smokertemp_consumer.INFO                               
+2023-09-28 09:44:06,654.smokertemp_consumer.INFO                               
+2023-09-28 09:44:06,654.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:44:06,654.smokertemp_consumer.INFO                               
+2023-09-28 09:44:36,659.smokertemp_consumer.INFO                               
+2023-09-28 09:44:36,660.smokertemp_consumer.INFO  [x] Received 05/22/21 13:32:15,219.4 for smoker.
+2023-09-28 09:44:36,660.smokertemp_consumer.INFO                               
+2023-09-28 09:44:36,660.smokertemp_consumer.INFO                               
+2023-09-28 09:44:36,660.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:44:36,660.smokertemp_consumer.INFO                               
+2023-09-28 09:45:06,670.smokertemp_consumer.INFO                               
+2023-09-28 09:45:06,670.smokertemp_consumer.INFO  [x] Received 05/22/21 13:33:10,220.5 for smoker.
+2023-09-28 09:45:06,670.smokertemp_consumer.INFO                               
+2023-09-28 09:45:06,670.smokertemp_consumer.INFO                               
+2023-09-28 09:45:06,671.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:45:06,671.smokertemp_consumer.INFO                               
+2023-09-28 09:45:36,681.smokertemp_consumer.INFO                               
+2023-09-28 09:45:36,682.smokertemp_consumer.INFO  [x] Received 05/22/21 13:33:15,220.5 for smoker.
+2023-09-28 09:45:36,682.smokertemp_consumer.INFO                               
+2023-09-28 09:45:36,682.smokertemp_consumer.INFO                               
+2023-09-28 09:45:36,682.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:45:36,682.smokertemp_consumer.INFO                               
+2023-09-28 09:46:06,690.smokertemp_consumer.INFO                               
+2023-09-28 09:46:06,690.smokertemp_consumer.INFO  [x] Received 05/22/21 13:34:10,220.7 for smoker.
+2023-09-28 09:46:06,690.smokertemp_consumer.INFO                               
+2023-09-28 09:46:06,691.smokertemp_consumer.INFO                               
+2023-09-28 09:46:06,691.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:46:06,691.smokertemp_consumer.INFO                               
+2023-09-28 09:46:36,696.smokertemp_consumer.INFO                               
+2023-09-28 09:46:36,696.smokertemp_consumer.INFO  [x] Received 05/22/21 13:34:15,220.7 for smoker.
+2023-09-28 09:46:36,696.smokertemp_consumer.INFO                               
+2023-09-28 09:46:36,697.smokertemp_consumer.INFO                               
+2023-09-28 09:46:36,697.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:46:36,697.smokertemp_consumer.INFO                               
+2023-09-28 09:47:06,697.smokertemp_consumer.INFO                               
+2023-09-28 09:47:06,697.smokertemp_consumer.INFO  [x] Received 05/22/21 13:35:10,222.5 for smoker.
+2023-09-28 09:47:06,697.smokertemp_consumer.INFO                               
+2023-09-28 09:47:06,698.smokertemp_consumer.INFO                               
+2023-09-28 09:47:06,698.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:47:06,698.smokertemp_consumer.INFO                               
+2023-09-28 09:47:36,699.smokertemp_consumer.INFO                               
+2023-09-28 09:47:36,699.smokertemp_consumer.INFO  [x] Received 05/22/21 13:35:15,222.5 for smoker.
+2023-09-28 09:47:36,699.smokertemp_consumer.INFO                               
+2023-09-28 09:47:36,699.smokertemp_consumer.INFO                               
+2023-09-28 09:47:36,699.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:47:36,699.smokertemp_consumer.INFO                               
+2023-09-28 09:48:06,709.smokertemp_consumer.INFO                               
+2023-09-28 09:48:06,710.smokertemp_consumer.INFO  [x] Received 05/22/21 13:36:10,223.0 for smoker.
+2023-09-28 09:48:06,710.smokertemp_consumer.INFO                               
+2023-09-28 09:48:06,710.smokertemp_consumer.INFO                               
+2023-09-28 09:48:06,710.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:48:06,710.smokertemp_consumer.INFO                               
+2023-09-28 09:48:36,712.smokertemp_consumer.INFO                               
+2023-09-28 09:48:36,713.smokertemp_consumer.INFO  [x] Received 05/22/21 13:36:15,223.0 for smoker.
+2023-09-28 09:48:36,713.smokertemp_consumer.INFO                               
+2023-09-28 09:48:36,713.smokertemp_consumer.INFO                               
+2023-09-28 09:48:36,713.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:48:36,713.smokertemp_consumer.INFO                               
+2023-09-28 09:49:06,717.smokertemp_consumer.INFO                               
+2023-09-28 09:49:06,717.smokertemp_consumer.INFO  [x] Received 05/22/21 13:37:10,224.7 for smoker.
+2023-09-28 09:49:06,717.smokertemp_consumer.INFO                               
+2023-09-28 09:49:06,718.smokertemp_consumer.INFO                               
+2023-09-28 09:49:06,718.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:49:06,718.smokertemp_consumer.INFO                               
+2023-09-28 09:49:36,720.smokertemp_consumer.INFO                               
+2023-09-28 09:49:36,720.smokertemp_consumer.INFO  [x] Received 05/22/21 13:37:15,224.7 for smoker.
+2023-09-28 09:49:36,721.smokertemp_consumer.INFO                               
+2023-09-28 09:49:36,721.smokertemp_consumer.INFO                               
+2023-09-28 09:49:36,721.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:49:36,721.smokertemp_consumer.INFO                               
+2023-09-28 09:50:06,733.smokertemp_consumer.INFO                               
+2023-09-28 09:50:06,733.smokertemp_consumer.INFO  [x] Received 05/22/21 13:38:10,224.2 for smoker.
+2023-09-28 09:50:06,733.smokertemp_consumer.INFO                               
+2023-09-28 09:50:06,733.smokertemp_consumer.INFO                               
+2023-09-28 09:50:06,733.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:50:06,734.smokertemp_consumer.INFO                               
+2023-09-28 09:50:36,743.smokertemp_consumer.INFO                               
+2023-09-28 09:50:36,743.smokertemp_consumer.INFO  [x] Received 05/22/21 13:38:15,224.2 for smoker.
+2023-09-28 09:50:36,743.smokertemp_consumer.INFO                               
+2023-09-28 09:50:36,743.smokertemp_consumer.INFO                               
+2023-09-28 09:50:36,743.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:50:36,744.smokertemp_consumer.INFO                               
+2023-09-28 09:51:06,754.smokertemp_consumer.INFO                               
+2023-09-28 09:51:06,754.smokertemp_consumer.INFO  [x] Received 05/22/21 13:39:10,223.6 for smoker.
+2023-09-28 09:51:06,754.smokertemp_consumer.INFO                               
+2023-09-28 09:51:06,755.smokertemp_consumer.INFO                               
+2023-09-28 09:51:06,755.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:51:06,755.smokertemp_consumer.INFO                               
+2023-09-28 09:51:36,765.smokertemp_consumer.INFO                               
+2023-09-28 09:51:36,765.smokertemp_consumer.INFO  [x] Received 05/22/21 13:39:15,223.6 for smoker.
+2023-09-28 09:51:36,765.smokertemp_consumer.INFO                               
+2023-09-28 09:51:36,765.smokertemp_consumer.INFO                               
+2023-09-28 09:51:36,765.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:51:36,766.smokertemp_consumer.INFO                               
+2023-09-28 09:52:06,775.smokertemp_consumer.INFO                               
+2023-09-28 09:52:06,775.smokertemp_consumer.INFO  [x] Received 05/22/21 13:40:10,224.6 for smoker.
+2023-09-28 09:52:06,775.smokertemp_consumer.INFO                               
+2023-09-28 09:52:06,776.smokertemp_consumer.INFO                               
+2023-09-28 09:52:06,776.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:52:06,776.smokertemp_consumer.INFO                               
+2023-09-28 09:52:36,785.smokertemp_consumer.INFO                               
+2023-09-28 09:52:36,785.smokertemp_consumer.INFO  [x] Received 05/22/21 13:40:15,224.6 for smoker.
+2023-09-28 09:52:36,786.smokertemp_consumer.INFO                               
+2023-09-28 09:52:36,786.smokertemp_consumer.INFO                               
+2023-09-28 09:52:36,786.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:52:36,786.smokertemp_consumer.INFO                               
+2023-09-28 09:53:06,796.smokertemp_consumer.INFO                               
+2023-09-28 09:53:06,796.smokertemp_consumer.INFO  [x] Received 05/22/21 13:41:10,224.3 for smoker.
+2023-09-28 09:53:06,797.smokertemp_consumer.INFO                               
+2023-09-28 09:53:06,797.smokertemp_consumer.INFO                               
+2023-09-28 09:53:06,797.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:53:06,797.smokertemp_consumer.INFO                               
+2023-09-28 09:53:36,808.smokertemp_consumer.INFO                               
+2023-09-28 09:53:36,808.smokertemp_consumer.INFO  [x] Received 05/22/21 13:41:15,224.3 for smoker.
+2023-09-28 09:53:36,809.smokertemp_consumer.INFO                               
+2023-09-28 09:53:36,809.smokertemp_consumer.INFO                               
+2023-09-28 09:53:36,809.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:53:36,809.smokertemp_consumer.INFO                               
+2023-09-28 09:54:06,819.smokertemp_consumer.INFO                               
+2023-09-28 09:54:06,819.smokertemp_consumer.INFO  [x] Received 05/22/21 13:42:10,226.6 for smoker.
+2023-09-28 09:54:06,819.smokertemp_consumer.INFO                               
+2023-09-28 09:54:06,819.smokertemp_consumer.INFO                               
+2023-09-28 09:54:06,819.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:54:06,820.smokertemp_consumer.INFO                               
+2023-09-28 09:54:36,830.smokertemp_consumer.INFO                               
+2023-09-28 09:54:36,830.smokertemp_consumer.INFO  [x] Received 05/22/21 13:42:15,226.6 for smoker.
+2023-09-28 09:54:36,830.smokertemp_consumer.INFO                               
+2023-09-28 09:54:36,831.smokertemp_consumer.INFO                               
+2023-09-28 09:54:36,831.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:54:36,831.smokertemp_consumer.INFO                               
+2023-09-28 09:55:06,841.smokertemp_consumer.INFO                               
+2023-09-28 09:55:06,841.smokertemp_consumer.INFO  [x] Received 05/22/21 13:43:10,229.0 for smoker.
+2023-09-28 09:55:06,841.smokertemp_consumer.INFO                               
+2023-09-28 09:55:06,841.smokertemp_consumer.INFO                               
+2023-09-28 09:55:06,841.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:55:06,842.smokertemp_consumer.INFO                               
+2023-09-28 09:55:36,852.smokertemp_consumer.INFO                               
+2023-09-28 09:55:36,852.smokertemp_consumer.INFO  [x] Received 05/22/21 13:43:15,229.0 for smoker.
+2023-09-28 09:55:36,852.smokertemp_consumer.INFO                               
+2023-09-28 09:55:36,853.smokertemp_consumer.INFO                               
+2023-09-28 09:55:36,853.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:55:36,853.smokertemp_consumer.INFO                               
+2023-09-28 09:56:06,856.smokertemp_consumer.INFO                               
+2023-09-28 09:56:06,856.smokertemp_consumer.INFO  [x] Received 05/22/21 13:44:10,232.8 for smoker.
+2023-09-28 09:56:06,856.smokertemp_consumer.INFO                               
+2023-09-28 09:56:06,856.smokertemp_consumer.INFO                               
+2023-09-28 09:56:06,857.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:56:06,857.smokertemp_consumer.INFO                               
+2023-09-28 09:56:36,867.smokertemp_consumer.INFO                               
+2023-09-28 09:56:36,867.smokertemp_consumer.INFO  [x] Received 05/22/21 13:44:15,232.8 for smoker.
+2023-09-28 09:56:36,867.smokertemp_consumer.INFO                               
+2023-09-28 09:56:36,868.smokertemp_consumer.INFO                               
+2023-09-28 09:56:36,868.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:56:36,868.smokertemp_consumer.INFO                               
+2023-09-28 09:57:06,878.smokertemp_consumer.INFO                               
+2023-09-28 09:57:06,878.smokertemp_consumer.INFO  [x] Received 05/22/21 13:45:10,237.9 for smoker.
+2023-09-28 09:57:06,878.smokertemp_consumer.INFO                               
+2023-09-28 09:57:06,878.smokertemp_consumer.INFO                               
+2023-09-28 09:57:06,879.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:57:06,879.smokertemp_consumer.INFO                               
+2023-09-28 09:57:36,881.smokertemp_consumer.INFO                               
+2023-09-28 09:57:36,881.smokertemp_consumer.INFO  [x] Received 05/22/21 13:45:15,237.9 for smoker.
+2023-09-28 09:57:36,882.smokertemp_consumer.INFO                               
+2023-09-28 09:57:36,882.smokertemp_consumer.INFO                               
+2023-09-28 09:57:36,882.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:57:36,882.smokertemp_consumer.INFO                               
+2023-09-28 09:58:06,885.smokertemp_consumer.INFO                               
+2023-09-28 09:58:06,886.smokertemp_consumer.INFO  [x] Received 05/22/21 13:46:10,200.2 for smoker.
+2023-09-28 09:58:06,886.smokertemp_consumer.INFO                               
+2023-09-28 09:58:06,886.smokertemp_consumer.INFO                               
+2023-09-28 09:58:06,886.smokertemp_consumer.INFO Smoker Alert at 05/22/21 13:46:10
+2023-09-28 09:58:06,886.smokertemp_consumer.INFO The smoker temp has fallen by more than 15 degrees!
+2023-09-28 09:58:06,887.smokertemp_consumer.INFO                               
+2023-09-28 09:58:06,887.smokertemp_consumer.INFO                               
+2023-09-28 09:58:06,887.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:58:06,887.smokertemp_consumer.INFO                               
+2023-09-28 09:58:36,897.smokertemp_consumer.INFO                               
+2023-09-28 09:58:36,897.smokertemp_consumer.INFO  [x] Received 05/22/21 13:46:15,200.2 for smoker.
+2023-09-28 09:58:36,897.smokertemp_consumer.INFO                               
+2023-09-28 09:58:36,897.smokertemp_consumer.INFO                               
+2023-09-28 09:58:36,897.smokertemp_consumer.INFO Smoker Alert at 05/22/21 13:46:15
+2023-09-28 09:58:36,898.smokertemp_consumer.INFO The smoker temp has fallen by more than 15 degrees!
+2023-09-28 09:58:36,898.smokertemp_consumer.INFO                               
+2023-09-28 09:58:36,898.smokertemp_consumer.INFO                               
+2023-09-28 09:58:36,898.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:58:36,898.smokertemp_consumer.INFO                               
+2023-09-28 09:59:06,906.smokertemp_consumer.INFO                               
+2023-09-28 09:59:06,906.smokertemp_consumer.INFO  [x] Received 05/22/21 13:46:35, for smoker.
+2023-09-28 09:59:06,906.smokertemp_consumer.INFO                               
+2023-09-28 09:59:06,906.smokertemp_consumer.INFO                               
+2023-09-28 09:59:06,906.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:59:06,906.smokertemp_consumer.INFO                               
+2023-09-28 09:59:36,917.smokertemp_consumer.INFO                               
+2023-09-28 09:59:36,917.smokertemp_consumer.INFO  [x] Received 05/22/21 13:46:40, for smoker.
+2023-09-28 09:59:36,917.smokertemp_consumer.INFO                               
+2023-09-28 09:59:36,917.smokertemp_consumer.INFO                               
+2023-09-28 09:59:36,918.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 09:59:36,918.smokertemp_consumer.INFO                               
+2023-09-28 10:00:06,928.smokertemp_consumer.INFO                               
+2023-09-28 10:00:06,928.smokertemp_consumer.INFO  [x] Received 05/22/21 13:46:45, for smoker.
+2023-09-28 10:00:06,928.smokertemp_consumer.INFO                               
+2023-09-28 10:00:06,928.smokertemp_consumer.INFO                               
+2023-09-28 10:00:06,929.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:00:06,929.smokertemp_consumer.INFO                               
+2023-09-28 10:00:36,939.smokertemp_consumer.INFO                               
+2023-09-28 10:00:36,939.smokertemp_consumer.INFO  [x] Received 05/22/21 13:47:10,205.9 for smoker.
+2023-09-28 10:00:36,939.smokertemp_consumer.INFO                               
+2023-09-28 10:00:36,939.smokertemp_consumer.INFO                               
+2023-09-28 10:00:36,940.smokertemp_consumer.INFO Smoker Alert at 05/22/21 13:47:10
+2023-09-28 10:00:36,940.smokertemp_consumer.INFO The smoker temp has fallen by more than 15 degrees!
+2023-09-28 10:00:36,940.smokertemp_consumer.INFO                               
+2023-09-28 10:00:36,940.smokertemp_consumer.INFO                               
+2023-09-28 10:00:36,940.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:00:36,940.smokertemp_consumer.INFO                               
+2023-09-28 10:01:06,944.smokertemp_consumer.INFO                               
+2023-09-28 10:01:06,944.smokertemp_consumer.INFO  [x] Received 05/22/21 13:47:15,205.9 for smoker.
+2023-09-28 10:01:06,944.smokertemp_consumer.INFO                               
+2023-09-28 10:01:06,944.smokertemp_consumer.INFO                               
+2023-09-28 10:01:06,945.smokertemp_consumer.INFO Smoker Alert at 05/22/21 13:47:15
+2023-09-28 10:01:06,945.smokertemp_consumer.INFO The smoker temp has fallen by more than 15 degrees!
+2023-09-28 10:01:06,945.smokertemp_consumer.INFO                               
+2023-09-28 10:01:06,945.smokertemp_consumer.INFO                               
+2023-09-28 10:01:06,945.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:01:06,945.smokertemp_consumer.INFO                               
+2023-09-28 10:01:36,955.smokertemp_consumer.INFO                               
+2023-09-28 10:01:36,955.smokertemp_consumer.INFO  [x] Received 05/22/21 13:47:35, for smoker.
+2023-09-28 10:01:36,955.smokertemp_consumer.INFO                               
+2023-09-28 10:01:36,956.smokertemp_consumer.INFO                               
+2023-09-28 10:01:36,956.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:01:36,956.smokertemp_consumer.INFO                               
+2023-09-28 10:02:06,966.smokertemp_consumer.INFO                               
+2023-09-28 10:02:06,967.smokertemp_consumer.INFO  [x] Received 05/22/21 13:47:40, for smoker.
+2023-09-28 10:02:06,967.smokertemp_consumer.INFO                               
+2023-09-28 10:02:06,967.smokertemp_consumer.INFO                               
+2023-09-28 10:02:06,967.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:02:06,967.smokertemp_consumer.INFO                               
+2023-09-28 10:02:36,976.smokertemp_consumer.INFO                               
+2023-09-28 10:02:36,977.smokertemp_consumer.INFO  [x] Received 05/22/21 13:47:45, for smoker.
+2023-09-28 10:02:36,977.smokertemp_consumer.INFO                               
+2023-09-28 10:02:36,977.smokertemp_consumer.INFO                               
+2023-09-28 10:02:36,977.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:02:36,977.smokertemp_consumer.INFO                               
+2023-09-28 10:03:06,987.smokertemp_consumer.INFO                               
+2023-09-28 10:03:06,988.smokertemp_consumer.INFO  [x] Received 05/22/21 13:48:10,230.0 for smoker.
+2023-09-28 10:03:06,988.smokertemp_consumer.INFO                               
+2023-09-28 10:03:06,988.smokertemp_consumer.INFO                               
+2023-09-28 10:03:06,988.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:03:06,988.smokertemp_consumer.INFO                               
+2023-09-28 10:03:36,999.smokertemp_consumer.INFO                               
+2023-09-28 10:03:36,999.smokertemp_consumer.INFO  [x] Received 05/22/21 13:48:15,230.0 for smoker.
+2023-09-28 10:03:36,999.smokertemp_consumer.INFO                               
+2023-09-28 10:03:36,999.smokertemp_consumer.INFO                               
+2023-09-28 10:03:36,999.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:03:36,999.smokertemp_consumer.INFO                               
+2023-09-28 10:04:07,010.smokertemp_consumer.INFO                               
+2023-09-28 10:04:07,010.smokertemp_consumer.INFO  [x] Received 05/22/21 13:48:35, for smoker.
+2023-09-28 10:04:07,010.smokertemp_consumer.INFO                               
+2023-09-28 10:04:07,010.smokertemp_consumer.INFO                               
+2023-09-28 10:04:07,010.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:04:07,011.smokertemp_consumer.INFO                               
+2023-09-28 10:04:37,018.smokertemp_consumer.INFO                               
+2023-09-28 10:04:37,018.smokertemp_consumer.INFO  [x] Received 05/22/21 13:48:40, for smoker.
+2023-09-28 10:04:37,018.smokertemp_consumer.INFO                               
+2023-09-28 10:04:37,019.smokertemp_consumer.INFO                               
+2023-09-28 10:04:37,019.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:04:37,019.smokertemp_consumer.INFO                               
+2023-09-28 10:05:07,029.smokertemp_consumer.INFO                               
+2023-09-28 10:05:07,029.smokertemp_consumer.INFO  [x] Received 05/22/21 13:48:45, for smoker.
+2023-09-28 10:05:07,030.smokertemp_consumer.INFO                               
+2023-09-28 10:05:07,030.smokertemp_consumer.INFO                               
+2023-09-28 10:05:07,030.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:05:07,030.smokertemp_consumer.INFO                               
+2023-09-28 10:05:37,040.smokertemp_consumer.INFO                               
+2023-09-28 10:05:37,040.smokertemp_consumer.INFO  [x] Received 05/22/21 13:49:10,239.6 for smoker.
+2023-09-28 10:05:37,041.smokertemp_consumer.INFO                               
+2023-09-28 10:05:37,041.smokertemp_consumer.INFO                               
+2023-09-28 10:05:37,041.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:05:37,041.smokertemp_consumer.INFO                               
+2023-09-28 10:06:07,043.smokertemp_consumer.INFO                               
+2023-09-28 10:06:07,043.smokertemp_consumer.INFO  [x] Received 05/22/21 13:49:15,239.6 for smoker.
+2023-09-28 10:06:07,044.smokertemp_consumer.INFO                               
+2023-09-28 10:06:07,044.smokertemp_consumer.INFO                               
+2023-09-28 10:06:07,044.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:06:07,044.smokertemp_consumer.INFO                               
+2023-09-28 10:06:37,048.smokertemp_consumer.INFO                               
+2023-09-28 10:06:37,048.smokertemp_consumer.INFO  [x] Received 05/22/21 13:49:35, for smoker.
+2023-09-28 10:06:37,048.smokertemp_consumer.INFO                               
+2023-09-28 10:06:37,048.smokertemp_consumer.INFO                               
+2023-09-28 10:06:37,049.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:06:37,049.smokertemp_consumer.INFO                               
+2023-09-28 10:07:07,052.smokertemp_consumer.INFO                               
+2023-09-28 10:07:07,052.smokertemp_consumer.INFO  [x] Received 05/22/21 13:49:40, for smoker.
+2023-09-28 10:07:07,052.smokertemp_consumer.INFO                               
+2023-09-28 10:07:07,053.smokertemp_consumer.INFO                               
+2023-09-28 10:07:07,053.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:07:07,053.smokertemp_consumer.INFO                               
+2023-09-28 10:07:37,061.smokertemp_consumer.INFO                               
+2023-09-28 10:07:37,061.smokertemp_consumer.INFO  [x] Received 05/22/21 13:49:45, for smoker.
+2023-09-28 10:07:37,061.smokertemp_consumer.INFO                               
+2023-09-28 10:07:37,061.smokertemp_consumer.INFO                               
+2023-09-28 10:07:37,062.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:07:37,062.smokertemp_consumer.INFO                               
+2023-09-28 10:08:07,071.smokertemp_consumer.INFO                               
+2023-09-28 10:08:07,071.smokertemp_consumer.INFO  [x] Received 05/22/21 13:50:10,242.4 for smoker.
+2023-09-28 10:08:07,071.smokertemp_consumer.INFO                               
+2023-09-28 10:08:07,072.smokertemp_consumer.INFO                               
+2023-09-28 10:08:07,072.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:08:07,072.smokertemp_consumer.INFO                               
+2023-09-28 10:08:37,076.smokertemp_consumer.INFO                               
+2023-09-28 10:08:37,076.smokertemp_consumer.INFO  [x] Received 05/22/21 13:50:15,242.4 for smoker.
+2023-09-28 10:08:37,076.smokertemp_consumer.INFO                               
+2023-09-28 10:08:37,077.smokertemp_consumer.INFO                               
+2023-09-28 10:08:37,077.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:08:37,077.smokertemp_consumer.INFO                               
+2023-09-28 10:09:07,078.smokertemp_consumer.INFO                               
+2023-09-28 10:09:07,079.smokertemp_consumer.INFO  [x] Received 05/22/21 13:50:35, for smoker.
+2023-09-28 10:09:07,079.smokertemp_consumer.INFO                               
+2023-09-28 10:09:07,079.smokertemp_consumer.INFO                               
+2023-09-28 10:09:07,079.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:09:07,080.smokertemp_consumer.INFO                               
+2023-09-28 10:09:37,089.smokertemp_consumer.INFO                               
+2023-09-28 10:09:37,090.smokertemp_consumer.INFO  [x] Received 05/22/21 13:50:40, for smoker.
+2023-09-28 10:09:37,090.smokertemp_consumer.INFO                               
+2023-09-28 10:09:37,090.smokertemp_consumer.INFO                               
+2023-09-28 10:09:37,090.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:09:37,090.smokertemp_consumer.INFO                               
+2023-09-28 10:10:07,101.smokertemp_consumer.INFO                               
+2023-09-28 10:10:07,101.smokertemp_consumer.INFO  [x] Received 05/22/21 13:50:45, for smoker.
+2023-09-28 10:10:07,101.smokertemp_consumer.INFO                               
+2023-09-28 10:10:07,101.smokertemp_consumer.INFO                               
+2023-09-28 10:10:07,101.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:10:07,101.smokertemp_consumer.INFO                               
+2023-09-28 10:10:37,112.smokertemp_consumer.INFO                               
+2023-09-28 10:10:37,112.smokertemp_consumer.INFO  [x] Received 05/22/21 13:51:10,243.1 for smoker.
+2023-09-28 10:10:37,112.smokertemp_consumer.INFO                               
+2023-09-28 10:10:37,113.smokertemp_consumer.INFO                               
+2023-09-28 10:10:37,113.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:10:37,113.smokertemp_consumer.INFO                               
+2023-09-28 10:11:07,123.smokertemp_consumer.INFO                               
+2023-09-28 10:11:07,123.smokertemp_consumer.INFO  [x] Received 05/22/21 13:51:15,243.1 for smoker.
+2023-09-28 10:11:07,123.smokertemp_consumer.INFO                               
+2023-09-28 10:11:07,123.smokertemp_consumer.INFO                               
+2023-09-28 10:11:07,124.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:11:07,124.smokertemp_consumer.INFO                               
+2023-09-28 10:11:37,134.smokertemp_consumer.INFO                               
+2023-09-28 10:11:37,134.smokertemp_consumer.INFO  [x] Received 05/22/21 13:51:35, for smoker.
+2023-09-28 10:11:37,134.smokertemp_consumer.INFO                               
+2023-09-28 10:11:37,135.smokertemp_consumer.INFO                               
+2023-09-28 10:11:37,135.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:11:37,135.smokertemp_consumer.INFO                               
+2023-09-28 10:12:07,145.smokertemp_consumer.INFO                               
+2023-09-28 10:12:07,146.smokertemp_consumer.INFO  [x] Received 05/22/21 13:51:40, for smoker.
+2023-09-28 10:12:07,146.smokertemp_consumer.INFO                               
+2023-09-28 10:12:07,146.smokertemp_consumer.INFO                               
+2023-09-28 10:12:07,146.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:12:07,146.smokertemp_consumer.INFO                               
+2023-09-28 10:12:37,157.smokertemp_consumer.INFO                               
+2023-09-28 10:12:37,158.smokertemp_consumer.INFO  [x] Received 05/22/21 13:51:45, for smoker.
+2023-09-28 10:12:37,158.smokertemp_consumer.INFO                               
+2023-09-28 10:12:37,158.smokertemp_consumer.INFO                               
+2023-09-28 10:12:37,158.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:12:37,158.smokertemp_consumer.INFO                               
+2023-09-28 10:13:07,159.smokertemp_consumer.INFO                               
+2023-09-28 10:13:07,159.smokertemp_consumer.INFO  [x] Received 05/22/21 13:52:10,242.6 for smoker.
+2023-09-28 10:13:07,159.smokertemp_consumer.INFO                               
+2023-09-28 10:13:07,159.smokertemp_consumer.INFO                               
+2023-09-28 10:13:07,160.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:13:07,160.smokertemp_consumer.INFO                               
+2023-09-28 10:13:37,164.smokertemp_consumer.INFO                               
+2023-09-28 10:13:37,164.smokertemp_consumer.INFO  [x] Received 05/22/21 13:52:15,242.6 for smoker.
+2023-09-28 10:13:37,164.smokertemp_consumer.INFO                               
+2023-09-28 10:13:37,164.smokertemp_consumer.INFO                               
+2023-09-28 10:13:37,165.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:13:37,165.smokertemp_consumer.INFO                               
+2023-09-28 10:14:07,175.smokertemp_consumer.INFO                               
+2023-09-28 10:14:07,175.smokertemp_consumer.INFO  [x] Received 05/22/21 13:52:35, for smoker.
+2023-09-28 10:14:07,175.smokertemp_consumer.INFO                               
+2023-09-28 10:14:07,175.smokertemp_consumer.INFO                               
+2023-09-28 10:14:07,176.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:14:07,176.smokertemp_consumer.INFO                               
+2023-09-28 10:14:37,186.smokertemp_consumer.INFO                               
+2023-09-28 10:14:37,186.smokertemp_consumer.INFO  [x] Received 05/22/21 13:52:40, for smoker.
+2023-09-28 10:14:37,187.smokertemp_consumer.INFO                               
+2023-09-28 10:14:37,187.smokertemp_consumer.INFO                               
+2023-09-28 10:14:37,187.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:14:37,187.smokertemp_consumer.INFO                               
+2023-09-28 10:15:07,197.smokertemp_consumer.INFO                               
+2023-09-28 10:15:07,197.smokertemp_consumer.INFO  [x] Received 05/22/21 13:52:45, for smoker.
+2023-09-28 10:15:07,198.smokertemp_consumer.INFO                               
+2023-09-28 10:15:07,198.smokertemp_consumer.INFO                               
+2023-09-28 10:15:07,198.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:15:07,198.smokertemp_consumer.INFO                               
+2023-09-28 10:15:37,208.smokertemp_consumer.INFO                               
+2023-09-28 10:15:37,208.smokertemp_consumer.INFO  [x] Received 05/22/21 13:53:10,241.7 for smoker.
+2023-09-28 10:15:37,208.smokertemp_consumer.INFO                               
+2023-09-28 10:15:37,208.smokertemp_consumer.INFO                               
+2023-09-28 10:15:37,208.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:15:37,209.smokertemp_consumer.INFO                               
+2023-09-28 10:16:07,216.smokertemp_consumer.INFO                               
+2023-09-28 10:16:07,216.smokertemp_consumer.INFO  [x] Received 05/22/21 13:53:15,241.7 for smoker.
+2023-09-28 10:16:07,216.smokertemp_consumer.INFO                               
+2023-09-28 10:16:07,216.smokertemp_consumer.INFO                               
+2023-09-28 10:16:07,216.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:16:07,216.smokertemp_consumer.INFO                               
+2023-09-28 10:16:37,227.smokertemp_consumer.INFO                               
+2023-09-28 10:16:37,227.smokertemp_consumer.INFO  [x] Received 05/22/21 13:53:35, for smoker.
+2023-09-28 10:16:37,227.smokertemp_consumer.INFO                               
+2023-09-28 10:16:37,227.smokertemp_consumer.INFO                               
+2023-09-28 10:16:37,227.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:16:37,228.smokertemp_consumer.INFO                               
+2023-09-28 10:17:07,227.smokertemp_consumer.INFO                               
+2023-09-28 10:17:07,228.smokertemp_consumer.INFO  [x] Received 05/22/21 13:53:40, for smoker.
+2023-09-28 10:17:07,228.smokertemp_consumer.INFO                               
+2023-09-28 10:17:07,228.smokertemp_consumer.INFO                               
+2023-09-28 10:17:07,228.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:17:07,228.smokertemp_consumer.INFO                               
+2023-09-28 10:17:37,238.smokertemp_consumer.INFO                               
+2023-09-28 10:17:37,238.smokertemp_consumer.INFO  [x] Received 05/22/21 13:53:45, for smoker.
+2023-09-28 10:17:37,239.smokertemp_consumer.INFO                               
+2023-09-28 10:17:37,239.smokertemp_consumer.INFO                               
+2023-09-28 10:17:37,239.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:17:37,239.smokertemp_consumer.INFO                               
+2023-09-28 10:18:07,242.smokertemp_consumer.INFO                               
+2023-09-28 10:18:07,242.smokertemp_consumer.INFO  [x] Received 05/22/21 13:54:10,241.4 for smoker.
+2023-09-28 10:18:07,243.smokertemp_consumer.INFO                               
+2023-09-28 10:18:07,243.smokertemp_consumer.INFO                               
+2023-09-28 10:18:07,243.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:18:07,243.smokertemp_consumer.INFO                               
+2023-09-28 10:18:37,254.smokertemp_consumer.INFO                               
+2023-09-28 10:18:37,254.smokertemp_consumer.INFO  [x] Received 05/22/21 13:54:15,241.4 for smoker.
+2023-09-28 10:18:37,254.smokertemp_consumer.INFO                               
+2023-09-28 10:18:37,254.smokertemp_consumer.INFO                               
+2023-09-28 10:18:37,255.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:18:37,255.smokertemp_consumer.INFO                               
+2023-09-28 10:19:07,264.smokertemp_consumer.INFO                               
+2023-09-28 10:19:07,264.smokertemp_consumer.INFO  [x] Received 05/22/21 13:54:35, for smoker.
+2023-09-28 10:19:07,265.smokertemp_consumer.INFO                               
+2023-09-28 10:19:07,265.smokertemp_consumer.INFO                               
+2023-09-28 10:19:07,265.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:19:07,265.smokertemp_consumer.INFO                               
+2023-09-28 10:19:37,275.smokertemp_consumer.INFO                               
+2023-09-28 10:19:37,275.smokertemp_consumer.INFO  [x] Received 05/22/21 13:54:40, for smoker.
+2023-09-28 10:19:37,276.smokertemp_consumer.INFO                               
+2023-09-28 10:19:37,276.smokertemp_consumer.INFO                               
+2023-09-28 10:19:37,276.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:19:37,276.smokertemp_consumer.INFO                               
+2023-09-28 10:20:07,285.smokertemp_consumer.INFO                               
+2023-09-28 10:20:07,285.smokertemp_consumer.INFO  [x] Received 05/22/21 13:54:45, for smoker.
+2023-09-28 10:20:07,285.smokertemp_consumer.INFO                               
+2023-09-28 10:20:07,285.smokertemp_consumer.INFO                               
+2023-09-28 10:20:07,285.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:20:07,286.smokertemp_consumer.INFO                               
+2023-09-28 10:20:37,289.smokertemp_consumer.INFO                               
+2023-09-28 10:20:37,289.smokertemp_consumer.INFO  [x] Received 05/22/21 13:55:10,242.1 for smoker.
+2023-09-28 10:20:37,289.smokertemp_consumer.INFO                               
+2023-09-28 10:20:37,290.smokertemp_consumer.INFO                               
+2023-09-28 10:20:37,290.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:20:37,290.smokertemp_consumer.INFO                               
+2023-09-28 10:21:07,300.smokertemp_consumer.INFO                               
+2023-09-28 10:21:07,300.smokertemp_consumer.INFO  [x] Received 05/22/21 13:55:15,242.1 for smoker.
+2023-09-28 10:21:07,300.smokertemp_consumer.INFO                               
+2023-09-28 10:21:07,300.smokertemp_consumer.INFO                               
+2023-09-28 10:21:07,301.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:21:07,301.smokertemp_consumer.INFO                               
+2023-09-28 10:21:37,310.smokertemp_consumer.INFO                               
+2023-09-28 10:21:37,310.smokertemp_consumer.INFO  [x] Received 05/22/21 13:55:35, for smoker.
+2023-09-28 10:21:37,311.smokertemp_consumer.INFO                               
+2023-09-28 10:21:37,311.smokertemp_consumer.INFO                               
+2023-09-28 10:21:37,311.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:21:37,311.smokertemp_consumer.INFO                               
+2023-09-28 10:22:07,321.smokertemp_consumer.INFO                               
+2023-09-28 10:22:07,321.smokertemp_consumer.INFO  [x] Received 05/22/21 13:55:40, for smoker.
+2023-09-28 10:22:07,321.smokertemp_consumer.INFO                               
+2023-09-28 10:22:07,322.smokertemp_consumer.INFO                               
+2023-09-28 10:22:07,322.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:22:07,322.smokertemp_consumer.INFO                               
+2023-09-28 10:22:37,332.smokertemp_consumer.INFO                               
+2023-09-28 10:22:37,332.smokertemp_consumer.INFO  [x] Received 05/22/21 13:55:45, for smoker.
+2023-09-28 10:22:37,332.smokertemp_consumer.INFO                               
+2023-09-28 10:22:37,333.smokertemp_consumer.INFO                               
+2023-09-28 10:22:37,333.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:22:37,333.smokertemp_consumer.INFO                               
+2023-09-28 10:23:07,343.smokertemp_consumer.INFO                               
+2023-09-28 10:23:07,343.smokertemp_consumer.INFO  [x] Received 05/22/21 13:56:10,241.9 for smoker.
+2023-09-28 10:23:07,343.smokertemp_consumer.INFO                               
+2023-09-28 10:23:07,344.smokertemp_consumer.INFO                               
+2023-09-28 10:23:07,344.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:23:07,344.smokertemp_consumer.INFO                               
+2023-09-28 10:23:37,355.smokertemp_consumer.INFO                               
+2023-09-28 10:23:37,356.smokertemp_consumer.INFO  [x] Received 05/22/21 13:56:15,241.9 for smoker.
+2023-09-28 10:23:37,356.smokertemp_consumer.INFO                               
+2023-09-28 10:23:37,356.smokertemp_consumer.INFO                               
+2023-09-28 10:23:37,356.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:23:37,356.smokertemp_consumer.INFO                               
+2023-09-28 10:24:07,360.smokertemp_consumer.INFO                               
+2023-09-28 10:24:07,360.smokertemp_consumer.INFO  [x] Received 05/22/21 13:56:35, for smoker.
+2023-09-28 10:24:07,360.smokertemp_consumer.INFO                               
+2023-09-28 10:24:07,360.smokertemp_consumer.INFO                               
+2023-09-28 10:24:07,361.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:24:07,361.smokertemp_consumer.INFO                               
+2023-09-28 10:24:37,371.smokertemp_consumer.INFO                               
+2023-09-28 10:24:37,371.smokertemp_consumer.INFO  [x] Received 05/22/21 13:56:40, for smoker.
+2023-09-28 10:24:37,371.smokertemp_consumer.INFO                               
+2023-09-28 10:24:37,372.smokertemp_consumer.INFO                               
+2023-09-28 10:24:37,372.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:24:37,372.smokertemp_consumer.INFO                               
+2023-09-28 10:25:07,382.smokertemp_consumer.INFO                               
+2023-09-28 10:25:07,382.smokertemp_consumer.INFO  [x] Received 05/22/21 13:56:45, for smoker.
+2023-09-28 10:25:07,383.smokertemp_consumer.INFO                               
+2023-09-28 10:25:07,383.smokertemp_consumer.INFO                               
+2023-09-28 10:25:07,383.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:25:07,383.smokertemp_consumer.INFO                               
+2023-09-28 10:25:37,393.smokertemp_consumer.INFO                               
+2023-09-28 10:25:37,394.smokertemp_consumer.INFO  [x] Received 05/22/21 13:57:10,242.1 for smoker.
+2023-09-28 10:25:37,394.smokertemp_consumer.INFO                               
+2023-09-28 10:25:37,394.smokertemp_consumer.INFO                               
+2023-09-28 10:25:37,394.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:25:37,394.smokertemp_consumer.INFO                               
+2023-09-28 10:26:07,405.smokertemp_consumer.INFO                               
+2023-09-28 10:26:07,405.smokertemp_consumer.INFO  [x] Received 05/22/21 13:57:15,242.1 for smoker.
+2023-09-28 10:26:07,405.smokertemp_consumer.INFO                               
+2023-09-28 10:26:07,405.smokertemp_consumer.INFO                               
+2023-09-28 10:26:07,405.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:26:07,406.smokertemp_consumer.INFO                               
+2023-09-28 10:26:37,411.smokertemp_consumer.INFO                               
+2023-09-28 10:26:37,412.smokertemp_consumer.INFO  [x] Received 05/22/21 13:57:35, for smoker.
+2023-09-28 10:26:37,412.smokertemp_consumer.INFO                               
+2023-09-28 10:26:37,412.smokertemp_consumer.INFO                               
+2023-09-28 10:26:37,412.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:26:37,412.smokertemp_consumer.INFO                               
+2023-09-28 10:27:07,422.smokertemp_consumer.INFO                               
+2023-09-28 10:27:07,422.smokertemp_consumer.INFO  [x] Received 05/22/21 13:57:40, for smoker.
+2023-09-28 10:27:07,422.smokertemp_consumer.INFO                               
+2023-09-28 10:27:07,423.smokertemp_consumer.INFO                               
+2023-09-28 10:27:07,423.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:27:07,423.smokertemp_consumer.INFO                               
+2023-09-28 10:27:37,433.smokertemp_consumer.INFO                               
+2023-09-28 10:27:37,433.smokertemp_consumer.INFO  [x] Received 05/22/21 13:57:45, for smoker.
+2023-09-28 10:27:37,434.smokertemp_consumer.INFO                               
+2023-09-28 10:27:37,434.smokertemp_consumer.INFO                               
+2023-09-28 10:27:37,434.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:27:37,434.smokertemp_consumer.INFO                               
+2023-09-28 10:28:07,445.smokertemp_consumer.INFO                               
+2023-09-28 10:28:07,445.smokertemp_consumer.INFO  [x] Received 05/22/21 13:58:10,240.4 for smoker.
+2023-09-28 10:28:07,445.smokertemp_consumer.INFO                               
+2023-09-28 10:28:07,445.smokertemp_consumer.INFO                               
+2023-09-28 10:28:07,446.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:28:07,446.smokertemp_consumer.INFO                               
+2023-09-28 10:28:37,455.smokertemp_consumer.INFO                               
+2023-09-28 10:28:37,456.smokertemp_consumer.INFO  [x] Received 05/22/21 13:58:15,240.4 for smoker.
+2023-09-28 10:28:37,456.smokertemp_consumer.INFO                               
+2023-09-28 10:28:37,456.smokertemp_consumer.INFO                               
+2023-09-28 10:28:37,456.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:28:37,456.smokertemp_consumer.INFO                               
+2023-09-28 10:29:07,467.smokertemp_consumer.INFO                               
+2023-09-28 10:29:07,467.smokertemp_consumer.INFO  [x] Received 05/22/21 13:58:35, for smoker.
+2023-09-28 10:29:07,467.smokertemp_consumer.INFO                               
+2023-09-28 10:29:07,467.smokertemp_consumer.INFO                               
+2023-09-28 10:29:07,467.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:29:07,468.smokertemp_consumer.INFO                               
+2023-09-28 10:29:37,479.smokertemp_consumer.INFO                               
+2023-09-28 10:29:37,479.smokertemp_consumer.INFO  [x] Received 05/22/21 13:58:40, for smoker.
+2023-09-28 10:29:37,479.smokertemp_consumer.INFO                               
+2023-09-28 10:29:37,479.smokertemp_consumer.INFO                               
+2023-09-28 10:29:37,480.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:29:37,480.smokertemp_consumer.INFO                               
+2023-09-28 10:30:07,489.smokertemp_consumer.INFO                               
+2023-09-28 10:30:07,489.smokertemp_consumer.INFO  [x] Received 05/22/21 13:58:45, for smoker.
+2023-09-28 10:30:07,489.smokertemp_consumer.INFO                               
+2023-09-28 10:30:07,489.smokertemp_consumer.INFO                               
+2023-09-28 10:30:07,489.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:30:07,490.smokertemp_consumer.INFO                               
+2023-09-28 10:30:37,500.smokertemp_consumer.INFO                               
+2023-09-28 10:30:37,500.smokertemp_consumer.INFO  [x] Received 05/22/21 13:59:10,240.2 for smoker.
+2023-09-28 10:30:37,500.smokertemp_consumer.INFO                               
+2023-09-28 10:30:37,501.smokertemp_consumer.INFO                               
+2023-09-28 10:30:37,501.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:30:37,501.smokertemp_consumer.INFO                               
+2023-09-28 10:31:07,511.smokertemp_consumer.INFO                               
+2023-09-28 10:31:07,511.smokertemp_consumer.INFO  [x] Received 05/22/21 13:59:15,240.2 for smoker.
+2023-09-28 10:31:07,512.smokertemp_consumer.INFO                               
+2023-09-28 10:31:07,512.smokertemp_consumer.INFO                               
+2023-09-28 10:31:07,512.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:31:07,512.smokertemp_consumer.INFO                               
+2023-09-28 10:31:37,516.smokertemp_consumer.INFO                               
+2023-09-28 10:31:37,516.smokertemp_consumer.INFO  [x] Received 05/22/21 13:59:35, for smoker.
+2023-09-28 10:31:37,516.smokertemp_consumer.INFO                               
+2023-09-28 10:31:37,516.smokertemp_consumer.INFO                               
+2023-09-28 10:31:37,516.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:31:37,517.smokertemp_consumer.INFO                               
+2023-09-28 10:32:07,526.smokertemp_consumer.INFO                               
+2023-09-28 10:32:07,526.smokertemp_consumer.INFO  [x] Received 05/22/21 13:59:40, for smoker.
+2023-09-28 10:32:07,527.smokertemp_consumer.INFO                               
+2023-09-28 10:32:07,527.smokertemp_consumer.INFO                               
+2023-09-28 10:32:07,527.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:32:07,527.smokertemp_consumer.INFO                               
+2023-09-28 10:32:37,535.smokertemp_consumer.INFO                               
+2023-09-28 10:32:37,536.smokertemp_consumer.INFO  [x] Received 05/22/21 13:59:45, for smoker.
+2023-09-28 10:32:37,536.smokertemp_consumer.INFO                               
+2023-09-28 10:32:37,536.smokertemp_consumer.INFO                               
+2023-09-28 10:32:37,536.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:32:37,536.smokertemp_consumer.INFO                               
+2023-09-28 10:33:07,546.smokertemp_consumer.INFO                               
+2023-09-28 10:33:07,546.smokertemp_consumer.INFO  [x] Received 05/22/21 14:00:10,240.1 for smoker.
+2023-09-28 10:33:07,546.smokertemp_consumer.INFO                               
+2023-09-28 10:33:07,547.smokertemp_consumer.INFO                               
+2023-09-28 10:33:07,547.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:33:07,547.smokertemp_consumer.INFO                               
+2023-09-28 10:33:37,557.smokertemp_consumer.INFO                               
+2023-09-28 10:33:37,558.smokertemp_consumer.INFO  [x] Received 05/22/21 14:00:15,240.1 for smoker.
+2023-09-28 10:33:37,558.smokertemp_consumer.INFO                               
+2023-09-28 10:33:37,558.smokertemp_consumer.INFO                               
+2023-09-28 10:33:37,558.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:33:37,558.smokertemp_consumer.INFO                               
+2023-09-28 10:34:07,568.smokertemp_consumer.INFO                               
+2023-09-28 10:34:07,568.smokertemp_consumer.INFO  [x] Received 05/22/21 14:00:35, for smoker.
+2023-09-28 10:34:07,569.smokertemp_consumer.INFO                               
+2023-09-28 10:34:07,569.smokertemp_consumer.INFO                               
+2023-09-28 10:34:07,569.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:34:07,569.smokertemp_consumer.INFO                               
+2023-09-28 10:34:37,576.smokertemp_consumer.INFO                               
+2023-09-28 10:34:37,576.smokertemp_consumer.INFO  [x] Received 05/22/21 14:00:40, for smoker.
+2023-09-28 10:34:37,576.smokertemp_consumer.INFO                               
+2023-09-28 10:34:37,576.smokertemp_consumer.INFO                               
+2023-09-28 10:34:37,577.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:34:37,577.smokertemp_consumer.INFO                               
+2023-09-28 10:35:07,580.smokertemp_consumer.INFO                               
+2023-09-28 10:35:07,580.smokertemp_consumer.INFO  [x] Received 05/22/21 14:00:45, for smoker.
+2023-09-28 10:35:07,580.smokertemp_consumer.INFO                               
+2023-09-28 10:35:07,580.smokertemp_consumer.INFO                               
+2023-09-28 10:35:07,580.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:35:07,581.smokertemp_consumer.INFO                               
+2023-09-28 10:35:37,591.smokertemp_consumer.INFO                               
+2023-09-28 10:35:37,591.smokertemp_consumer.INFO  [x] Received 05/22/21 14:01:10,239.8 for smoker.
+2023-09-28 10:35:37,591.smokertemp_consumer.INFO                               
+2023-09-28 10:35:37,591.smokertemp_consumer.INFO                               
+2023-09-28 10:35:37,592.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:35:37,592.smokertemp_consumer.INFO                               
+2023-09-28 10:36:07,596.smokertemp_consumer.INFO                               
+2023-09-28 10:36:07,597.smokertemp_consumer.INFO  [x] Received 05/22/21 14:01:15,239.8 for smoker.
+2023-09-28 10:36:07,597.smokertemp_consumer.INFO                               
+2023-09-28 10:36:07,597.smokertemp_consumer.INFO                               
+2023-09-28 10:36:07,597.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:36:07,597.smokertemp_consumer.INFO                               
+2023-09-28 10:36:37,607.smokertemp_consumer.INFO                               
+2023-09-28 10:36:37,608.smokertemp_consumer.INFO  [x] Received 05/22/21 14:01:35, for smoker.
+2023-09-28 10:36:37,608.smokertemp_consumer.INFO                               
+2023-09-28 10:36:37,608.smokertemp_consumer.INFO                               
+2023-09-28 10:36:37,608.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:36:37,608.smokertemp_consumer.INFO                               
+2023-09-28 10:37:07,618.smokertemp_consumer.INFO                               
+2023-09-28 10:37:07,619.smokertemp_consumer.INFO  [x] Received 05/22/21 14:01:40, for smoker.
+2023-09-28 10:37:07,619.smokertemp_consumer.INFO                               
+2023-09-28 10:37:07,619.smokertemp_consumer.INFO                               
+2023-09-28 10:37:07,619.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:37:07,619.smokertemp_consumer.INFO                               
+2023-09-28 10:37:37,624.smokertemp_consumer.INFO                               
+2023-09-28 10:37:37,624.smokertemp_consumer.INFO  [x] Received 05/22/21 14:01:45, for smoker.
+2023-09-28 10:37:37,624.smokertemp_consumer.INFO                               
+2023-09-28 10:37:37,624.smokertemp_consumer.INFO                               
+2023-09-28 10:37:37,625.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:37:37,625.smokertemp_consumer.INFO                               
+2023-09-28 10:38:07,635.smokertemp_consumer.INFO                               
+2023-09-28 10:38:07,635.smokertemp_consumer.INFO  [x] Received 05/22/21 14:02:10,239.9 for smoker.
+2023-09-28 10:38:07,635.smokertemp_consumer.INFO                               
+2023-09-28 10:38:07,636.smokertemp_consumer.INFO                               
+2023-09-28 10:38:07,636.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:38:07,636.smokertemp_consumer.INFO                               
+2023-09-28 10:38:37,646.smokertemp_consumer.INFO                               
+2023-09-28 10:38:37,647.smokertemp_consumer.INFO  [x] Received 05/22/21 14:02:15,239.9 for smoker.
+2023-09-28 10:38:37,647.smokertemp_consumer.INFO                               
+2023-09-28 10:38:37,647.smokertemp_consumer.INFO                               
+2023-09-28 10:38:37,647.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:38:37,647.smokertemp_consumer.INFO                               
+2023-09-28 10:39:07,656.smokertemp_consumer.INFO                               
+2023-09-28 10:39:07,656.smokertemp_consumer.INFO  [x] Received 05/22/21 14:02:35, for smoker.
+2023-09-28 10:39:07,656.smokertemp_consumer.INFO                               
+2023-09-28 10:39:07,656.smokertemp_consumer.INFO                               
+2023-09-28 10:39:07,657.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:39:07,657.smokertemp_consumer.INFO                               
+2023-09-28 10:39:37,667.smokertemp_consumer.INFO                               
+2023-09-28 10:39:37,667.smokertemp_consumer.INFO  [x] Received 05/22/21 14:02:40, for smoker.
+2023-09-28 10:39:37,667.smokertemp_consumer.INFO                               
+2023-09-28 10:39:37,667.smokertemp_consumer.INFO                               
+2023-09-28 10:39:37,668.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:39:37,668.smokertemp_consumer.INFO                               
+2023-09-28 10:40:07,678.smokertemp_consumer.INFO                               
+2023-09-28 10:40:07,679.smokertemp_consumer.INFO  [x] Received 05/22/21 14:02:45, for smoker.
+2023-09-28 10:40:07,679.smokertemp_consumer.INFO                               
+2023-09-28 10:40:07,679.smokertemp_consumer.INFO                               
+2023-09-28 10:40:07,679.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:40:07,679.smokertemp_consumer.INFO                               
+2023-09-28 10:40:37,689.smokertemp_consumer.INFO                               
+2023-09-28 10:40:37,690.smokertemp_consumer.INFO  [x] Received 05/22/21 14:03:10,240.4 for smoker.
+2023-09-28 10:40:37,690.smokertemp_consumer.INFO                               
+2023-09-28 10:40:37,690.smokertemp_consumer.INFO                               
+2023-09-28 10:40:37,690.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:40:37,690.smokertemp_consumer.INFO                               
+2023-09-28 10:41:07,701.smokertemp_consumer.INFO                               
+2023-09-28 10:41:07,701.smokertemp_consumer.INFO  [x] Received 05/22/21 14:03:15,240.4 for smoker.
+2023-09-28 10:41:07,701.smokertemp_consumer.INFO                               
+2023-09-28 10:41:07,701.smokertemp_consumer.INFO                               
+2023-09-28 10:41:07,701.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:41:07,701.smokertemp_consumer.INFO                               
+2023-09-28 10:41:37,713.smokertemp_consumer.INFO                               
+2023-09-28 10:41:37,713.smokertemp_consumer.INFO  [x] Received 05/22/21 14:03:35, for smoker.
+2023-09-28 10:41:37,713.smokertemp_consumer.INFO                               
+2023-09-28 10:41:37,713.smokertemp_consumer.INFO                               
+2023-09-28 10:41:37,713.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:41:37,714.smokertemp_consumer.INFO                               
+2023-09-28 10:42:07,716.smokertemp_consumer.INFO                               
+2023-09-28 10:42:07,716.smokertemp_consumer.INFO  [x] Received 05/22/21 14:03:40, for smoker.
+2023-09-28 10:42:07,717.smokertemp_consumer.INFO                               
+2023-09-28 10:42:07,717.smokertemp_consumer.INFO                               
+2023-09-28 10:42:07,717.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:42:07,717.smokertemp_consumer.INFO                               
+2023-09-28 10:42:37,727.smokertemp_consumer.INFO                               
+2023-09-28 10:42:37,727.smokertemp_consumer.INFO  [x] Received 05/22/21 14:03:45, for smoker.
+2023-09-28 10:42:37,727.smokertemp_consumer.INFO                               
+2023-09-28 10:42:37,727.smokertemp_consumer.INFO                               
+2023-09-28 10:42:37,728.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:42:37,728.smokertemp_consumer.INFO                               
+2023-09-28 10:43:07,738.smokertemp_consumer.INFO                               
+2023-09-28 10:43:07,738.smokertemp_consumer.INFO  [x] Received 05/22/21 14:04:10,240.8 for smoker.
+2023-09-28 10:43:07,738.smokertemp_consumer.INFO                               
+2023-09-28 10:43:07,738.smokertemp_consumer.INFO                               
+2023-09-28 10:43:07,739.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:43:07,739.smokertemp_consumer.INFO                               
+2023-09-28 10:43:37,749.smokertemp_consumer.INFO                               
+2023-09-28 10:43:37,749.smokertemp_consumer.INFO  [x] Received 05/22/21 14:04:15,240.8 for smoker.
+2023-09-28 10:43:37,749.smokertemp_consumer.INFO                               
+2023-09-28 10:43:37,750.smokertemp_consumer.INFO                               
+2023-09-28 10:43:37,750.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:43:37,750.smokertemp_consumer.INFO                               
+2023-09-28 10:44:07,760.smokertemp_consumer.INFO                               
+2023-09-28 10:44:07,761.smokertemp_consumer.INFO  [x] Received 05/22/21 14:04:35, for smoker.
+2023-09-28 10:44:07,761.smokertemp_consumer.INFO                               
+2023-09-28 10:44:07,761.smokertemp_consumer.INFO                               
+2023-09-28 10:44:07,761.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:44:07,761.smokertemp_consumer.INFO                               
+2023-09-28 10:44:37,772.smokertemp_consumer.INFO                               
+2023-09-28 10:44:37,772.smokertemp_consumer.INFO  [x] Received 05/22/21 14:04:40, for smoker.
+2023-09-28 10:44:37,772.smokertemp_consumer.INFO                               
+2023-09-28 10:44:37,772.smokertemp_consumer.INFO                               
+2023-09-28 10:44:37,772.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:44:37,773.smokertemp_consumer.INFO                               
+2023-09-28 10:45:07,783.smokertemp_consumer.INFO                               
+2023-09-28 10:45:07,783.smokertemp_consumer.INFO  [x] Received 05/22/21 14:04:45, for smoker.
+2023-09-28 10:45:07,783.smokertemp_consumer.INFO                               
+2023-09-28 10:45:07,784.smokertemp_consumer.INFO                               
+2023-09-28 10:45:07,784.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:45:07,784.smokertemp_consumer.INFO                               
+2023-09-28 10:45:37,788.smokertemp_consumer.INFO                               
+2023-09-28 10:45:37,788.smokertemp_consumer.INFO  [x] Received 05/22/21 14:05:10,241.3 for smoker.
+2023-09-28 10:45:37,788.smokertemp_consumer.INFO                               
+2023-09-28 10:45:37,789.smokertemp_consumer.INFO                               
+2023-09-28 10:45:37,789.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:45:37,789.smokertemp_consumer.INFO                               
+2023-09-28 10:46:07,796.smokertemp_consumer.INFO                               
+2023-09-28 10:46:07,796.smokertemp_consumer.INFO  [x] Received 05/22/21 14:05:15,241.3 for smoker.
+2023-09-28 10:46:07,796.smokertemp_consumer.INFO                               
+2023-09-28 10:46:07,796.smokertemp_consumer.INFO                               
+2023-09-28 10:46:07,797.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:46:07,797.smokertemp_consumer.INFO                               
+2023-09-28 10:46:37,806.smokertemp_consumer.INFO                               
+2023-09-28 10:46:37,806.smokertemp_consumer.INFO  [x] Received 05/22/21 14:05:35, for smoker.
+2023-09-28 10:46:37,806.smokertemp_consumer.INFO                               
+2023-09-28 10:46:37,806.smokertemp_consumer.INFO                               
+2023-09-28 10:46:37,807.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:46:37,807.smokertemp_consumer.INFO                               
+2023-09-28 10:47:07,817.smokertemp_consumer.INFO                               
+2023-09-28 10:47:07,817.smokertemp_consumer.INFO  [x] Received 05/22/21 14:05:40, for smoker.
+2023-09-28 10:47:07,818.smokertemp_consumer.INFO                               
+2023-09-28 10:47:07,818.smokertemp_consumer.INFO                               
+2023-09-28 10:47:07,818.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:47:07,818.smokertemp_consumer.INFO                               
+2023-09-28 10:47:37,826.smokertemp_consumer.INFO                               
+2023-09-28 10:47:37,827.smokertemp_consumer.INFO  [x] Received 05/22/21 14:05:45, for smoker.
+2023-09-28 10:47:37,827.smokertemp_consumer.INFO                               
+2023-09-28 10:47:37,827.smokertemp_consumer.INFO                               
+2023-09-28 10:47:37,827.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:47:37,827.smokertemp_consumer.INFO                               
+2023-09-28 10:48:07,837.smokertemp_consumer.INFO                               
+2023-09-28 10:48:07,837.smokertemp_consumer.INFO  [x] Received 05/22/21 14:06:10,241.7 for smoker.
+2023-09-28 10:48:07,838.smokertemp_consumer.INFO                               
+2023-09-28 10:48:07,838.smokertemp_consumer.INFO                               
+2023-09-28 10:48:07,838.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:48:07,838.smokertemp_consumer.INFO                               
+2023-09-28 10:48:37,840.smokertemp_consumer.INFO                               
+2023-09-28 10:48:37,841.smokertemp_consumer.INFO  [x] Received 05/22/21 14:06:15,241.7 for smoker.
+2023-09-28 10:48:37,841.smokertemp_consumer.INFO                               
+2023-09-28 10:48:37,841.smokertemp_consumer.INFO                               
+2023-09-28 10:48:37,841.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:48:37,841.smokertemp_consumer.INFO                               
+2023-09-28 10:49:07,851.smokertemp_consumer.INFO                               
+2023-09-28 10:49:07,852.smokertemp_consumer.INFO  [x] Received 05/22/21 14:06:35, for smoker.
+2023-09-28 10:49:07,852.smokertemp_consumer.INFO                               
+2023-09-28 10:49:07,852.smokertemp_consumer.INFO                               
+2023-09-28 10:49:07,852.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:49:07,852.smokertemp_consumer.INFO                               
+2023-09-28 10:49:37,861.smokertemp_consumer.INFO                               
+2023-09-28 10:49:37,861.smokertemp_consumer.INFO  [x] Received 05/22/21 14:06:40, for smoker.
+2023-09-28 10:49:37,861.smokertemp_consumer.INFO                               
+2023-09-28 10:49:37,862.smokertemp_consumer.INFO                               
+2023-09-28 10:49:37,862.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:49:37,862.smokertemp_consumer.INFO                               
+2023-09-28 10:50:07,872.smokertemp_consumer.INFO                               
+2023-09-28 10:50:07,872.smokertemp_consumer.INFO  [x] Received 05/22/21 14:06:45, for smoker.
+2023-09-28 10:50:07,872.smokertemp_consumer.INFO                               
+2023-09-28 10:50:07,872.smokertemp_consumer.INFO                               
+2023-09-28 10:50:07,872.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:50:07,873.smokertemp_consumer.INFO                               
+2023-09-28 10:50:37,878.smokertemp_consumer.INFO                               
+2023-09-28 10:50:37,878.smokertemp_consumer.INFO  [x] Received 05/22/21 14:07:10,242.3 for smoker.
+2023-09-28 10:50:37,878.smokertemp_consumer.INFO                               
+2023-09-28 10:50:37,879.smokertemp_consumer.INFO                               
+2023-09-28 10:50:37,879.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:50:37,879.smokertemp_consumer.INFO                               
+2023-09-28 10:51:07,879.smokertemp_consumer.INFO                               
+2023-09-28 10:51:07,879.smokertemp_consumer.INFO  [x] Received 05/22/21 14:07:15,242.3 for smoker.
+2023-09-28 10:51:07,879.smokertemp_consumer.INFO                               
+2023-09-28 10:51:07,879.smokertemp_consumer.INFO                               
+2023-09-28 10:51:07,879.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:51:07,880.smokertemp_consumer.INFO                               
+2023-09-28 10:51:37,890.smokertemp_consumer.INFO                               
+2023-09-28 10:51:37,891.smokertemp_consumer.INFO  [x] Received 05/22/21 14:07:35, for smoker.
+2023-09-28 10:51:37,891.smokertemp_consumer.INFO                               
+2023-09-28 10:51:37,892.smokertemp_consumer.INFO                               
+2023-09-28 10:51:37,892.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:51:37,892.smokertemp_consumer.INFO                               
+2023-09-28 10:52:07,900.smokertemp_consumer.INFO                               
+2023-09-28 10:52:07,900.smokertemp_consumer.INFO  [x] Received 05/22/21 14:07:40, for smoker.
+2023-09-28 10:52:07,901.smokertemp_consumer.INFO                               
+2023-09-28 10:52:07,901.smokertemp_consumer.INFO                               
+2023-09-28 10:52:07,901.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:52:07,901.smokertemp_consumer.INFO                               
+2023-09-28 10:52:37,901.smokertemp_consumer.INFO                               
+2023-09-28 10:52:37,902.smokertemp_consumer.INFO  [x] Received 05/22/21 14:07:45, for smoker.
+2023-09-28 10:52:37,902.smokertemp_consumer.INFO                               
+2023-09-28 10:52:37,902.smokertemp_consumer.INFO                               
+2023-09-28 10:52:37,902.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:52:37,902.smokertemp_consumer.INFO                               
+2023-09-28 10:53:07,912.smokertemp_consumer.INFO                               
+2023-09-28 10:53:07,912.smokertemp_consumer.INFO  [x] Received 05/22/21 14:08:10,243.4 for smoker.
+2023-09-28 10:53:07,913.smokertemp_consumer.INFO                               
+2023-09-28 10:53:07,913.smokertemp_consumer.INFO                               
+2023-09-28 10:53:07,913.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:53:07,913.smokertemp_consumer.INFO                               
+2023-09-28 10:53:37,919.smokertemp_consumer.INFO                               
+2023-09-28 10:53:37,919.smokertemp_consumer.INFO  [x] Received 05/22/21 14:08:15,243.4 for smoker.
+2023-09-28 10:53:37,919.smokertemp_consumer.INFO                               
+2023-09-28 10:53:37,920.smokertemp_consumer.INFO                               
+2023-09-28 10:53:37,920.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:53:37,920.smokertemp_consumer.INFO                               
+2023-09-28 10:54:07,930.smokertemp_consumer.INFO                               
+2023-09-28 10:54:07,930.smokertemp_consumer.INFO  [x] Received 05/22/21 14:08:35, for smoker.
+2023-09-28 10:54:07,930.smokertemp_consumer.INFO                               
+2023-09-28 10:54:07,931.smokertemp_consumer.INFO                               
+2023-09-28 10:54:07,931.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:54:07,931.smokertemp_consumer.INFO                               
+2023-09-28 10:54:37,941.smokertemp_consumer.INFO                               
+2023-09-28 10:54:37,941.smokertemp_consumer.INFO  [x] Received 05/22/21 14:08:40, for smoker.
+2023-09-28 10:54:37,941.smokertemp_consumer.INFO                               
+2023-09-28 10:54:37,942.smokertemp_consumer.INFO                               
+2023-09-28 10:54:37,942.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:54:37,942.smokertemp_consumer.INFO                               
+2023-09-28 10:55:07,950.smokertemp_consumer.INFO                               
+2023-09-28 10:55:07,951.smokertemp_consumer.INFO  [x] Received 05/22/21 14:08:45, for smoker.
+2023-09-28 10:55:07,951.smokertemp_consumer.INFO                               
+2023-09-28 10:55:07,951.smokertemp_consumer.INFO                               
+2023-09-28 10:55:07,951.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:55:07,952.smokertemp_consumer.INFO                               
+2023-09-28 10:55:37,961.smokertemp_consumer.INFO                               
+2023-09-28 10:55:37,961.smokertemp_consumer.INFO  [x] Received 05/22/21 14:09:10,242.5 for smoker.
+2023-09-28 10:55:37,962.smokertemp_consumer.INFO                               
+2023-09-28 10:55:37,962.smokertemp_consumer.INFO                               
+2023-09-28 10:55:37,962.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:55:37,962.smokertemp_consumer.INFO                               
+2023-09-28 10:56:07,966.smokertemp_consumer.INFO                               
+2023-09-28 10:56:07,966.smokertemp_consumer.INFO  [x] Received 05/22/21 14:09:15,242.5 for smoker.
+2023-09-28 10:56:07,966.smokertemp_consumer.INFO                               
+2023-09-28 10:56:07,966.smokertemp_consumer.INFO                               
+2023-09-28 10:56:07,966.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:56:07,967.smokertemp_consumer.INFO                               
+2023-09-28 10:56:37,972.smokertemp_consumer.INFO                               
+2023-09-28 10:56:37,972.smokertemp_consumer.INFO  [x] Received 05/22/21 14:09:35, for smoker.
+2023-09-28 10:56:37,973.smokertemp_consumer.INFO                               
+2023-09-28 10:56:37,973.smokertemp_consumer.INFO                               
+2023-09-28 10:56:37,973.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:56:37,973.smokertemp_consumer.INFO                               
+2023-09-28 10:57:07,983.smokertemp_consumer.INFO                               
+2023-09-28 10:57:07,984.smokertemp_consumer.INFO  [x] Received 05/22/21 14:09:40, for smoker.
+2023-09-28 10:57:07,984.smokertemp_consumer.INFO                               
+2023-09-28 10:57:07,984.smokertemp_consumer.INFO                               
+2023-09-28 10:57:07,984.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:57:07,984.smokertemp_consumer.INFO                               
+2023-09-28 10:57:37,994.smokertemp_consumer.INFO                               
+2023-09-28 10:57:37,995.smokertemp_consumer.INFO  [x] Received 05/22/21 14:09:45, for smoker.
+2023-09-28 10:57:37,995.smokertemp_consumer.INFO                               
+2023-09-28 10:57:37,995.smokertemp_consumer.INFO                               
+2023-09-28 10:57:37,995.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:57:37,995.smokertemp_consumer.INFO                               
+2023-09-28 10:58:08,006.smokertemp_consumer.INFO                               
+2023-09-28 10:58:08,006.smokertemp_consumer.INFO  [x] Received 05/22/21 14:10:10,242.1 for smoker.
+2023-09-28 10:58:08,006.smokertemp_consumer.INFO                               
+2023-09-28 10:58:08,007.smokertemp_consumer.INFO                               
+2023-09-28 10:58:08,007.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:58:08,007.smokertemp_consumer.INFO                               
+2023-09-28 10:58:38,017.smokertemp_consumer.INFO                               
+2023-09-28 10:58:38,017.smokertemp_consumer.INFO  [x] Received 05/22/21 14:10:15,242.1 for smoker.
+2023-09-28 10:58:38,017.smokertemp_consumer.INFO                               
+2023-09-28 10:58:38,018.smokertemp_consumer.INFO                               
+2023-09-28 10:58:38,018.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:58:38,018.smokertemp_consumer.INFO                               
+2023-09-28 10:59:08,023.smokertemp_consumer.INFO                               
+2023-09-28 10:59:08,023.smokertemp_consumer.INFO  [x] Received 05/22/21 14:10:35, for smoker.
+2023-09-28 10:59:08,023.smokertemp_consumer.INFO                               
+2023-09-28 10:59:08,023.smokertemp_consumer.INFO                               
+2023-09-28 10:59:08,024.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:59:08,024.smokertemp_consumer.INFO                               
+2023-09-28 10:59:38,034.smokertemp_consumer.INFO                               
+2023-09-28 10:59:38,034.smokertemp_consumer.INFO  [x] Received 05/22/21 14:10:40, for smoker.
+2023-09-28 10:59:38,035.smokertemp_consumer.INFO                               
+2023-09-28 10:59:38,035.smokertemp_consumer.INFO                               
+2023-09-28 10:59:38,035.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 10:59:38,035.smokertemp_consumer.INFO                               
+2023-09-28 11:00:08,041.smokertemp_consumer.INFO                               
+2023-09-28 11:00:08,041.smokertemp_consumer.INFO  [x] Received 05/22/21 14:10:45, for smoker.
+2023-09-28 11:00:08,041.smokertemp_consumer.INFO                               
+2023-09-28 11:00:08,042.smokertemp_consumer.INFO                               
+2023-09-28 11:00:08,042.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:00:08,042.smokertemp_consumer.INFO                               
+2023-09-28 11:00:38,052.smokertemp_consumer.INFO                               
+2023-09-28 11:00:38,052.smokertemp_consumer.INFO  [x] Received 05/22/21 14:11:10,243.3 for smoker.
+2023-09-28 11:00:38,052.smokertemp_consumer.INFO                               
+2023-09-28 11:00:38,052.smokertemp_consumer.INFO                               
+2023-09-28 11:00:38,053.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:00:38,053.smokertemp_consumer.INFO                               
+2023-09-28 11:01:08,053.smokertemp_consumer.INFO                               
+2023-09-28 11:01:08,053.smokertemp_consumer.INFO  [x] Received 05/22/21 14:11:15,243.3 for smoker.
+2023-09-28 11:01:08,053.smokertemp_consumer.INFO                               
+2023-09-28 11:01:08,053.smokertemp_consumer.INFO                               
+2023-09-28 11:01:08,053.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:01:08,054.smokertemp_consumer.INFO                               
+2023-09-28 11:01:38,064.smokertemp_consumer.INFO                               
+2023-09-28 11:01:38,064.smokertemp_consumer.INFO  [x] Received 05/22/21 14:11:35, for smoker.
+2023-09-28 11:01:38,064.smokertemp_consumer.INFO                               
+2023-09-28 11:01:38,065.smokertemp_consumer.INFO                               
+2023-09-28 11:01:38,065.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:01:38,065.smokertemp_consumer.INFO                               
+2023-09-28 11:02:08,075.smokertemp_consumer.INFO                               
+2023-09-28 11:02:08,075.smokertemp_consumer.INFO  [x] Received 05/22/21 14:11:40, for smoker.
+2023-09-28 11:02:08,075.smokertemp_consumer.INFO                               
+2023-09-28 11:02:08,076.smokertemp_consumer.INFO                               
+2023-09-28 11:02:08,076.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:02:08,076.smokertemp_consumer.INFO                               
+2023-09-28 11:02:38,086.smokertemp_consumer.INFO                               
+2023-09-28 11:02:38,086.smokertemp_consumer.INFO  [x] Received 05/22/21 14:11:45, for smoker.
+2023-09-28 11:02:38,086.smokertemp_consumer.INFO                               
+2023-09-28 11:02:38,087.smokertemp_consumer.INFO                               
+2023-09-28 11:02:38,087.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:02:38,087.smokertemp_consumer.INFO                               
+2023-09-28 11:03:08,097.smokertemp_consumer.INFO                               
+2023-09-28 11:03:08,098.smokertemp_consumer.INFO  [x] Received 05/22/21 14:12:10,244.0 for smoker.
+2023-09-28 11:03:08,098.smokertemp_consumer.INFO                               
+2023-09-28 11:03:08,098.smokertemp_consumer.INFO                               
+2023-09-28 11:03:08,098.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:03:08,098.smokertemp_consumer.INFO                               
+2023-09-28 11:03:38,108.smokertemp_consumer.INFO                               
+2023-09-28 11:03:38,109.smokertemp_consumer.INFO  [x] Received 05/22/21 14:12:15,244.0 for smoker.
+2023-09-28 11:03:38,109.smokertemp_consumer.INFO                               
+2023-09-28 11:03:38,109.smokertemp_consumer.INFO                               
+2023-09-28 11:03:38,109.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:03:38,109.smokertemp_consumer.INFO                               
+2023-09-28 11:04:08,120.smokertemp_consumer.INFO                               
+2023-09-28 11:04:08,120.smokertemp_consumer.INFO  [x] Received 05/22/21 14:12:35, for smoker.
+2023-09-28 11:04:08,120.smokertemp_consumer.INFO                               
+2023-09-28 11:04:08,120.smokertemp_consumer.INFO                               
+2023-09-28 11:04:08,121.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:04:08,121.smokertemp_consumer.INFO                               
+2023-09-28 11:04:38,124.smokertemp_consumer.INFO                               
+2023-09-28 11:04:38,124.smokertemp_consumer.INFO  [x] Received 05/22/21 14:12:40, for smoker.
+2023-09-28 11:04:38,125.smokertemp_consumer.INFO                               
+2023-09-28 11:04:38,125.smokertemp_consumer.INFO                               
+2023-09-28 11:04:38,125.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:04:38,125.smokertemp_consumer.INFO                               
+2023-09-28 11:05:08,127.smokertemp_consumer.INFO                               
+2023-09-28 11:05:08,127.smokertemp_consumer.INFO  [x] Received 05/22/21 14:12:45, for smoker.
+2023-09-28 11:05:08,127.smokertemp_consumer.INFO                               
+2023-09-28 11:05:08,127.smokertemp_consumer.INFO                               
+2023-09-28 11:05:08,128.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:05:08,128.smokertemp_consumer.INFO                               
+2023-09-28 11:05:38,138.smokertemp_consumer.INFO                               
+2023-09-28 11:05:38,138.smokertemp_consumer.INFO  [x] Received 05/22/21 14:13:10,244.3 for smoker.
+2023-09-28 11:05:38,139.smokertemp_consumer.INFO                               
+2023-09-28 11:05:38,139.smokertemp_consumer.INFO                               
+2023-09-28 11:05:38,139.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:05:38,139.smokertemp_consumer.INFO                               
+2023-09-28 11:06:08,147.smokertemp_consumer.INFO                               
+2023-09-28 11:06:08,147.smokertemp_consumer.INFO  [x] Received 05/22/21 14:13:15,244.3 for smoker.
+2023-09-28 11:06:08,147.smokertemp_consumer.INFO                               
+2023-09-28 11:06:08,148.smokertemp_consumer.INFO                               
+2023-09-28 11:06:08,148.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:06:08,148.smokertemp_consumer.INFO                               
+2023-09-28 11:06:38,158.smokertemp_consumer.INFO                               
+2023-09-28 11:06:38,158.smokertemp_consumer.INFO  [x] Received 05/22/21 14:13:35, for smoker.
+2023-09-28 11:06:38,158.smokertemp_consumer.INFO                               
+2023-09-28 11:06:38,158.smokertemp_consumer.INFO                               
+2023-09-28 11:06:38,158.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:06:38,159.smokertemp_consumer.INFO                               
+2023-09-28 11:07:08,169.smokertemp_consumer.INFO                               
+2023-09-28 11:07:08,169.smokertemp_consumer.INFO  [x] Received 05/22/21 14:13:40, for smoker.
+2023-09-28 11:07:08,169.smokertemp_consumer.INFO                               
+2023-09-28 11:07:08,170.smokertemp_consumer.INFO                               
+2023-09-28 11:07:08,170.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:07:08,170.smokertemp_consumer.INFO                               
+2023-09-28 11:07:38,171.smokertemp_consumer.INFO                               
+2023-09-28 11:07:38,171.smokertemp_consumer.INFO  [x] Received 05/22/21 14:13:45, for smoker.
+2023-09-28 11:07:38,172.smokertemp_consumer.INFO                               
+2023-09-28 11:07:38,172.smokertemp_consumer.INFO                               
+2023-09-28 11:07:38,172.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:07:38,172.smokertemp_consumer.INFO                               
+2023-09-28 11:08:08,177.smokertemp_consumer.INFO                               
+2023-09-28 11:08:08,177.smokertemp_consumer.INFO  [x] Received 05/22/21 14:14:10,244.7 for smoker.
+2023-09-28 11:08:08,178.smokertemp_consumer.INFO                               
+2023-09-28 11:08:08,178.smokertemp_consumer.INFO                               
+2023-09-28 11:08:08,178.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:08:08,179.smokertemp_consumer.INFO                               
+2023-09-28 11:08:38,178.smokertemp_consumer.INFO                               
+2023-09-28 11:08:38,178.smokertemp_consumer.INFO  [x] Received 05/22/21 14:14:15,244.7 for smoker.
+2023-09-28 11:08:38,179.smokertemp_consumer.INFO                               
+2023-09-28 11:08:38,179.smokertemp_consumer.INFO                               
+2023-09-28 11:08:38,179.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:08:38,179.smokertemp_consumer.INFO                               
+2023-09-28 11:09:08,189.smokertemp_consumer.INFO                               
+2023-09-28 11:09:08,190.smokertemp_consumer.INFO  [x] Received 05/22/21 14:14:35, for smoker.
+2023-09-28 11:09:08,190.smokertemp_consumer.INFO                               
+2023-09-28 11:09:08,190.smokertemp_consumer.INFO                               
+2023-09-28 11:09:08,190.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:09:08,190.smokertemp_consumer.INFO                               
+2023-09-28 11:09:38,191.smokertemp_consumer.INFO                               
+2023-09-28 11:09:38,191.smokertemp_consumer.INFO  [x] Received 05/22/21 14:14:40, for smoker.
+2023-09-28 11:09:38,191.smokertemp_consumer.INFO                               
+2023-09-28 11:09:38,192.smokertemp_consumer.INFO                               
+2023-09-28 11:09:38,192.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:09:38,192.smokertemp_consumer.INFO                               
+2023-09-28 11:10:08,193.smokertemp_consumer.INFO                               
+2023-09-28 11:10:08,193.smokertemp_consumer.INFO  [x] Received 05/22/21 14:14:45, for smoker.
+2023-09-28 11:10:08,193.smokertemp_consumer.INFO                               
+2023-09-28 11:10:08,193.smokertemp_consumer.INFO                               
+2023-09-28 11:10:08,194.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:10:08,194.smokertemp_consumer.INFO                               
+2023-09-28 11:10:38,194.smokertemp_consumer.INFO                               
+2023-09-28 11:10:38,194.smokertemp_consumer.INFO  [x] Received 05/22/21 14:15:10,245.2 for smoker.
+2023-09-28 11:10:38,194.smokertemp_consumer.INFO                               
+2023-09-28 11:10:38,195.smokertemp_consumer.INFO                               
+2023-09-28 11:10:38,195.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:10:38,195.smokertemp_consumer.INFO                               
+2023-09-28 11:11:08,205.smokertemp_consumer.INFO                               
+2023-09-28 11:11:08,205.smokertemp_consumer.INFO  [x] Received 05/22/21 14:15:15,245.2 for smoker.
+2023-09-28 11:11:08,205.smokertemp_consumer.INFO                               
+2023-09-28 11:11:08,206.smokertemp_consumer.INFO                               
+2023-09-28 11:11:08,206.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:11:08,206.smokertemp_consumer.INFO                               
+2023-09-28 11:11:38,216.smokertemp_consumer.INFO                               
+2023-09-28 11:11:38,216.smokertemp_consumer.INFO  [x] Received 05/22/21 14:15:35, for smoker.
+2023-09-28 11:11:38,216.smokertemp_consumer.INFO                               
+2023-09-28 11:11:38,217.smokertemp_consumer.INFO                               
+2023-09-28 11:11:38,217.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:11:38,217.smokertemp_consumer.INFO                               
+2023-09-28 11:12:08,227.smokertemp_consumer.INFO                               
+2023-09-28 11:12:08,227.smokertemp_consumer.INFO  [x] Received 05/22/21 14:15:40, for smoker.
+2023-09-28 11:12:08,227.smokertemp_consumer.INFO                               
+2023-09-28 11:12:08,228.smokertemp_consumer.INFO                               
+2023-09-28 11:12:08,228.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:12:08,228.smokertemp_consumer.INFO                               
+2023-09-28 11:12:38,237.smokertemp_consumer.INFO                               
+2023-09-28 11:12:38,238.smokertemp_consumer.INFO  [x] Received 05/22/21 14:15:45, for smoker.
+2023-09-28 11:12:38,238.smokertemp_consumer.INFO                               
+2023-09-28 11:12:38,238.smokertemp_consumer.INFO                               
+2023-09-28 11:12:38,238.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:12:38,238.smokertemp_consumer.INFO                               
+2023-09-28 11:13:08,248.smokertemp_consumer.INFO                               
+2023-09-28 11:13:08,249.smokertemp_consumer.INFO  [x] Received 05/22/21 14:16:10,244.8 for smoker.
+2023-09-28 11:13:08,249.smokertemp_consumer.INFO                               
+2023-09-28 11:13:08,249.smokertemp_consumer.INFO                               
+2023-09-28 11:13:08,249.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:13:08,249.smokertemp_consumer.INFO                               
+2023-09-28 11:13:38,260.smokertemp_consumer.INFO                               
+2023-09-28 11:13:38,260.smokertemp_consumer.INFO  [x] Received 05/22/21 14:16:15,244.8 for smoker.
+2023-09-28 11:13:38,260.smokertemp_consumer.INFO                               
+2023-09-28 11:13:38,261.smokertemp_consumer.INFO                               
+2023-09-28 11:13:38,261.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:13:38,261.smokertemp_consumer.INFO                               
+2023-09-28 11:14:08,271.smokertemp_consumer.INFO                               
+2023-09-28 11:14:08,272.smokertemp_consumer.INFO  [x] Received 05/22/21 14:16:35, for smoker.
+2023-09-28 11:14:08,272.smokertemp_consumer.INFO                               
+2023-09-28 11:14:08,272.smokertemp_consumer.INFO                               
+2023-09-28 11:14:08,272.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:14:08,272.smokertemp_consumer.INFO                               
+2023-09-28 11:14:38,283.smokertemp_consumer.INFO                               
+2023-09-28 11:14:38,283.smokertemp_consumer.INFO  [x] Received 05/22/21 14:16:40, for smoker.
+2023-09-28 11:14:38,283.smokertemp_consumer.INFO                               
+2023-09-28 11:14:38,283.smokertemp_consumer.INFO                               
+2023-09-28 11:14:38,283.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:14:38,284.smokertemp_consumer.INFO                               
+2023-09-28 11:15:08,289.smokertemp_consumer.INFO                               
+2023-09-28 11:15:08,290.smokertemp_consumer.INFO  [x] Received 05/22/21 14:16:45, for smoker.
+2023-09-28 11:15:08,290.smokertemp_consumer.INFO                               
+2023-09-28 11:15:08,290.smokertemp_consumer.INFO                               
+2023-09-28 11:15:08,290.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:15:08,290.smokertemp_consumer.INFO                               
+2023-09-28 11:15:38,300.smokertemp_consumer.INFO                               
+2023-09-28 11:15:38,300.smokertemp_consumer.INFO  [x] Received 05/22/21 14:17:10,245.3 for smoker.
+2023-09-28 11:15:38,301.smokertemp_consumer.INFO                               
+2023-09-28 11:15:38,301.smokertemp_consumer.INFO                               
+2023-09-28 11:15:38,301.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:15:38,301.smokertemp_consumer.INFO                               
+2023-09-28 11:16:08,311.smokertemp_consumer.INFO                               
+2023-09-28 11:16:08,311.smokertemp_consumer.INFO  [x] Received 05/22/21 14:17:15,245.3 for smoker.
+2023-09-28 11:16:08,312.smokertemp_consumer.INFO                               
+2023-09-28 11:16:08,312.smokertemp_consumer.INFO                               
+2023-09-28 11:16:08,312.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:16:08,312.smokertemp_consumer.INFO                               
+2023-09-28 11:16:38,322.smokertemp_consumer.INFO                               
+2023-09-28 11:16:38,323.smokertemp_consumer.INFO  [x] Received 05/22/21 14:17:35, for smoker.
+2023-09-28 11:16:38,323.smokertemp_consumer.INFO                               
+2023-09-28 11:16:38,323.smokertemp_consumer.INFO                               
+2023-09-28 11:16:38,323.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:16:38,323.smokertemp_consumer.INFO                               
+2023-09-28 11:17:08,331.smokertemp_consumer.INFO                               
+2023-09-28 11:17:08,331.smokertemp_consumer.INFO  [x] Received 05/22/21 14:17:40, for smoker.
+2023-09-28 11:17:08,332.smokertemp_consumer.INFO                               
+2023-09-28 11:17:08,332.smokertemp_consumer.INFO                               
+2023-09-28 11:17:08,332.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:17:08,332.smokertemp_consumer.INFO                               
+2023-09-28 11:17:38,333.smokertemp_consumer.INFO                               
+2023-09-28 11:17:38,333.smokertemp_consumer.INFO  [x] Received 05/22/21 14:17:45, for smoker.
+2023-09-28 11:17:38,333.smokertemp_consumer.INFO                               
+2023-09-28 11:17:38,334.smokertemp_consumer.INFO                               
+2023-09-28 11:17:38,334.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:17:38,334.smokertemp_consumer.INFO                               
+2023-09-28 11:18:08,344.smokertemp_consumer.INFO                               
+2023-09-28 11:18:08,344.smokertemp_consumer.INFO  [x] Received 05/22/21 14:18:10,246.1 for smoker.
+2023-09-28 11:18:08,345.smokertemp_consumer.INFO                               
+2023-09-28 11:18:08,345.smokertemp_consumer.INFO                               
+2023-09-28 11:18:08,345.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:18:08,346.smokertemp_consumer.INFO                               
+2023-09-28 11:18:38,355.smokertemp_consumer.INFO                               
+2023-09-28 11:18:38,356.smokertemp_consumer.INFO  [x] Received 05/22/21 14:18:15,246.1 for smoker.
+2023-09-28 11:18:38,356.smokertemp_consumer.INFO                               
+2023-09-28 11:18:38,356.smokertemp_consumer.INFO                               
+2023-09-28 11:18:38,356.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:18:38,356.smokertemp_consumer.INFO                               
+2023-09-28 11:19:08,357.smokertemp_consumer.INFO                               
+2023-09-28 11:19:08,357.smokertemp_consumer.INFO  [x] Received 05/22/21 14:18:35, for smoker.
+2023-09-28 11:19:08,357.smokertemp_consumer.INFO                               
+2023-09-28 11:19:08,357.smokertemp_consumer.INFO                               
+2023-09-28 11:19:08,357.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:19:08,357.smokertemp_consumer.INFO                               
+2023-09-28 11:19:38,368.smokertemp_consumer.INFO                               
+2023-09-28 11:19:38,368.smokertemp_consumer.INFO  [x] Received 05/22/21 14:18:40, for smoker.
+2023-09-28 11:19:38,368.smokertemp_consumer.INFO                               
+2023-09-28 11:19:38,368.smokertemp_consumer.INFO                               
+2023-09-28 11:19:38,368.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:19:38,369.smokertemp_consumer.INFO                               
+2023-09-28 11:20:08,379.smokertemp_consumer.INFO                               
+2023-09-28 11:20:08,379.smokertemp_consumer.INFO  [x] Received 05/22/21 14:18:45, for smoker.
+2023-09-28 11:20:08,379.smokertemp_consumer.INFO                               
+2023-09-28 11:20:08,379.smokertemp_consumer.INFO                               
+2023-09-28 11:20:08,380.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:20:08,380.smokertemp_consumer.INFO                               
+2023-09-28 11:20:38,380.smokertemp_consumer.INFO                               
+2023-09-28 11:20:38,380.smokertemp_consumer.INFO  [x] Received 05/22/21 14:19:10,247.7 for smoker.
+2023-09-28 11:20:38,381.smokertemp_consumer.INFO                               
+2023-09-28 11:20:38,381.smokertemp_consumer.INFO                               
+2023-09-28 11:20:38,381.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:20:38,381.smokertemp_consumer.INFO                               
+2023-09-28 11:21:08,391.smokertemp_consumer.INFO                               
+2023-09-28 11:21:08,392.smokertemp_consumer.INFO  [x] Received 05/22/21 14:19:15,247.7 for smoker.
+2023-09-28 11:21:08,392.smokertemp_consumer.INFO                               
+2023-09-28 11:21:08,392.smokertemp_consumer.INFO                               
+2023-09-28 11:21:08,392.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:21:08,392.smokertemp_consumer.INFO                               
+2023-09-28 11:21:38,400.smokertemp_consumer.INFO                               
+2023-09-28 11:21:38,400.smokertemp_consumer.INFO  [x] Received 05/22/21 14:19:35, for smoker.
+2023-09-28 11:21:38,400.smokertemp_consumer.INFO                               
+2023-09-28 11:21:38,401.smokertemp_consumer.INFO                               
+2023-09-28 11:21:38,401.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:21:38,401.smokertemp_consumer.INFO                               
+2023-09-28 11:22:08,411.smokertemp_consumer.INFO                               
+2023-09-28 11:22:08,411.smokertemp_consumer.INFO  [x] Received 05/22/21 14:19:40, for smoker.
+2023-09-28 11:22:08,411.smokertemp_consumer.INFO                               
+2023-09-28 11:22:08,412.smokertemp_consumer.INFO                               
+2023-09-28 11:22:08,412.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:22:08,412.smokertemp_consumer.INFO                               
+2023-09-28 11:22:38,422.smokertemp_consumer.INFO                               
+2023-09-28 11:22:38,423.smokertemp_consumer.INFO  [x] Received 05/22/21 14:19:45, for smoker.
+2023-09-28 11:22:38,423.smokertemp_consumer.INFO                               
+2023-09-28 11:22:38,423.smokertemp_consumer.INFO                               
+2023-09-28 11:22:38,423.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:22:38,423.smokertemp_consumer.INFO                               
+2023-09-28 11:23:08,427.smokertemp_consumer.INFO                               
+2023-09-28 11:23:08,427.smokertemp_consumer.INFO  [x] Received 05/22/21 14:20:10,248.1 for smoker.
+2023-09-28 11:23:08,427.smokertemp_consumer.INFO                               
+2023-09-28 11:23:08,428.smokertemp_consumer.INFO                               
+2023-09-28 11:23:08,428.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:23:08,428.smokertemp_consumer.INFO                               
+2023-09-28 11:23:38,438.smokertemp_consumer.INFO                               
+2023-09-28 11:23:38,438.smokertemp_consumer.INFO  [x] Received 05/22/21 14:20:15,248.1 for smoker.
+2023-09-28 11:23:38,439.smokertemp_consumer.INFO                               
+2023-09-28 11:23:38,439.smokertemp_consumer.INFO                               
+2023-09-28 11:23:38,439.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:23:38,439.smokertemp_consumer.INFO                               
+2023-09-28 11:24:08,449.smokertemp_consumer.INFO                               
+2023-09-28 11:24:08,450.smokertemp_consumer.INFO  [x] Received 05/22/21 14:20:35, for smoker.
+2023-09-28 11:24:08,450.smokertemp_consumer.INFO                               
+2023-09-28 11:24:08,450.smokertemp_consumer.INFO                               
+2023-09-28 11:24:08,450.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:24:08,450.smokertemp_consumer.INFO                               
+2023-09-28 11:24:38,460.smokertemp_consumer.INFO                               
+2023-09-28 11:24:38,461.smokertemp_consumer.INFO  [x] Received 05/22/21 14:20:40, for smoker.
+2023-09-28 11:24:38,461.smokertemp_consumer.INFO                               
+2023-09-28 11:24:38,461.smokertemp_consumer.INFO                               
+2023-09-28 11:24:38,461.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:24:38,461.smokertemp_consumer.INFO                               
+2023-09-28 11:25:08,472.smokertemp_consumer.INFO                               
+2023-09-28 11:25:08,472.smokertemp_consumer.INFO  [x] Received 05/22/21 14:20:45, for smoker.
+2023-09-28 11:25:08,472.smokertemp_consumer.INFO                               
+2023-09-28 11:25:08,472.smokertemp_consumer.INFO                               
+2023-09-28 11:25:08,472.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:25:08,473.smokertemp_consumer.INFO                               
+2023-09-28 11:25:38,483.smokertemp_consumer.INFO                               
+2023-09-28 11:25:38,483.smokertemp_consumer.INFO  [x] Received 05/22/21 14:21:10,248.8 for smoker.
+2023-09-28 11:25:38,483.smokertemp_consumer.INFO                               
+2023-09-28 11:25:38,484.smokertemp_consumer.INFO                               
+2023-09-28 11:25:38,484.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:25:38,484.smokertemp_consumer.INFO                               
+2023-09-28 11:26:08,494.smokertemp_consumer.INFO                               
+2023-09-28 11:26:08,494.smokertemp_consumer.INFO  [x] Received 05/22/21 14:21:15,248.8 for smoker.
+2023-09-28 11:26:08,494.smokertemp_consumer.INFO                               
+2023-09-28 11:26:08,495.smokertemp_consumer.INFO                               
+2023-09-28 11:26:08,495.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:26:08,495.smokertemp_consumer.INFO                               
+2023-09-28 11:26:38,498.smokertemp_consumer.INFO                               
+2023-09-28 11:26:38,498.smokertemp_consumer.INFO  [x] Received 05/22/21 14:21:35, for smoker.
+2023-09-28 11:26:38,498.smokertemp_consumer.INFO                               
+2023-09-28 11:26:38,498.smokertemp_consumer.INFO                               
+2023-09-28 11:26:38,498.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:26:38,499.smokertemp_consumer.INFO                               
+2023-09-28 11:27:08,509.smokertemp_consumer.INFO                               
+2023-09-28 11:27:08,509.smokertemp_consumer.INFO  [x] Received 05/22/21 14:21:40, for smoker.
+2023-09-28 11:27:08,509.smokertemp_consumer.INFO                               
+2023-09-28 11:27:08,510.smokertemp_consumer.INFO                               
+2023-09-28 11:27:08,510.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:27:08,510.smokertemp_consumer.INFO                               
+2023-09-28 11:27:38,510.smokertemp_consumer.INFO                               
+2023-09-28 11:27:38,510.smokertemp_consumer.INFO  [x] Received 05/22/21 14:21:45, for smoker.
+2023-09-28 11:27:38,511.smokertemp_consumer.INFO                               
+2023-09-28 11:27:38,511.smokertemp_consumer.INFO                               
+2023-09-28 11:27:38,511.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:27:38,511.smokertemp_consumer.INFO                               
+2023-09-28 11:28:08,521.smokertemp_consumer.INFO                               
+2023-09-28 11:28:08,521.smokertemp_consumer.INFO  [x] Received 05/22/21 14:22:10,249.4 for smoker.
+2023-09-28 11:28:08,522.smokertemp_consumer.INFO                               
+2023-09-28 11:28:08,522.smokertemp_consumer.INFO                               
+2023-09-28 11:28:08,522.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:28:08,522.smokertemp_consumer.INFO                               
+2023-09-28 11:28:38,531.smokertemp_consumer.INFO                               
+2023-09-28 11:28:38,531.smokertemp_consumer.INFO  [x] Received 05/22/21 14:22:15,249.4 for smoker.
+2023-09-28 11:28:38,531.smokertemp_consumer.INFO                               
+2023-09-28 11:28:38,531.smokertemp_consumer.INFO                               
+2023-09-28 11:28:38,531.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:28:38,532.smokertemp_consumer.INFO                               
+2023-09-28 11:29:08,542.smokertemp_consumer.INFO                               
+2023-09-28 11:29:08,542.smokertemp_consumer.INFO  [x] Received 05/22/21 14:22:35, for smoker.
+2023-09-28 11:29:08,542.smokertemp_consumer.INFO                               
+2023-09-28 11:29:08,543.smokertemp_consumer.INFO                               
+2023-09-28 11:29:08,543.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:29:08,543.smokertemp_consumer.INFO                               
+2023-09-28 11:29:38,554.smokertemp_consumer.INFO                               
+2023-09-28 11:29:38,554.smokertemp_consumer.INFO  [x] Received 05/22/21 14:22:40, for smoker.
+2023-09-28 11:29:38,554.smokertemp_consumer.INFO                               
+2023-09-28 11:29:38,554.smokertemp_consumer.INFO                               
+2023-09-28 11:29:38,554.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:29:38,554.smokertemp_consumer.INFO                               
+2023-09-28 11:30:08,560.smokertemp_consumer.INFO                               
+2023-09-28 11:30:08,560.smokertemp_consumer.INFO  [x] Received 05/22/21 14:22:45, for smoker.
+2023-09-28 11:30:08,560.smokertemp_consumer.INFO                               
+2023-09-28 11:30:08,560.smokertemp_consumer.INFO                               
+2023-09-28 11:30:08,561.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:30:08,561.smokertemp_consumer.INFO                               
+2023-09-28 11:30:38,571.smokertemp_consumer.INFO                               
+2023-09-28 11:30:38,577.smokertemp_consumer.INFO  [x] Received 05/22/21 14:23:10,249.8 for smoker.
+2023-09-28 11:30:38,577.smokertemp_consumer.INFO                               
+2023-09-28 11:30:38,578.smokertemp_consumer.INFO                               
+2023-09-28 11:30:38,578.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:30:38,578.smokertemp_consumer.INFO                               
+2023-09-28 11:31:08,589.smokertemp_consumer.INFO                               
+2023-09-28 11:31:08,589.smokertemp_consumer.INFO  [x] Received 05/22/21 14:23:15,249.8 for smoker.
+2023-09-28 11:31:08,589.smokertemp_consumer.INFO                               
+2023-09-28 11:31:08,589.smokertemp_consumer.INFO                               
+2023-09-28 11:31:08,590.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:31:08,590.smokertemp_consumer.INFO                               
+2023-09-28 11:31:38,600.smokertemp_consumer.INFO                               
+2023-09-28 11:31:38,600.smokertemp_consumer.INFO  [x] Received 05/22/21 14:23:35, for smoker.
+2023-09-28 11:31:38,600.smokertemp_consumer.INFO                               
+2023-09-28 11:31:38,600.smokertemp_consumer.INFO                               
+2023-09-28 11:31:38,600.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:31:38,601.smokertemp_consumer.INFO                               
+2023-09-28 11:32:08,611.smokertemp_consumer.INFO                               
+2023-09-28 11:32:08,611.smokertemp_consumer.INFO  [x] Received 05/22/21 14:23:40, for smoker.
+2023-09-28 11:32:08,611.smokertemp_consumer.INFO                               
+2023-09-28 11:32:08,612.smokertemp_consumer.INFO                               
+2023-09-28 11:32:08,612.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:32:08,612.smokertemp_consumer.INFO                               
+2023-09-28 11:32:38,613.smokertemp_consumer.INFO                               
+2023-09-28 11:32:38,614.smokertemp_consumer.INFO  [x] Received 05/22/21 14:23:45, for smoker.
+2023-09-28 11:32:38,614.smokertemp_consumer.INFO                               
+2023-09-28 11:32:38,614.smokertemp_consumer.INFO                               
+2023-09-28 11:32:38,615.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:32:38,615.smokertemp_consumer.INFO                               
+2023-09-28 11:33:08,625.smokertemp_consumer.INFO                               
+2023-09-28 11:33:08,625.smokertemp_consumer.INFO  [x] Received 05/22/21 14:24:10,249.2 for smoker.
+2023-09-28 11:33:08,625.smokertemp_consumer.INFO                               
+2023-09-28 11:33:08,626.smokertemp_consumer.INFO                               
+2023-09-28 11:33:08,626.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:33:08,626.smokertemp_consumer.INFO                               
+2023-09-28 11:33:38,625.smokertemp_consumer.INFO                               
+2023-09-28 11:33:38,626.smokertemp_consumer.INFO  [x] Received 05/22/21 14:24:15,249.2 for smoker.
+2023-09-28 11:33:38,626.smokertemp_consumer.INFO                               
+2023-09-28 11:33:38,626.smokertemp_consumer.INFO                               
+2023-09-28 11:33:38,626.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:33:38,626.smokertemp_consumer.INFO                               
+2023-09-28 11:34:08,636.smokertemp_consumer.INFO                               
+2023-09-28 11:34:08,636.smokertemp_consumer.INFO  [x] Received 05/22/21 14:24:35, for smoker.
+2023-09-28 11:34:08,636.smokertemp_consumer.INFO                               
+2023-09-28 11:34:08,636.smokertemp_consumer.INFO                               
+2023-09-28 11:34:08,636.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 11:34:08,637.smokertemp_consumer.INFO                               
+2023-09-28 12:09:48,872.smokertemp_consumer.INFO                               
+2023-09-28 12:09:48,873.smokertemp_consumer.INFO  [x] Received 05/22/21 14:24:40, for smoker.
+2023-09-28 12:09:48,873.smokertemp_consumer.INFO                               
+2023-09-28 12:09:48,873.smokertemp_consumer.INFO                               
+2023-09-28 12:09:48,873.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 12:09:48,873.smokertemp_consumer.INFO                               
+2023-09-28 12:10:19,253.smokertemp_consumer.INFO                               
+2023-09-28 12:10:19,253.smokertemp_consumer.INFO  [x] Received 05/22/21 14:24:45, for smoker.
+2023-09-28 12:10:19,253.smokertemp_consumer.INFO                               
+2023-09-28 12:10:19,253.smokertemp_consumer.INFO                               
+2023-09-28 12:10:19,254.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 12:10:19,254.smokertemp_consumer.INFO                               
+2023-09-28 15:32:48,185.smokertemp_consumer.INFO                               
+2023-09-28 15:32:48,185.smokertemp_consumer.INFO  [x] Received 05/22/21 14:25:10,248.1 for smoker.
+2023-09-28 15:32:48,185.smokertemp_consumer.INFO                               
+2023-09-28 15:32:48,185.smokertemp_consumer.INFO                               
+2023-09-28 15:32:48,185.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 15:32:48,185.smokertemp_consumer.INFO                               
+2023-09-28 15:33:18,190.smokertemp_consumer.INFO                               
+2023-09-28 15:33:18,190.smokertemp_consumer.INFO  [x] Received 05/22/21 14:25:15,248.1 for smoker.
+2023-09-28 15:33:18,190.smokertemp_consumer.INFO                               
+2023-09-28 15:33:18,190.smokertemp_consumer.INFO                               
+2023-09-28 15:33:18,190.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 15:33:18,190.smokertemp_consumer.INFO                               
+2023-09-28 15:36:26,132.smokertemp_consumer.INFO                               
+2023-09-28 15:36:26,133.smokertemp_consumer.INFO  [x] Received 05/22/21 14:25:35, for smoker.
+2023-09-28 15:36:26,133.smokertemp_consumer.INFO                               
+2023-09-28 15:36:26,133.smokertemp_consumer.INFO                               
+2023-09-28 15:36:26,133.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 15:36:26,133.smokertemp_consumer.INFO                               
+2023-09-28 15:36:56,142.smokertemp_consumer.INFO                               
+2023-09-28 15:36:56,142.smokertemp_consumer.INFO  [x] Received 05/22/21 14:25:40, for smoker.
+2023-09-28 15:36:56,143.smokertemp_consumer.INFO                               
+2023-09-28 15:36:56,143.smokertemp_consumer.INFO                               
+2023-09-28 15:36:56,143.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 15:36:56,143.smokertemp_consumer.INFO                               
+2023-09-28 19:33:17,123.smokertemp_consumer.INFO                               
+2023-09-28 19:33:17,123.smokertemp_consumer.INFO  [x] Received 05/22/21 14:25:45, for smoker.
+2023-09-28 19:33:17,124.smokertemp_consumer.INFO                               
+2023-09-28 19:33:17,124.smokertemp_consumer.INFO                               
+2023-09-28 19:33:17,124.smokertemp_consumer.INFO  [x] Done.
+2023-09-28 19:33:17,124.smokertemp_consumer.INFO                               

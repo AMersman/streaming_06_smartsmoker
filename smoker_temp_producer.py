@@ -106,7 +106,7 @@ def send_message(
                     body=message_c_encode)
                 #print message to the console using logger
                 logger.info(f'[x] Sent {message_c} to {queue_name_c}')
-                #wait 15 seconds before sending next message
+                #wait 30 seconds before sending next message
                 time.sleep(30)
 
     except pika.exceptions.AMQPConnectionError as e:

@@ -10,29 +10,54 @@
 import pika
 import sys
 import time
+import sys
+from collections import deque
 import csv
 from util_logger import setup_logger
 
 logger, logname = setup_logger(__file__)
+#set variable min to length of time for the alert
+min = 10
+
+#initialze deque of maxlen assuming 30second intervals
+queue = deque(maxlen=int(min * 60/30))
+
+#establish divider for ease of viewing
+divider="   " * 10
 
 # define a callback function to be called when a message is received
 def callback(ch, method, properties, body):
     """ Define behavior on getting a message."""
     # decode the binary message body to a string
+    logger.info(divider)
     logger.info(f" [x] Received {body.decode()}")
-    time = body.decode().split(",")[0]
-    foodBtemp = body.decode().split(",")[1]
-    # write message to nation
-    with open('food_A_temp.csv', 'w') as file:
-        
-        writer = csv.writer(file, delimiter = ',')
-        writer.writerow(["Time", "Food B Temperature"])
-        writer.writerow([time, foodBtemp])
-    # when done with task, tell the user
-    logger.info(" [x] Done.")
-    # acknowledge the message was received and processed 
-    # (now it can be deleted from the queue)
-    ch.basic_ack(delivery_tag=method.delivery_tag)
+    logger.info(divider)
+    try:
+        message = body.decode().split(",")
+        #check to see if a temperature is present and append the temperatures to the deque
+        if message[1] != "":
+            timestamp = message[0]
+            temp = float(message[1])
+            queue.append(temp)
+            #start checking the temperature difference between the first and last readings in intervals of 10 minutes. Alert if th change is less than 1 degree
+            if len(queue) >= (min * 60/30):
+                temp_change = queue[-1] - queue[0]
+                if abs(temp_change)<1:
+                    logger.info(divider)
+                    logger.info(f'Warning! You hit a food stall at {timestamp}. The temperature has not changed in the past 10 minutes!')
+                    logger.info(divider)
+        logger.info(divider)
+        logger.info(" [x] Done.")
+        logger.info(divider)
+        # acknowledge the message was received and processed 
+        # (now it can be deleted from the queue)
+        ch.basic_ack(delivery_tag=method.delivery_tag)
+
+    except Exception as error:
+        logger.info(divider)
+        logger.error('An error has occured.')
+        logger.error(f'Error: {error}')
+        logger.info(divider)
 
 
 # define a main function to run the program
@@ -47,11 +72,13 @@ def main(hn: str = "localhost", qn: str = "03-food-B"):
 
     # except, if there's an error, do this
     except Exception as e:
+        logger.info(divider)
         logger.info("---***---")
         logger.info("ERROR: connection to RabbitMQ server failed.")
         logger.info(f"Verify the server is running on host={hn}.")
         logger.info(f"The error says: {e}")
         logger.info("---***---")
+        logger.info(divider)
         sys.exit(1)
 
     try:
@@ -80,22 +107,27 @@ def main(hn: str = "localhost", qn: str = "03-food-B"):
         channel.basic_consume( queue=qn, on_message_callback=callback)
 
         # print a message to the console for the user
+        logger.info(divider)
         logger.info(" [*] Ready for work. To exit press CTRL+C")
+        logger.info(divider)
 
         # start consuming messages via the communication channel
         channel.start_consuming()
 
     # except, in the event of an error OR user stops the process, do this
     except Exception as e:
+        logger.info(divider)
         logger.info("---***---")
         logger.info("ERROR: something went wrong.")
         logger.info(f"The error says: {e}")
+        logger.info(divider)
         sys.exit(1)
     except KeyboardInterrupt:
         logger.info("---***---")
         logger.info(" User interrupted continuous listening process.")
         sys.exit(0)
     finally:
+        logger.info(divider)
         logger.info("\nClosing connection. Goodbye.\n")
         connection.close()
 

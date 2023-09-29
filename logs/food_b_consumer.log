@@ -1,0 +1,2257 @@
+2023-09-28 08:31:14,985.food_b_consumer.INFO --------------------------------------------------
+2023-09-28 08:31:14,986.food_b_consumer.INFO Today is 2023-09-28 at 08:31 AM
+2023-09-28 08:31:14,986.food_b_consumer.INFO Running on: posix Darwin 19.6.0
+2023-09-28 08:31:14,986.food_b_consumer.INFO Python version:  3.11.4
+2023-09-28 08:31:14,986.food_b_consumer.INFO Python path: /Users/ashleymersman/Desktop/Streaming/streaming_06_smartsmoker/.venv
+2023-09-28 08:31:14,986.food_b_consumer.INFO Working dir: /Users/ashleymersman/Desktop/Streaming/streaming_06_smartsmoker
+2023-09-28 08:31:14,986.food_b_consumer.INFO --------------------------------------------------
+2023-09-28 08:31:14,999.food_b_consumer.INFO                               
+2023-09-28 08:31:14,999.food_b_consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-28 08:31:14,999.food_b_consumer.INFO                               
+2023-09-28 08:31:14,999.food_b_consumer.INFO                               
+2023-09-28 08:31:15,000.food_b_consumer.INFO  [x] Received 05/22/21 12:20:15,
+2023-09-28 08:31:15,000.food_b_consumer.INFO                               
+2023-09-28 08:31:15,000.food_b_consumer.INFO                               
+2023-09-28 08:31:15,000.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:31:15,000.food_b_consumer.INFO                               
+2023-09-28 08:31:35,831.food_b_consumer.INFO                               
+2023-09-28 08:31:35,831.food_b_consumer.INFO  [x] Received 05/22/21 12:20:20,
+2023-09-28 08:31:35,831.food_b_consumer.INFO                               
+2023-09-28 08:31:35,831.food_b_consumer.INFO                               
+2023-09-28 08:31:35,831.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:31:35,831.food_b_consumer.INFO                               
+2023-09-28 08:32:05,837.food_b_consumer.INFO                               
+2023-09-28 08:32:05,837.food_b_consumer.INFO  [x] Received 05/22/21 12:21:10,
+2023-09-28 08:32:05,837.food_b_consumer.INFO                               
+2023-09-28 08:32:05,837.food_b_consumer.INFO                               
+2023-09-28 08:32:05,837.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:32:05,837.food_b_consumer.INFO                               
+2023-09-28 08:32:35,840.food_b_consumer.INFO                               
+2023-09-28 08:32:35,840.food_b_consumer.INFO  [x] Received 05/22/21 12:21:15,
+2023-09-28 08:32:35,840.food_b_consumer.INFO                               
+2023-09-28 08:32:35,840.food_b_consumer.INFO                               
+2023-09-28 08:32:35,841.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:32:35,841.food_b_consumer.INFO                               
+2023-09-28 08:33:05,846.food_b_consumer.INFO                               
+2023-09-28 08:33:05,846.food_b_consumer.INFO  [x] Received 05/22/21 12:22:10,
+2023-09-28 08:33:05,846.food_b_consumer.INFO                               
+2023-09-28 08:33:05,846.food_b_consumer.INFO                               
+2023-09-28 08:33:05,846.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:33:05,846.food_b_consumer.INFO                               
+2023-09-28 08:33:35,849.food_b_consumer.INFO                               
+2023-09-28 08:33:35,849.food_b_consumer.INFO  [x] Received 05/22/21 12:22:15,
+2023-09-28 08:33:35,849.food_b_consumer.INFO                               
+2023-09-28 08:33:35,850.food_b_consumer.INFO                               
+2023-09-28 08:33:35,850.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:33:35,850.food_b_consumer.INFO                               
+2023-09-28 08:34:05,852.food_b_consumer.INFO                               
+2023-09-28 08:34:05,852.food_b_consumer.INFO  [x] Received 05/22/21 12:23:10,
+2023-09-28 08:34:05,852.food_b_consumer.INFO                               
+2023-09-28 08:34:05,852.food_b_consumer.INFO                               
+2023-09-28 08:34:05,853.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:34:05,853.food_b_consumer.INFO                               
+2023-09-28 08:34:35,857.food_b_consumer.INFO                               
+2023-09-28 08:34:35,857.food_b_consumer.INFO  [x] Received 05/22/21 12:23:15,
+2023-09-28 08:34:35,857.food_b_consumer.INFO                               
+2023-09-28 08:34:35,857.food_b_consumer.INFO                               
+2023-09-28 08:34:35,858.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:34:35,858.food_b_consumer.INFO                               
+2023-09-28 08:35:05,864.food_b_consumer.INFO                               
+2023-09-28 08:35:05,864.food_b_consumer.INFO  [x] Received 05/22/21 12:24:10,
+2023-09-28 08:35:05,865.food_b_consumer.INFO                               
+2023-09-28 08:35:05,865.food_b_consumer.INFO                               
+2023-09-28 08:35:05,865.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:35:05,865.food_b_consumer.INFO                               
+2023-09-28 08:35:35,867.food_b_consumer.INFO                               
+2023-09-28 08:35:35,867.food_b_consumer.INFO  [x] Received 05/22/21 12:24:15,
+2023-09-28 08:35:35,867.food_b_consumer.INFO                               
+2023-09-28 08:35:35,867.food_b_consumer.INFO                               
+2023-09-28 08:35:35,867.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:35:35,868.food_b_consumer.INFO                               
+2023-09-28 08:36:05,871.food_b_consumer.INFO                               
+2023-09-28 08:36:05,871.food_b_consumer.INFO  [x] Received 05/22/21 12:25:05,
+2023-09-28 08:36:05,871.food_b_consumer.INFO                               
+2023-09-28 08:36:05,871.food_b_consumer.INFO                               
+2023-09-28 08:36:05,871.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:36:05,871.food_b_consumer.INFO                               
+2023-09-28 08:36:35,877.food_b_consumer.INFO                               
+2023-09-28 08:36:35,877.food_b_consumer.INFO  [x] Received 05/22/21 12:25:10,
+2023-09-28 08:36:35,877.food_b_consumer.INFO                               
+2023-09-28 08:36:35,877.food_b_consumer.INFO                               
+2023-09-28 08:36:35,877.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:36:35,877.food_b_consumer.INFO                               
+2023-09-28 08:37:05,883.food_b_consumer.INFO                               
+2023-09-28 08:37:05,883.food_b_consumer.INFO  [x] Received 05/22/21 12:25:15,
+2023-09-28 08:37:05,883.food_b_consumer.INFO                               
+2023-09-28 08:37:05,883.food_b_consumer.INFO                               
+2023-09-28 08:37:05,883.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:37:05,883.food_b_consumer.INFO                               
+2023-09-28 08:37:35,883.food_b_consumer.INFO                               
+2023-09-28 08:37:35,883.food_b_consumer.INFO  [x] Received 05/22/21 12:26:10,
+2023-09-28 08:37:35,883.food_b_consumer.INFO                               
+2023-09-28 08:37:35,883.food_b_consumer.INFO                               
+2023-09-28 08:37:35,883.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:37:35,883.food_b_consumer.INFO                               
+2023-09-28 08:38:05,884.food_b_consumer.INFO                               
+2023-09-28 08:38:05,884.food_b_consumer.INFO  [x] Received 05/22/21 12:26:15,
+2023-09-28 08:38:05,884.food_b_consumer.INFO                               
+2023-09-28 08:38:05,884.food_b_consumer.INFO                               
+2023-09-28 08:38:05,884.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:38:05,885.food_b_consumer.INFO                               
+2023-09-28 08:38:35,890.food_b_consumer.INFO                               
+2023-09-28 08:38:35,891.food_b_consumer.INFO  [x] Received 05/22/21 12:27:10,
+2023-09-28 08:38:35,891.food_b_consumer.INFO                               
+2023-09-28 08:38:35,891.food_b_consumer.INFO                               
+2023-09-28 08:38:35,891.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:38:35,891.food_b_consumer.INFO                               
+2023-09-28 08:39:05,891.food_b_consumer.INFO                               
+2023-09-28 08:39:05,891.food_b_consumer.INFO  [x] Received 05/22/21 12:27:15,
+2023-09-28 08:39:05,891.food_b_consumer.INFO                               
+2023-09-28 08:39:05,891.food_b_consumer.INFO                               
+2023-09-28 08:39:05,892.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:39:05,892.food_b_consumer.INFO                               
+2023-09-28 08:39:35,898.food_b_consumer.INFO                               
+2023-09-28 08:39:35,898.food_b_consumer.INFO  [x] Received 05/22/21 12:28:10,
+2023-09-28 08:39:35,898.food_b_consumer.INFO                               
+2023-09-28 08:39:35,899.food_b_consumer.INFO                               
+2023-09-28 08:39:35,899.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:39:35,899.food_b_consumer.INFO                               
+2023-09-28 08:40:05,899.food_b_consumer.INFO                               
+2023-09-28 08:40:05,899.food_b_consumer.INFO  [x] Received 05/22/21 12:28:15,
+2023-09-28 08:40:05,900.food_b_consumer.INFO                               
+2023-09-28 08:40:05,900.food_b_consumer.INFO                               
+2023-09-28 08:40:05,900.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:40:05,900.food_b_consumer.INFO                               
+2023-09-28 08:40:35,911.food_b_consumer.INFO                               
+2023-09-28 08:40:35,911.food_b_consumer.INFO  [x] Received 05/22/21 12:29:10,
+2023-09-28 08:40:35,911.food_b_consumer.INFO                               
+2023-09-28 08:40:35,912.food_b_consumer.INFO                               
+2023-09-28 08:40:35,912.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:40:35,912.food_b_consumer.INFO                               
+2023-09-28 08:41:05,916.food_b_consumer.INFO                               
+2023-09-28 08:41:05,916.food_b_consumer.INFO  [x] Received 05/22/21 12:29:15,
+2023-09-28 08:41:05,916.food_b_consumer.INFO                               
+2023-09-28 08:41:05,916.food_b_consumer.INFO                               
+2023-09-28 08:41:05,916.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:41:05,916.food_b_consumer.INFO                               
+2023-09-28 08:41:35,922.food_b_consumer.INFO                               
+2023-09-28 08:41:35,922.food_b_consumer.INFO  [x] Received 05/22/21 12:30:10,
+2023-09-28 08:41:35,923.food_b_consumer.INFO                               
+2023-09-28 08:41:35,923.food_b_consumer.INFO                               
+2023-09-28 08:41:35,923.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:41:35,923.food_b_consumer.INFO                               
+2023-09-28 08:42:05,932.food_b_consumer.INFO                               
+2023-09-28 08:42:05,932.food_b_consumer.INFO  [x] Received 05/22/21 12:30:15,
+2023-09-28 08:42:05,932.food_b_consumer.INFO                               
+2023-09-28 08:42:05,932.food_b_consumer.INFO                               
+2023-09-28 08:42:05,932.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:42:05,933.food_b_consumer.INFO                               
+2023-09-28 08:42:35,942.food_b_consumer.INFO                               
+2023-09-28 08:42:35,942.food_b_consumer.INFO  [x] Received 05/22/21 12:31:10,
+2023-09-28 08:42:35,942.food_b_consumer.INFO                               
+2023-09-28 08:42:35,942.food_b_consumer.INFO                               
+2023-09-28 08:42:35,942.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:42:35,943.food_b_consumer.INFO                               
+2023-09-28 08:43:05,947.food_b_consumer.INFO                               
+2023-09-28 08:43:05,948.food_b_consumer.INFO  [x] Received 05/22/21 12:31:15,
+2023-09-28 08:43:05,948.food_b_consumer.INFO                               
+2023-09-28 08:43:05,948.food_b_consumer.INFO                               
+2023-09-28 08:43:05,948.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:43:05,948.food_b_consumer.INFO                               
+2023-09-28 08:43:35,951.food_b_consumer.INFO                               
+2023-09-28 08:43:35,951.food_b_consumer.INFO  [x] Received 05/22/21 12:32:10,
+2023-09-28 08:43:35,951.food_b_consumer.INFO                               
+2023-09-28 08:43:35,951.food_b_consumer.INFO                               
+2023-09-28 08:43:35,951.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:43:35,951.food_b_consumer.INFO                               
+2023-09-28 08:44:05,958.food_b_consumer.INFO                               
+2023-09-28 08:44:05,958.food_b_consumer.INFO  [x] Received 05/22/21 12:32:15,
+2023-09-28 08:44:05,958.food_b_consumer.INFO                               
+2023-09-28 08:44:05,958.food_b_consumer.INFO                               
+2023-09-28 08:44:05,958.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:44:05,958.food_b_consumer.INFO                               
+2023-09-28 08:44:35,968.food_b_consumer.INFO                               
+2023-09-28 08:44:35,968.food_b_consumer.INFO  [x] Received 05/22/21 12:33:10,
+2023-09-28 08:44:35,968.food_b_consumer.INFO                               
+2023-09-28 08:44:35,968.food_b_consumer.INFO                               
+2023-09-28 08:44:35,968.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:44:35,969.food_b_consumer.INFO                               
+2023-09-28 08:45:05,978.food_b_consumer.INFO                               
+2023-09-28 08:45:05,978.food_b_consumer.INFO  [x] Received 05/22/21 12:33:15,
+2023-09-28 08:45:05,979.food_b_consumer.INFO                               
+2023-09-28 08:45:05,979.food_b_consumer.INFO                               
+2023-09-28 08:45:05,979.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:45:05,979.food_b_consumer.INFO                               
+2023-09-28 08:45:35,990.food_b_consumer.INFO                               
+2023-09-28 08:45:35,990.food_b_consumer.INFO  [x] Received 05/22/21 12:34:10,
+2023-09-28 08:45:35,991.food_b_consumer.INFO                               
+2023-09-28 08:45:35,991.food_b_consumer.INFO                               
+2023-09-28 08:45:35,991.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:45:35,991.food_b_consumer.INFO                               
+2023-09-28 08:46:06,002.food_b_consumer.INFO                               
+2023-09-28 08:46:06,002.food_b_consumer.INFO  [x] Received 05/22/21 12:34:15,
+2023-09-28 08:46:06,002.food_b_consumer.INFO                               
+2023-09-28 08:46:06,003.food_b_consumer.INFO                               
+2023-09-28 08:46:06,003.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:46:06,003.food_b_consumer.INFO                               
+2023-09-28 08:46:36,003.food_b_consumer.INFO                               
+2023-09-28 08:46:36,003.food_b_consumer.INFO  [x] Received 05/22/21 12:35:10,
+2023-09-28 08:46:36,003.food_b_consumer.INFO                               
+2023-09-28 08:46:36,004.food_b_consumer.INFO                               
+2023-09-28 08:46:36,004.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:46:36,004.food_b_consumer.INFO                               
+2023-09-28 08:47:06,014.food_b_consumer.INFO                               
+2023-09-28 08:47:06,014.food_b_consumer.INFO  [x] Received 05/22/21 12:35:15,
+2023-09-28 08:47:06,014.food_b_consumer.INFO                               
+2023-09-28 08:47:06,014.food_b_consumer.INFO                               
+2023-09-28 08:47:06,014.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:47:06,014.food_b_consumer.INFO                               
+2023-09-28 08:47:36,026.food_b_consumer.INFO                               
+2023-09-28 08:47:36,026.food_b_consumer.INFO  [x] Received 05/22/21 12:36:10,
+2023-09-28 08:47:36,026.food_b_consumer.INFO                               
+2023-09-28 08:47:36,026.food_b_consumer.INFO                               
+2023-09-28 08:47:36,026.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:47:36,027.food_b_consumer.INFO                               
+2023-09-28 08:48:06,032.food_b_consumer.INFO                               
+2023-09-28 08:48:06,032.food_b_consumer.INFO  [x] Received 05/22/21 12:36:15,
+2023-09-28 08:48:06,032.food_b_consumer.INFO                               
+2023-09-28 08:48:06,032.food_b_consumer.INFO                               
+2023-09-28 08:48:06,032.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:48:06,032.food_b_consumer.INFO                               
+2023-09-28 08:48:36,036.food_b_consumer.INFO                               
+2023-09-28 08:48:36,036.food_b_consumer.INFO  [x] Received 05/22/21 12:37:10,
+2023-09-28 08:48:36,036.food_b_consumer.INFO                               
+2023-09-28 08:48:36,036.food_b_consumer.INFO                               
+2023-09-28 08:48:36,036.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:48:36,036.food_b_consumer.INFO                               
+2023-09-28 08:49:06,040.food_b_consumer.INFO                               
+2023-09-28 08:49:06,040.food_b_consumer.INFO  [x] Received 05/22/21 12:37:15,
+2023-09-28 08:49:06,040.food_b_consumer.INFO                               
+2023-09-28 08:49:06,040.food_b_consumer.INFO                               
+2023-09-28 08:49:06,040.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:49:06,040.food_b_consumer.INFO                               
+2023-09-28 08:49:36,046.food_b_consumer.INFO                               
+2023-09-28 08:49:36,046.food_b_consumer.INFO  [x] Received 05/22/21 12:38:10,
+2023-09-28 08:49:36,047.food_b_consumer.INFO                               
+2023-09-28 08:49:36,047.food_b_consumer.INFO                               
+2023-09-28 08:49:36,047.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:49:36,047.food_b_consumer.INFO                               
+2023-09-28 08:50:06,052.food_b_consumer.INFO                               
+2023-09-28 08:50:06,052.food_b_consumer.INFO  [x] Received 05/22/21 12:38:15,
+2023-09-28 08:50:06,052.food_b_consumer.INFO                               
+2023-09-28 08:50:06,052.food_b_consumer.INFO                               
+2023-09-28 08:50:06,052.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:50:06,052.food_b_consumer.INFO                               
+2023-09-28 08:50:36,056.food_b_consumer.INFO                               
+2023-09-28 08:50:36,056.food_b_consumer.INFO  [x] Received 05/22/21 12:39:10,
+2023-09-28 08:50:36,056.food_b_consumer.INFO                               
+2023-09-28 08:50:36,056.food_b_consumer.INFO                               
+2023-09-28 08:50:36,057.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:50:36,057.food_b_consumer.INFO                               
+2023-09-28 08:51:06,060.food_b_consumer.INFO                               
+2023-09-28 08:51:06,060.food_b_consumer.INFO  [x] Received 05/22/21 12:39:15,
+2023-09-28 08:51:06,061.food_b_consumer.INFO                               
+2023-09-28 08:51:06,061.food_b_consumer.INFO                               
+2023-09-28 08:51:06,061.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:51:06,061.food_b_consumer.INFO                               
+2023-09-28 08:51:36,066.food_b_consumer.INFO                               
+2023-09-28 08:51:36,066.food_b_consumer.INFO  [x] Received 05/22/21 12:40:10,
+2023-09-28 08:51:36,066.food_b_consumer.INFO                               
+2023-09-28 08:51:36,066.food_b_consumer.INFO                               
+2023-09-28 08:51:36,066.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:51:36,067.food_b_consumer.INFO                               
+2023-09-28 08:52:06,070.food_b_consumer.INFO                               
+2023-09-28 08:52:06,070.food_b_consumer.INFO  [x] Received 05/22/21 12:40:15,
+2023-09-28 08:52:06,070.food_b_consumer.INFO                               
+2023-09-28 08:52:06,070.food_b_consumer.INFO                               
+2023-09-28 08:52:06,070.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:52:06,071.food_b_consumer.INFO                               
+2023-09-28 08:52:36,076.food_b_consumer.INFO                               
+2023-09-28 08:52:36,077.food_b_consumer.INFO  [x] Received 05/22/21 12:41:10,
+2023-09-28 08:52:36,077.food_b_consumer.INFO                               
+2023-09-28 08:52:36,077.food_b_consumer.INFO                               
+2023-09-28 08:52:36,077.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:52:36,077.food_b_consumer.INFO                               
+2023-09-28 08:53:06,082.food_b_consumer.INFO                               
+2023-09-28 08:53:06,082.food_b_consumer.INFO  [x] Received 05/22/21 12:41:15,
+2023-09-28 08:53:06,082.food_b_consumer.INFO                               
+2023-09-28 08:53:06,082.food_b_consumer.INFO                               
+2023-09-28 08:53:06,082.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:53:06,082.food_b_consumer.INFO                               
+2023-09-28 08:53:36,085.food_b_consumer.INFO                               
+2023-09-28 08:53:36,086.food_b_consumer.INFO  [x] Received 05/22/21 12:42:10,
+2023-09-28 08:53:36,086.food_b_consumer.INFO                               
+2023-09-28 08:53:36,086.food_b_consumer.INFO                               
+2023-09-28 08:53:36,086.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:53:36,086.food_b_consumer.INFO                               
+2023-09-28 08:54:06,088.food_b_consumer.INFO                               
+2023-09-28 08:54:06,088.food_b_consumer.INFO  [x] Received 05/22/21 12:42:15,
+2023-09-28 08:54:06,088.food_b_consumer.INFO                               
+2023-09-28 08:54:06,088.food_b_consumer.INFO                               
+2023-09-28 08:54:06,088.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:54:06,088.food_b_consumer.INFO                               
+2023-09-28 08:54:36,095.food_b_consumer.INFO                               
+2023-09-28 08:54:36,095.food_b_consumer.INFO  [x] Received 05/22/21 12:43:10,
+2023-09-28 08:54:36,095.food_b_consumer.INFO                               
+2023-09-28 08:54:36,095.food_b_consumer.INFO                               
+2023-09-28 08:54:36,095.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:54:36,095.food_b_consumer.INFO                               
+2023-09-28 08:55:06,099.food_b_consumer.INFO                               
+2023-09-28 08:55:06,099.food_b_consumer.INFO  [x] Received 05/22/21 12:43:15,
+2023-09-28 08:55:06,099.food_b_consumer.INFO                               
+2023-09-28 08:55:06,099.food_b_consumer.INFO                               
+2023-09-28 08:55:06,099.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:55:06,099.food_b_consumer.INFO                               
+2023-09-28 08:55:36,104.food_b_consumer.INFO                               
+2023-09-28 08:55:36,104.food_b_consumer.INFO  [x] Received 05/22/21 12:44:10,
+2023-09-28 08:55:36,104.food_b_consumer.INFO                               
+2023-09-28 08:55:36,104.food_b_consumer.INFO                               
+2023-09-28 08:55:36,104.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:55:36,104.food_b_consumer.INFO                               
+2023-09-28 08:56:06,107.food_b_consumer.INFO                               
+2023-09-28 08:56:06,107.food_b_consumer.INFO  [x] Received 05/22/21 12:44:15,
+2023-09-28 08:56:06,107.food_b_consumer.INFO                               
+2023-09-28 08:56:06,108.food_b_consumer.INFO                               
+2023-09-28 08:56:06,108.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:56:06,108.food_b_consumer.INFO                               
+2023-09-28 08:56:36,112.food_b_consumer.INFO                               
+2023-09-28 08:56:36,112.food_b_consumer.INFO  [x] Received 05/22/21 12:45:10,
+2023-09-28 08:56:36,113.food_b_consumer.INFO                               
+2023-09-28 08:56:36,113.food_b_consumer.INFO                               
+2023-09-28 08:56:36,113.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:56:36,113.food_b_consumer.INFO                               
+2023-09-28 08:57:06,114.food_b_consumer.INFO                               
+2023-09-28 08:57:06,115.food_b_consumer.INFO  [x] Received 05/22/21 12:45:15,
+2023-09-28 08:57:06,115.food_b_consumer.INFO                               
+2023-09-28 08:57:06,115.food_b_consumer.INFO                               
+2023-09-28 08:57:06,115.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:57:06,115.food_b_consumer.INFO                               
+2023-09-28 08:57:36,120.food_b_consumer.INFO                               
+2023-09-28 08:57:36,120.food_b_consumer.INFO  [x] Received 05/22/21 12:46:10,
+2023-09-28 08:57:36,120.food_b_consumer.INFO                               
+2023-09-28 08:57:36,120.food_b_consumer.INFO                               
+2023-09-28 08:57:36,120.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:57:36,120.food_b_consumer.INFO                               
+2023-09-28 08:58:06,125.food_b_consumer.INFO                               
+2023-09-28 08:58:06,125.food_b_consumer.INFO  [x] Received 05/22/21 12:46:15,
+2023-09-28 08:58:06,125.food_b_consumer.INFO                               
+2023-09-28 08:58:06,125.food_b_consumer.INFO                               
+2023-09-28 08:58:06,125.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:58:06,126.food_b_consumer.INFO                               
+2023-09-28 08:58:36,131.food_b_consumer.INFO                               
+2023-09-28 08:58:36,131.food_b_consumer.INFO  [x] Received 05/22/21 12:47:10,
+2023-09-28 08:58:36,131.food_b_consumer.INFO                               
+2023-09-28 08:58:36,131.food_b_consumer.INFO                               
+2023-09-28 08:58:36,131.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:58:36,131.food_b_consumer.INFO                               
+2023-09-28 08:59:06,172.food_b_consumer.INFO                               
+2023-09-28 08:59:06,172.food_b_consumer.INFO  [x] Received 05/22/21 12:47:15,
+2023-09-28 08:59:06,173.food_b_consumer.INFO                               
+2023-09-28 08:59:06,173.food_b_consumer.INFO                               
+2023-09-28 08:59:06,173.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:59:06,173.food_b_consumer.INFO                               
+2023-09-28 08:59:36,141.food_b_consumer.INFO                               
+2023-09-28 08:59:36,141.food_b_consumer.INFO  [x] Received 05/22/21 12:48:10,
+2023-09-28 08:59:36,141.food_b_consumer.INFO                               
+2023-09-28 08:59:36,141.food_b_consumer.INFO                               
+2023-09-28 08:59:36,142.food_b_consumer.INFO  [x] Done.
+2023-09-28 08:59:36,142.food_b_consumer.INFO                               
+2023-09-28 09:00:06,146.food_b_consumer.INFO                               
+2023-09-28 09:00:06,146.food_b_consumer.INFO  [x] Received 05/22/21 12:48:15,
+2023-09-28 09:00:06,146.food_b_consumer.INFO                               
+2023-09-28 09:00:06,147.food_b_consumer.INFO                               
+2023-09-28 09:00:06,147.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:00:06,147.food_b_consumer.INFO                               
+2023-09-28 09:00:36,151.food_b_consumer.INFO                               
+2023-09-28 09:00:36,151.food_b_consumer.INFO  [x] Received 05/22/21 12:49:10,
+2023-09-28 09:00:36,151.food_b_consumer.INFO                               
+2023-09-28 09:00:36,151.food_b_consumer.INFO                               
+2023-09-28 09:00:36,151.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:00:36,152.food_b_consumer.INFO                               
+2023-09-28 09:01:06,157.food_b_consumer.INFO                               
+2023-09-28 09:01:06,157.food_b_consumer.INFO  [x] Received 05/22/21 12:49:15,
+2023-09-28 09:01:06,157.food_b_consumer.INFO                               
+2023-09-28 09:01:06,157.food_b_consumer.INFO                               
+2023-09-28 09:01:06,157.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:01:06,157.food_b_consumer.INFO                               
+2023-09-28 09:01:36,160.food_b_consumer.INFO                               
+2023-09-28 09:01:36,160.food_b_consumer.INFO  [x] Received 05/22/21 12:50:10,
+2023-09-28 09:01:36,160.food_b_consumer.INFO                               
+2023-09-28 09:01:36,160.food_b_consumer.INFO                               
+2023-09-28 09:01:36,160.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:01:36,160.food_b_consumer.INFO                               
+2023-09-28 09:02:06,163.food_b_consumer.INFO                               
+2023-09-28 09:02:06,163.food_b_consumer.INFO  [x] Received 05/22/21 12:50:15,
+2023-09-28 09:02:06,163.food_b_consumer.INFO                               
+2023-09-28 09:02:06,163.food_b_consumer.INFO                               
+2023-09-28 09:02:06,163.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:02:06,164.food_b_consumer.INFO                               
+2023-09-28 09:02:36,170.food_b_consumer.INFO                               
+2023-09-28 09:02:36,170.food_b_consumer.INFO  [x] Received 05/22/21 12:51:10,
+2023-09-28 09:02:36,170.food_b_consumer.INFO                               
+2023-09-28 09:02:36,171.food_b_consumer.INFO                               
+2023-09-28 09:02:36,171.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:02:36,171.food_b_consumer.INFO                               
+2023-09-28 09:03:06,175.food_b_consumer.INFO                               
+2023-09-28 09:03:06,175.food_b_consumer.INFO  [x] Received 05/22/21 12:51:15,
+2023-09-28 09:03:06,175.food_b_consumer.INFO                               
+2023-09-28 09:03:06,176.food_b_consumer.INFO                               
+2023-09-28 09:03:06,176.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:03:06,176.food_b_consumer.INFO                               
+2023-09-28 09:03:36,181.food_b_consumer.INFO                               
+2023-09-28 09:03:36,181.food_b_consumer.INFO  [x] Received 05/22/21 12:52:10,
+2023-09-28 09:03:36,181.food_b_consumer.INFO                               
+2023-09-28 09:03:36,181.food_b_consumer.INFO                               
+2023-09-28 09:03:36,181.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:03:36,182.food_b_consumer.INFO                               
+2023-09-28 09:04:06,186.food_b_consumer.INFO                               
+2023-09-28 09:04:06,186.food_b_consumer.INFO  [x] Received 05/22/21 12:52:15,
+2023-09-28 09:04:06,186.food_b_consumer.INFO                               
+2023-09-28 09:04:06,186.food_b_consumer.INFO                               
+2023-09-28 09:04:06,186.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:04:06,187.food_b_consumer.INFO                               
+2023-09-28 09:04:36,191.food_b_consumer.INFO                               
+2023-09-28 09:04:36,191.food_b_consumer.INFO  [x] Received 05/22/21 12:53:10,
+2023-09-28 09:04:36,191.food_b_consumer.INFO                               
+2023-09-28 09:04:36,191.food_b_consumer.INFO                               
+2023-09-28 09:04:36,191.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:04:36,192.food_b_consumer.INFO                               
+2023-09-28 09:05:06,196.food_b_consumer.INFO                               
+2023-09-28 09:05:06,196.food_b_consumer.INFO  [x] Received 05/22/21 12:53:15,
+2023-09-28 09:05:06,196.food_b_consumer.INFO                               
+2023-09-28 09:05:06,196.food_b_consumer.INFO                               
+2023-09-28 09:05:06,197.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:05:06,197.food_b_consumer.INFO                               
+2023-09-28 09:05:36,200.food_b_consumer.INFO                               
+2023-09-28 09:05:36,200.food_b_consumer.INFO  [x] Received 05/22/21 12:54:10,
+2023-09-28 09:05:36,200.food_b_consumer.INFO                               
+2023-09-28 09:05:36,200.food_b_consumer.INFO                               
+2023-09-28 09:05:36,200.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:05:36,201.food_b_consumer.INFO                               
+2023-09-28 09:06:06,205.food_b_consumer.INFO                               
+2023-09-28 09:06:06,205.food_b_consumer.INFO  [x] Received 05/22/21 12:54:15,
+2023-09-28 09:06:06,205.food_b_consumer.INFO                               
+2023-09-28 09:06:06,205.food_b_consumer.INFO                               
+2023-09-28 09:06:06,205.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:06:06,206.food_b_consumer.INFO                               
+2023-09-28 09:06:36,208.food_b_consumer.INFO                               
+2023-09-28 09:06:36,208.food_b_consumer.INFO  [x] Received 05/22/21 12:55:05,
+2023-09-28 09:06:36,208.food_b_consumer.INFO                               
+2023-09-28 09:06:36,208.food_b_consumer.INFO                               
+2023-09-28 09:06:36,208.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:06:36,208.food_b_consumer.INFO                               
+2023-09-28 09:07:06,212.food_b_consumer.INFO                               
+2023-09-28 09:07:06,212.food_b_consumer.INFO  [x] Received 05/22/21 12:55:10,
+2023-09-28 09:07:06,213.food_b_consumer.INFO                               
+2023-09-28 09:07:06,213.food_b_consumer.INFO                               
+2023-09-28 09:07:06,213.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:07:06,213.food_b_consumer.INFO                               
+2023-09-28 09:07:36,217.food_b_consumer.INFO                               
+2023-09-28 09:07:36,218.food_b_consumer.INFO  [x] Received 05/22/21 12:55:15,
+2023-09-28 09:07:36,218.food_b_consumer.INFO                               
+2023-09-28 09:07:36,218.food_b_consumer.INFO                               
+2023-09-28 09:07:36,218.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:07:36,218.food_b_consumer.INFO                               
+2023-09-28 09:08:06,223.food_b_consumer.INFO                               
+2023-09-28 09:08:06,223.food_b_consumer.INFO  [x] Received 05/22/21 12:56:10,
+2023-09-28 09:08:06,223.food_b_consumer.INFO                               
+2023-09-28 09:08:06,223.food_b_consumer.INFO                               
+2023-09-28 09:08:06,223.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:08:06,223.food_b_consumer.INFO                               
+2023-09-28 09:08:36,227.food_b_consumer.INFO                               
+2023-09-28 09:08:36,227.food_b_consumer.INFO  [x] Received 05/22/21 12:56:15,
+2023-09-28 09:08:36,227.food_b_consumer.INFO                               
+2023-09-28 09:08:36,227.food_b_consumer.INFO                               
+2023-09-28 09:08:36,227.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:08:36,228.food_b_consumer.INFO                               
+2023-09-28 09:09:06,233.food_b_consumer.INFO                               
+2023-09-28 09:09:06,233.food_b_consumer.INFO  [x] Received 05/22/21 12:57:10,
+2023-09-28 09:09:06,233.food_b_consumer.INFO                               
+2023-09-28 09:09:06,233.food_b_consumer.INFO                               
+2023-09-28 09:09:06,233.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:09:06,233.food_b_consumer.INFO                               
+2023-09-28 09:09:36,238.food_b_consumer.INFO                               
+2023-09-28 09:09:36,238.food_b_consumer.INFO  [x] Received 05/22/21 12:57:15,
+2023-09-28 09:09:36,238.food_b_consumer.INFO                               
+2023-09-28 09:09:36,238.food_b_consumer.INFO                               
+2023-09-28 09:09:36,238.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:09:36,238.food_b_consumer.INFO                               
+2023-09-28 09:10:06,243.food_b_consumer.INFO                               
+2023-09-28 09:10:06,243.food_b_consumer.INFO  [x] Received 05/22/21 12:58:10,
+2023-09-28 09:10:06,243.food_b_consumer.INFO                               
+2023-09-28 09:10:06,243.food_b_consumer.INFO                               
+2023-09-28 09:10:06,244.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:10:06,244.food_b_consumer.INFO                               
+2023-09-28 09:10:36,248.food_b_consumer.INFO                               
+2023-09-28 09:10:36,248.food_b_consumer.INFO  [x] Received 05/22/21 12:58:15,
+2023-09-28 09:10:36,248.food_b_consumer.INFO                               
+2023-09-28 09:10:36,248.food_b_consumer.INFO                               
+2023-09-28 09:10:36,248.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:10:36,248.food_b_consumer.INFO                               
+2023-09-28 09:11:06,251.food_b_consumer.INFO                               
+2023-09-28 09:11:06,251.food_b_consumer.INFO  [x] Received 05/22/21 12:59:10,
+2023-09-28 09:11:06,251.food_b_consumer.INFO                               
+2023-09-28 09:11:06,251.food_b_consumer.INFO                               
+2023-09-28 09:11:06,252.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:11:06,252.food_b_consumer.INFO                               
+2023-09-28 09:11:36,255.food_b_consumer.INFO                               
+2023-09-28 09:11:36,256.food_b_consumer.INFO  [x] Received 05/22/21 12:59:15,
+2023-09-28 09:11:36,256.food_b_consumer.INFO                               
+2023-09-28 09:11:36,256.food_b_consumer.INFO                               
+2023-09-28 09:11:36,256.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:11:36,256.food_b_consumer.INFO                               
+2023-09-28 09:12:06,261.food_b_consumer.INFO                               
+2023-09-28 09:12:06,261.food_b_consumer.INFO  [x] Received 05/22/21 13:00:10,
+2023-09-28 09:12:06,261.food_b_consumer.INFO                               
+2023-09-28 09:12:06,261.food_b_consumer.INFO                               
+2023-09-28 09:12:06,261.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:12:06,261.food_b_consumer.INFO                               
+2023-09-28 09:12:36,266.food_b_consumer.INFO                               
+2023-09-28 09:12:36,266.food_b_consumer.INFO  [x] Received 05/22/21 13:00:15,
+2023-09-28 09:12:36,266.food_b_consumer.INFO                               
+2023-09-28 09:12:36,266.food_b_consumer.INFO                               
+2023-09-28 09:12:36,266.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:12:36,266.food_b_consumer.INFO                               
+2023-09-28 09:13:06,269.food_b_consumer.INFO                               
+2023-09-28 09:13:06,269.food_b_consumer.INFO  [x] Received 05/22/21 13:01:10,
+2023-09-28 09:13:06,269.food_b_consumer.INFO                               
+2023-09-28 09:13:06,270.food_b_consumer.INFO                               
+2023-09-28 09:13:06,270.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:13:06,270.food_b_consumer.INFO                               
+2023-09-28 09:13:36,274.food_b_consumer.INFO                               
+2023-09-28 09:13:36,274.food_b_consumer.INFO  [x] Received 05/22/21 13:01:15,
+2023-09-28 09:13:36,275.food_b_consumer.INFO                               
+2023-09-28 09:13:36,275.food_b_consumer.INFO                               
+2023-09-28 09:13:36,275.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:13:36,275.food_b_consumer.INFO                               
+2023-09-28 09:14:06,280.food_b_consumer.INFO                               
+2023-09-28 09:14:06,280.food_b_consumer.INFO  [x] Received 05/22/21 13:02:10,
+2023-09-28 09:14:06,280.food_b_consumer.INFO                               
+2023-09-28 09:14:06,280.food_b_consumer.INFO                               
+2023-09-28 09:14:06,280.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:14:06,280.food_b_consumer.INFO                               
+2023-09-28 09:14:36,285.food_b_consumer.INFO                               
+2023-09-28 09:14:36,285.food_b_consumer.INFO  [x] Received 05/22/21 13:02:15,
+2023-09-28 09:14:36,285.food_b_consumer.INFO                               
+2023-09-28 09:14:36,285.food_b_consumer.INFO                               
+2023-09-28 09:14:36,285.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:14:36,285.food_b_consumer.INFO                               
+2023-09-28 09:15:06,290.food_b_consumer.INFO                               
+2023-09-28 09:15:06,290.food_b_consumer.INFO  [x] Received 05/22/21 13:03:10,
+2023-09-28 09:15:06,290.food_b_consumer.INFO                               
+2023-09-28 09:15:06,290.food_b_consumer.INFO                               
+2023-09-28 09:15:06,290.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:15:06,290.food_b_consumer.INFO                               
+2023-09-28 09:15:36,294.food_b_consumer.INFO                               
+2023-09-28 09:15:36,295.food_b_consumer.INFO  [x] Received 05/22/21 13:03:15,
+2023-09-28 09:15:36,295.food_b_consumer.INFO                               
+2023-09-28 09:15:36,295.food_b_consumer.INFO                               
+2023-09-28 09:15:36,295.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:15:36,295.food_b_consumer.INFO                               
+2023-09-28 09:16:06,301.food_b_consumer.INFO                               
+2023-09-28 09:16:06,301.food_b_consumer.INFO  [x] Received 05/22/21 13:04:10,
+2023-09-28 09:16:06,301.food_b_consumer.INFO                               
+2023-09-28 09:16:06,302.food_b_consumer.INFO                               
+2023-09-28 09:16:06,302.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:16:06,302.food_b_consumer.INFO                               
+2023-09-28 09:16:36,305.food_b_consumer.INFO                               
+2023-09-28 09:16:36,305.food_b_consumer.INFO  [x] Received 05/22/21 13:04:15,
+2023-09-28 09:16:36,305.food_b_consumer.INFO                               
+2023-09-28 09:16:36,306.food_b_consumer.INFO                               
+2023-09-28 09:16:36,306.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:16:36,306.food_b_consumer.INFO                               
+2023-09-28 09:17:06,310.food_b_consumer.INFO                               
+2023-09-28 09:17:06,310.food_b_consumer.INFO  [x] Received 05/22/21 13:05:10,
+2023-09-28 09:17:06,311.food_b_consumer.INFO                               
+2023-09-28 09:17:06,311.food_b_consumer.INFO                               
+2023-09-28 09:17:06,311.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:17:06,311.food_b_consumer.INFO                               
+2023-09-28 09:17:36,316.food_b_consumer.INFO                               
+2023-09-28 09:17:36,316.food_b_consumer.INFO  [x] Received 05/22/21 13:05:15,
+2023-09-28 09:17:36,316.food_b_consumer.INFO                               
+2023-09-28 09:17:36,316.food_b_consumer.INFO                               
+2023-09-28 09:17:36,316.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:17:36,317.food_b_consumer.INFO                               
+2023-09-28 09:18:06,321.food_b_consumer.INFO                               
+2023-09-28 09:18:06,321.food_b_consumer.INFO  [x] Received 05/22/21 13:06:10,
+2023-09-28 09:18:06,321.food_b_consumer.INFO                               
+2023-09-28 09:18:06,321.food_b_consumer.INFO                               
+2023-09-28 09:18:06,321.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:18:06,322.food_b_consumer.INFO                               
+2023-09-28 09:18:36,327.food_b_consumer.INFO                               
+2023-09-28 09:18:36,327.food_b_consumer.INFO  [x] Received 05/22/21 13:06:15,
+2023-09-28 09:18:36,327.food_b_consumer.INFO                               
+2023-09-28 09:18:36,327.food_b_consumer.INFO                               
+2023-09-28 09:18:36,327.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:18:36,328.food_b_consumer.INFO                               
+2023-09-28 09:19:06,330.food_b_consumer.INFO                               
+2023-09-28 09:19:06,330.food_b_consumer.INFO  [x] Received 05/22/21 13:07:10,
+2023-09-28 09:19:06,330.food_b_consumer.INFO                               
+2023-09-28 09:19:06,330.food_b_consumer.INFO                               
+2023-09-28 09:19:06,331.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:19:06,331.food_b_consumer.INFO                               
+2023-09-28 09:19:36,336.food_b_consumer.INFO                               
+2023-09-28 09:19:36,336.food_b_consumer.INFO  [x] Received 05/22/21 13:07:15,
+2023-09-28 09:19:36,336.food_b_consumer.INFO                               
+2023-09-28 09:19:36,336.food_b_consumer.INFO                               
+2023-09-28 09:19:36,336.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:19:36,336.food_b_consumer.INFO                               
+2023-09-28 09:20:06,338.food_b_consumer.INFO                               
+2023-09-28 09:20:06,339.food_b_consumer.INFO  [x] Received 05/22/21 13:08:10,
+2023-09-28 09:20:06,339.food_b_consumer.INFO                               
+2023-09-28 09:20:06,339.food_b_consumer.INFO                               
+2023-09-28 09:20:06,339.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:20:06,339.food_b_consumer.INFO                               
+2023-09-28 09:20:36,344.food_b_consumer.INFO                               
+2023-09-28 09:20:36,344.food_b_consumer.INFO  [x] Received 05/22/21 13:08:15,
+2023-09-28 09:20:36,344.food_b_consumer.INFO                               
+2023-09-28 09:20:36,344.food_b_consumer.INFO                               
+2023-09-28 09:20:36,344.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:20:36,345.food_b_consumer.INFO                               
+2023-09-28 09:21:06,349.food_b_consumer.INFO                               
+2023-09-28 09:21:06,349.food_b_consumer.INFO  [x] Received 05/22/21 13:09:10,
+2023-09-28 09:21:06,349.food_b_consumer.INFO                               
+2023-09-28 09:21:06,350.food_b_consumer.INFO                               
+2023-09-28 09:21:06,350.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:21:06,350.food_b_consumer.INFO                               
+2023-09-28 09:21:36,354.food_b_consumer.INFO                               
+2023-09-28 09:21:36,354.food_b_consumer.INFO  [x] Received 05/22/21 13:09:15,
+2023-09-28 09:21:36,355.food_b_consumer.INFO                               
+2023-09-28 09:21:36,355.food_b_consumer.INFO                               
+2023-09-28 09:21:36,355.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:21:36,355.food_b_consumer.INFO                               
+2023-09-28 09:22:06,359.food_b_consumer.INFO                               
+2023-09-28 09:22:06,359.food_b_consumer.INFO  [x] Received 05/22/21 13:10:10,
+2023-09-28 09:22:06,359.food_b_consumer.INFO                               
+2023-09-28 09:22:06,359.food_b_consumer.INFO                               
+2023-09-28 09:22:06,359.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:22:06,359.food_b_consumer.INFO                               
+2023-09-28 09:22:36,365.food_b_consumer.INFO                               
+2023-09-28 09:22:36,365.food_b_consumer.INFO  [x] Received 05/22/21 13:10:15,
+2023-09-28 09:22:36,365.food_b_consumer.INFO                               
+2023-09-28 09:22:36,365.food_b_consumer.INFO                               
+2023-09-28 09:22:36,365.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:22:36,365.food_b_consumer.INFO                               
+2023-09-28 09:23:06,370.food_b_consumer.INFO                               
+2023-09-28 09:23:06,370.food_b_consumer.INFO  [x] Received 05/22/21 13:11:10,
+2023-09-28 09:23:06,370.food_b_consumer.INFO                               
+2023-09-28 09:23:06,370.food_b_consumer.INFO                               
+2023-09-28 09:23:06,370.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:23:06,370.food_b_consumer.INFO                               
+2023-09-28 09:23:36,375.food_b_consumer.INFO                               
+2023-09-28 09:23:36,375.food_b_consumer.INFO  [x] Received 05/22/21 13:11:15,
+2023-09-28 09:23:36,375.food_b_consumer.INFO                               
+2023-09-28 09:23:36,375.food_b_consumer.INFO                               
+2023-09-28 09:23:36,375.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:23:36,375.food_b_consumer.INFO                               
+2023-09-28 09:24:06,380.food_b_consumer.INFO                               
+2023-09-28 09:24:06,380.food_b_consumer.INFO  [x] Received 05/22/21 13:12:10,
+2023-09-28 09:24:06,380.food_b_consumer.INFO                               
+2023-09-28 09:24:06,380.food_b_consumer.INFO                               
+2023-09-28 09:24:06,380.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:24:06,380.food_b_consumer.INFO                               
+2023-09-28 09:24:36,413.food_b_consumer.INFO                               
+2023-09-28 09:24:36,414.food_b_consumer.INFO  [x] Received 05/22/21 13:12:15,
+2023-09-28 09:24:36,414.food_b_consumer.INFO                               
+2023-09-28 09:24:36,414.food_b_consumer.INFO                               
+2023-09-28 09:24:36,414.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:24:36,414.food_b_consumer.INFO                               
+2023-09-28 09:25:06,390.food_b_consumer.INFO                               
+2023-09-28 09:25:06,390.food_b_consumer.INFO  [x] Received 05/22/21 13:13:10,
+2023-09-28 09:25:06,390.food_b_consumer.INFO                               
+2023-09-28 09:25:06,391.food_b_consumer.INFO                               
+2023-09-28 09:25:06,391.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:25:06,391.food_b_consumer.INFO                               
+2023-09-28 09:25:36,395.food_b_consumer.INFO                               
+2023-09-28 09:25:36,395.food_b_consumer.INFO  [x] Received 05/22/21 13:13:15,
+2023-09-28 09:25:36,396.food_b_consumer.INFO                               
+2023-09-28 09:25:36,396.food_b_consumer.INFO                               
+2023-09-28 09:25:36,396.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:25:36,396.food_b_consumer.INFO                               
+2023-09-28 09:26:06,400.food_b_consumer.INFO                               
+2023-09-28 09:26:06,401.food_b_consumer.INFO  [x] Received 05/22/21 13:14:10,
+2023-09-28 09:26:06,401.food_b_consumer.INFO                               
+2023-09-28 09:26:06,401.food_b_consumer.INFO                               
+2023-09-28 09:26:06,401.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:26:06,401.food_b_consumer.INFO                               
+2023-09-28 09:26:36,405.food_b_consumer.INFO                               
+2023-09-28 09:26:36,405.food_b_consumer.INFO  [x] Received 05/22/21 13:14:15,
+2023-09-28 09:26:36,405.food_b_consumer.INFO                               
+2023-09-28 09:26:36,405.food_b_consumer.INFO                               
+2023-09-28 09:26:36,406.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:26:36,406.food_b_consumer.INFO                               
+2023-09-28 09:27:06,410.food_b_consumer.INFO                               
+2023-09-28 09:27:06,410.food_b_consumer.INFO  [x] Received 05/22/21 13:15:10,
+2023-09-28 09:27:06,410.food_b_consumer.INFO                               
+2023-09-28 09:27:06,411.food_b_consumer.INFO                               
+2023-09-28 09:27:06,411.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:27:06,411.food_b_consumer.INFO                               
+2023-09-28 09:27:36,417.food_b_consumer.INFO                               
+2023-09-28 09:27:36,417.food_b_consumer.INFO  [x] Received 05/22/21 13:15:15,
+2023-09-28 09:27:36,417.food_b_consumer.INFO                               
+2023-09-28 09:27:36,417.food_b_consumer.INFO                               
+2023-09-28 09:27:36,417.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:27:36,418.food_b_consumer.INFO                               
+2023-09-28 09:28:06,422.food_b_consumer.INFO                               
+2023-09-28 09:28:06,423.food_b_consumer.INFO  [x] Received 05/22/21 13:16:10,
+2023-09-28 09:28:06,423.food_b_consumer.INFO                               
+2023-09-28 09:28:06,423.food_b_consumer.INFO                               
+2023-09-28 09:28:06,423.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:28:06,423.food_b_consumer.INFO                               
+2023-09-28 09:28:36,427.food_b_consumer.INFO                               
+2023-09-28 09:28:36,427.food_b_consumer.INFO  [x] Received 05/22/21 13:16:15,
+2023-09-28 09:28:36,428.food_b_consumer.INFO                               
+2023-09-28 09:28:36,428.food_b_consumer.INFO                               
+2023-09-28 09:28:36,428.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:28:36,428.food_b_consumer.INFO                               
+2023-09-28 09:29:06,433.food_b_consumer.INFO                               
+2023-09-28 09:29:06,433.food_b_consumer.INFO  [x] Received 05/22/21 13:17:10,
+2023-09-28 09:29:06,433.food_b_consumer.INFO                               
+2023-09-28 09:29:06,433.food_b_consumer.INFO                               
+2023-09-28 09:29:06,433.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:29:06,433.food_b_consumer.INFO                               
+2023-09-28 09:29:36,436.food_b_consumer.INFO                               
+2023-09-28 09:29:36,437.food_b_consumer.INFO  [x] Received 05/22/21 13:17:15,
+2023-09-28 09:29:36,437.food_b_consumer.INFO                               
+2023-09-28 09:29:36,437.food_b_consumer.INFO                               
+2023-09-28 09:29:36,437.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:29:36,437.food_b_consumer.INFO                               
+2023-09-28 09:30:06,442.food_b_consumer.INFO                               
+2023-09-28 09:30:06,442.food_b_consumer.INFO  [x] Received 05/22/21 13:18:10,
+2023-09-28 09:30:06,442.food_b_consumer.INFO                               
+2023-09-28 09:30:06,443.food_b_consumer.INFO                               
+2023-09-28 09:30:06,443.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:30:06,443.food_b_consumer.INFO                               
+2023-09-28 09:30:36,448.food_b_consumer.INFO                               
+2023-09-28 09:30:36,448.food_b_consumer.INFO  [x] Received 05/22/21 13:18:15,
+2023-09-28 09:30:36,448.food_b_consumer.INFO                               
+2023-09-28 09:30:36,448.food_b_consumer.INFO                               
+2023-09-28 09:30:36,448.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:30:36,448.food_b_consumer.INFO                               
+2023-09-28 09:31:06,451.food_b_consumer.INFO                               
+2023-09-28 09:31:06,451.food_b_consumer.INFO  [x] Received 05/22/21 13:19:10,
+2023-09-28 09:31:06,451.food_b_consumer.INFO                               
+2023-09-28 09:31:06,451.food_b_consumer.INFO                               
+2023-09-28 09:31:06,451.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:31:06,451.food_b_consumer.INFO                               
+2023-09-28 09:31:36,457.food_b_consumer.INFO                               
+2023-09-28 09:31:36,457.food_b_consumer.INFO  [x] Received 05/22/21 13:19:15,
+2023-09-28 09:31:36,457.food_b_consumer.INFO                               
+2023-09-28 09:31:36,457.food_b_consumer.INFO                               
+2023-09-28 09:31:36,457.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:31:36,457.food_b_consumer.INFO                               
+2023-09-28 09:32:06,462.food_b_consumer.INFO                               
+2023-09-28 09:32:06,463.food_b_consumer.INFO  [x] Received 05/22/21 13:20:10,
+2023-09-28 09:32:06,463.food_b_consumer.INFO                               
+2023-09-28 09:32:06,463.food_b_consumer.INFO                               
+2023-09-28 09:32:06,463.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:32:06,463.food_b_consumer.INFO                               
+2023-09-28 09:32:36,468.food_b_consumer.INFO                               
+2023-09-28 09:32:36,468.food_b_consumer.INFO  [x] Received 05/22/21 13:20:15,
+2023-09-28 09:32:36,468.food_b_consumer.INFO                               
+2023-09-28 09:32:36,468.food_b_consumer.INFO                               
+2023-09-28 09:32:36,468.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:32:36,468.food_b_consumer.INFO                               
+2023-09-28 09:33:06,472.food_b_consumer.INFO                               
+2023-09-28 09:33:06,473.food_b_consumer.INFO  [x] Received 05/22/21 13:21:10,
+2023-09-28 09:33:06,473.food_b_consumer.INFO                               
+2023-09-28 09:33:06,473.food_b_consumer.INFO                               
+2023-09-28 09:33:06,473.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:33:06,473.food_b_consumer.INFO                               
+2023-09-28 09:33:36,478.food_b_consumer.INFO                               
+2023-09-28 09:33:36,478.food_b_consumer.INFO  [x] Received 05/22/21 13:21:15,
+2023-09-28 09:33:36,478.food_b_consumer.INFO                               
+2023-09-28 09:33:36,478.food_b_consumer.INFO                               
+2023-09-28 09:33:36,478.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:33:36,478.food_b_consumer.INFO                               
+2023-09-28 09:34:06,483.food_b_consumer.INFO                               
+2023-09-28 09:34:06,483.food_b_consumer.INFO  [x] Received 05/22/21 13:22:10,
+2023-09-28 09:34:06,483.food_b_consumer.INFO                               
+2023-09-28 09:34:06,484.food_b_consumer.INFO                               
+2023-09-28 09:34:06,484.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:34:06,484.food_b_consumer.INFO                               
+2023-09-28 09:34:36,489.food_b_consumer.INFO                               
+2023-09-28 09:34:36,489.food_b_consumer.INFO  [x] Received 05/22/21 13:22:15,
+2023-09-28 09:34:36,489.food_b_consumer.INFO                               
+2023-09-28 09:34:36,489.food_b_consumer.INFO                               
+2023-09-28 09:34:36,489.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:34:36,489.food_b_consumer.INFO                               
+2023-09-28 09:35:06,494.food_b_consumer.INFO                               
+2023-09-28 09:35:06,494.food_b_consumer.INFO  [x] Received 05/22/21 13:23:10,
+2023-09-28 09:35:06,494.food_b_consumer.INFO                               
+2023-09-28 09:35:06,494.food_b_consumer.INFO                               
+2023-09-28 09:35:06,494.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:35:06,495.food_b_consumer.INFO                               
+2023-09-28 09:35:36,499.food_b_consumer.INFO                               
+2023-09-28 09:35:36,499.food_b_consumer.INFO  [x] Received 05/22/21 13:23:15,
+2023-09-28 09:35:36,499.food_b_consumer.INFO                               
+2023-09-28 09:35:36,499.food_b_consumer.INFO                               
+2023-09-28 09:35:36,500.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:35:36,500.food_b_consumer.INFO                               
+2023-09-28 09:36:06,504.food_b_consumer.INFO                               
+2023-09-28 09:36:06,504.food_b_consumer.INFO  [x] Received 05/22/21 13:24:10,
+2023-09-28 09:36:06,504.food_b_consumer.INFO                               
+2023-09-28 09:36:06,504.food_b_consumer.INFO                               
+2023-09-28 09:36:06,504.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:36:06,505.food_b_consumer.INFO                               
+2023-09-28 09:36:36,510.food_b_consumer.INFO                               
+2023-09-28 09:36:36,510.food_b_consumer.INFO  [x] Received 05/22/21 13:24:15,
+2023-09-28 09:36:36,510.food_b_consumer.INFO                               
+2023-09-28 09:36:36,510.food_b_consumer.INFO                               
+2023-09-28 09:36:36,510.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:36:36,510.food_b_consumer.INFO                               
+2023-09-28 09:37:06,519.food_b_consumer.INFO                               
+2023-09-28 09:37:06,519.food_b_consumer.INFO  [x] Received 05/22/21 13:25:10,
+2023-09-28 09:37:06,519.food_b_consumer.INFO                               
+2023-09-28 09:37:06,519.food_b_consumer.INFO                               
+2023-09-28 09:37:06,520.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:37:06,520.food_b_consumer.INFO                               
+2023-09-28 09:37:36,530.food_b_consumer.INFO                               
+2023-09-28 09:37:36,530.food_b_consumer.INFO  [x] Received 05/22/21 13:25:15,
+2023-09-28 09:37:36,530.food_b_consumer.INFO                               
+2023-09-28 09:37:36,530.food_b_consumer.INFO                               
+2023-09-28 09:37:36,530.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:37:36,531.food_b_consumer.INFO                               
+2023-09-28 09:38:06,533.food_b_consumer.INFO                               
+2023-09-28 09:38:06,533.food_b_consumer.INFO  [x] Received 05/22/21 13:26:10,
+2023-09-28 09:38:06,533.food_b_consumer.INFO                               
+2023-09-28 09:38:06,533.food_b_consumer.INFO                               
+2023-09-28 09:38:06,534.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:38:06,534.food_b_consumer.INFO                               
+2023-09-28 09:38:36,544.food_b_consumer.INFO                               
+2023-09-28 09:38:36,544.food_b_consumer.INFO  [x] Received 05/22/21 13:26:15,
+2023-09-28 09:38:36,544.food_b_consumer.INFO                               
+2023-09-28 09:38:36,545.food_b_consumer.INFO                               
+2023-09-28 09:38:36,545.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:38:36,545.food_b_consumer.INFO                               
+2023-09-28 09:39:06,556.food_b_consumer.INFO                               
+2023-09-28 09:39:06,556.food_b_consumer.INFO  [x] Received 05/22/21 13:27:10,
+2023-09-28 09:39:06,556.food_b_consumer.INFO                               
+2023-09-28 09:39:06,556.food_b_consumer.INFO                               
+2023-09-28 09:39:06,556.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:39:06,556.food_b_consumer.INFO                               
+2023-09-28 09:39:36,567.food_b_consumer.INFO                               
+2023-09-28 09:39:36,567.food_b_consumer.INFO  [x] Received 05/22/21 13:27:15,
+2023-09-28 09:39:36,567.food_b_consumer.INFO                               
+2023-09-28 09:39:36,567.food_b_consumer.INFO                               
+2023-09-28 09:39:36,567.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:39:36,567.food_b_consumer.INFO                               
+2023-09-28 09:40:06,573.food_b_consumer.INFO                               
+2023-09-28 09:40:06,573.food_b_consumer.INFO  [x] Received 05/22/21 13:28:10,
+2023-09-28 09:40:06,573.food_b_consumer.INFO                               
+2023-09-28 09:40:06,573.food_b_consumer.INFO                               
+2023-09-28 09:40:06,574.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:40:06,574.food_b_consumer.INFO                               
+2023-09-28 09:40:36,582.food_b_consumer.INFO                               
+2023-09-28 09:40:36,582.food_b_consumer.INFO  [x] Received 05/22/21 13:28:15,
+2023-09-28 09:40:36,583.food_b_consumer.INFO                               
+2023-09-28 09:40:36,583.food_b_consumer.INFO                               
+2023-09-28 09:40:36,583.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:40:36,583.food_b_consumer.INFO                               
+2023-09-28 09:41:06,592.food_b_consumer.INFO                               
+2023-09-28 09:41:06,592.food_b_consumer.INFO  [x] Received 05/22/21 13:29:10,
+2023-09-28 09:41:06,593.food_b_consumer.INFO                               
+2023-09-28 09:41:06,593.food_b_consumer.INFO                               
+2023-09-28 09:41:06,593.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:41:06,593.food_b_consumer.INFO                               
+2023-09-28 09:41:36,603.food_b_consumer.INFO                               
+2023-09-28 09:41:36,603.food_b_consumer.INFO  [x] Received 05/22/21 13:29:15,
+2023-09-28 09:41:36,603.food_b_consumer.INFO                               
+2023-09-28 09:41:36,604.food_b_consumer.INFO                               
+2023-09-28 09:41:36,604.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:41:36,604.food_b_consumer.INFO                               
+2023-09-28 09:42:06,614.food_b_consumer.INFO                               
+2023-09-28 09:42:06,615.food_b_consumer.INFO  [x] Received 05/22/21 13:30:10,
+2023-09-28 09:42:06,615.food_b_consumer.INFO                               
+2023-09-28 09:42:06,615.food_b_consumer.INFO                               
+2023-09-28 09:42:06,615.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:42:06,615.food_b_consumer.INFO                               
+2023-09-28 09:42:36,622.food_b_consumer.INFO                               
+2023-09-28 09:42:36,622.food_b_consumer.INFO  [x] Received 05/22/21 13:30:15,
+2023-09-28 09:42:36,622.food_b_consumer.INFO                               
+2023-09-28 09:42:36,622.food_b_consumer.INFO                               
+2023-09-28 09:42:36,623.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:42:36,623.food_b_consumer.INFO                               
+2023-09-28 09:43:06,634.food_b_consumer.INFO                               
+2023-09-28 09:43:06,634.food_b_consumer.INFO  [x] Received 05/22/21 13:31:10,
+2023-09-28 09:43:06,634.food_b_consumer.INFO                               
+2023-09-28 09:43:06,634.food_b_consumer.INFO                               
+2023-09-28 09:43:06,635.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:43:06,635.food_b_consumer.INFO                               
+2023-09-28 09:43:36,645.food_b_consumer.INFO                               
+2023-09-28 09:43:36,645.food_b_consumer.INFO  [x] Received 05/22/21 13:31:15,
+2023-09-28 09:43:36,645.food_b_consumer.INFO                               
+2023-09-28 09:43:36,645.food_b_consumer.INFO                               
+2023-09-28 09:43:36,645.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:43:36,645.food_b_consumer.INFO                               
+2023-09-28 09:44:06,656.food_b_consumer.INFO                               
+2023-09-28 09:44:06,656.food_b_consumer.INFO  [x] Received 05/22/21 13:32:10,
+2023-09-28 09:44:06,656.food_b_consumer.INFO                               
+2023-09-28 09:44:06,656.food_b_consumer.INFO                               
+2023-09-28 09:44:06,656.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:44:06,656.food_b_consumer.INFO                               
+2023-09-28 09:44:36,662.food_b_consumer.INFO                               
+2023-09-28 09:44:36,662.food_b_consumer.INFO  [x] Received 05/22/21 13:32:15,
+2023-09-28 09:44:36,662.food_b_consumer.INFO                               
+2023-09-28 09:44:36,662.food_b_consumer.INFO                               
+2023-09-28 09:44:36,662.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:44:36,663.food_b_consumer.INFO                               
+2023-09-28 09:45:06,672.food_b_consumer.INFO                               
+2023-09-28 09:45:06,672.food_b_consumer.INFO  [x] Received 05/22/21 13:33:10,
+2023-09-28 09:45:06,673.food_b_consumer.INFO                               
+2023-09-28 09:45:06,673.food_b_consumer.INFO                               
+2023-09-28 09:45:06,673.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:45:06,673.food_b_consumer.INFO                               
+2023-09-28 09:45:36,684.food_b_consumer.INFO                               
+2023-09-28 09:45:36,684.food_b_consumer.INFO  [x] Received 05/22/21 13:33:15,
+2023-09-28 09:45:36,684.food_b_consumer.INFO                               
+2023-09-28 09:45:36,684.food_b_consumer.INFO                               
+2023-09-28 09:45:36,684.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:45:36,684.food_b_consumer.INFO                               
+2023-09-28 09:46:06,693.food_b_consumer.INFO                               
+2023-09-28 09:46:06,693.food_b_consumer.INFO  [x] Received 05/22/21 13:34:10,
+2023-09-28 09:46:06,693.food_b_consumer.INFO                               
+2023-09-28 09:46:06,693.food_b_consumer.INFO                               
+2023-09-28 09:46:06,693.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:46:06,694.food_b_consumer.INFO                               
+2023-09-28 09:46:36,698.food_b_consumer.INFO                               
+2023-09-28 09:46:36,698.food_b_consumer.INFO  [x] Received 05/22/21 13:34:15,
+2023-09-28 09:46:36,698.food_b_consumer.INFO                               
+2023-09-28 09:46:36,698.food_b_consumer.INFO                               
+2023-09-28 09:46:36,699.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:46:36,699.food_b_consumer.INFO                               
+2023-09-28 09:47:06,700.food_b_consumer.INFO                               
+2023-09-28 09:47:06,700.food_b_consumer.INFO  [x] Received 05/22/21 13:35:10,
+2023-09-28 09:47:06,700.food_b_consumer.INFO                               
+2023-09-28 09:47:06,700.food_b_consumer.INFO                               
+2023-09-28 09:47:06,700.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:47:06,700.food_b_consumer.INFO                               
+2023-09-28 09:47:36,701.food_b_consumer.INFO                               
+2023-09-28 09:47:36,701.food_b_consumer.INFO  [x] Received 05/22/21 13:35:15,
+2023-09-28 09:47:36,701.food_b_consumer.INFO                               
+2023-09-28 09:47:36,701.food_b_consumer.INFO                               
+2023-09-28 09:47:36,701.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:47:36,701.food_b_consumer.INFO                               
+2023-09-28 09:48:06,712.food_b_consumer.INFO                               
+2023-09-28 09:48:06,712.food_b_consumer.INFO  [x] Received 05/22/21 13:36:10,
+2023-09-28 09:48:06,712.food_b_consumer.INFO                               
+2023-09-28 09:48:06,712.food_b_consumer.INFO                               
+2023-09-28 09:48:06,713.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:48:06,713.food_b_consumer.INFO                               
+2023-09-28 09:48:36,715.food_b_consumer.INFO                               
+2023-09-28 09:48:36,715.food_b_consumer.INFO  [x] Received 05/22/21 13:36:15,
+2023-09-28 09:48:36,715.food_b_consumer.INFO                               
+2023-09-28 09:48:36,715.food_b_consumer.INFO                               
+2023-09-28 09:48:36,715.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:48:36,715.food_b_consumer.INFO                               
+2023-09-28 09:49:06,719.food_b_consumer.INFO                               
+2023-09-28 09:49:06,720.food_b_consumer.INFO  [x] Received 05/22/21 13:37:10,
+2023-09-28 09:49:06,720.food_b_consumer.INFO                               
+2023-09-28 09:49:06,720.food_b_consumer.INFO                               
+2023-09-28 09:49:06,720.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:49:06,720.food_b_consumer.INFO                               
+2023-09-28 09:49:36,723.food_b_consumer.INFO                               
+2023-09-28 09:49:36,723.food_b_consumer.INFO  [x] Received 05/22/21 13:37:15,
+2023-09-28 09:49:36,723.food_b_consumer.INFO                               
+2023-09-28 09:49:36,723.food_b_consumer.INFO                               
+2023-09-28 09:49:36,723.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:49:36,723.food_b_consumer.INFO                               
+2023-09-28 09:50:06,733.food_b_consumer.INFO                               
+2023-09-28 09:50:06,733.food_b_consumer.INFO  [x] Received 05/22/21 13:38:10,
+2023-09-28 09:50:06,733.food_b_consumer.INFO                               
+2023-09-28 09:50:06,733.food_b_consumer.INFO                               
+2023-09-28 09:50:06,733.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:50:06,734.food_b_consumer.INFO                               
+2023-09-28 09:50:36,745.food_b_consumer.INFO                               
+2023-09-28 09:50:36,745.food_b_consumer.INFO  [x] Received 05/22/21 13:38:15,
+2023-09-28 09:50:36,746.food_b_consumer.INFO                               
+2023-09-28 09:50:36,746.food_b_consumer.INFO                               
+2023-09-28 09:50:36,746.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:50:36,746.food_b_consumer.INFO                               
+2023-09-28 09:51:06,757.food_b_consumer.INFO                               
+2023-09-28 09:51:06,757.food_b_consumer.INFO  [x] Received 05/22/21 13:39:10,
+2023-09-28 09:51:06,757.food_b_consumer.INFO                               
+2023-09-28 09:51:06,757.food_b_consumer.INFO                               
+2023-09-28 09:51:06,757.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:51:06,757.food_b_consumer.INFO                               
+2023-09-28 09:51:36,765.food_b_consumer.INFO                               
+2023-09-28 09:51:36,765.food_b_consumer.INFO  [x] Received 05/22/21 13:39:15,
+2023-09-28 09:51:36,765.food_b_consumer.INFO                               
+2023-09-28 09:51:36,765.food_b_consumer.INFO                               
+2023-09-28 09:51:36,765.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:51:36,766.food_b_consumer.INFO                               
+2023-09-28 09:52:06,777.food_b_consumer.INFO                               
+2023-09-28 09:52:06,777.food_b_consumer.INFO  [x] Received 05/22/21 13:40:10,
+2023-09-28 09:52:06,777.food_b_consumer.INFO                               
+2023-09-28 09:52:06,777.food_b_consumer.INFO                               
+2023-09-28 09:52:06,778.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:52:06,778.food_b_consumer.INFO                               
+2023-09-28 09:52:36,787.food_b_consumer.INFO                               
+2023-09-28 09:52:36,787.food_b_consumer.INFO  [x] Received 05/22/21 13:40:15,
+2023-09-28 09:52:36,787.food_b_consumer.INFO                               
+2023-09-28 09:52:36,788.food_b_consumer.INFO                               
+2023-09-28 09:52:36,788.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:52:36,788.food_b_consumer.INFO                               
+2023-09-28 09:53:06,799.food_b_consumer.INFO                               
+2023-09-28 09:53:06,799.food_b_consumer.INFO  [x] Received 05/22/21 13:41:10,
+2023-09-28 09:53:06,799.food_b_consumer.INFO                               
+2023-09-28 09:53:06,799.food_b_consumer.INFO                               
+2023-09-28 09:53:06,800.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:53:06,800.food_b_consumer.INFO                               
+2023-09-28 09:53:36,810.food_b_consumer.INFO                               
+2023-09-28 09:53:36,810.food_b_consumer.INFO  [x] Received 05/22/21 13:41:15,
+2023-09-28 09:53:36,810.food_b_consumer.INFO                               
+2023-09-28 09:53:36,810.food_b_consumer.INFO                               
+2023-09-28 09:53:36,811.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:53:36,811.food_b_consumer.INFO                               
+2023-09-28 09:54:06,821.food_b_consumer.INFO                               
+2023-09-28 09:54:06,822.food_b_consumer.INFO  [x] Received 05/22/21 13:42:10,
+2023-09-28 09:54:06,822.food_b_consumer.INFO                               
+2023-09-28 09:54:06,822.food_b_consumer.INFO                               
+2023-09-28 09:54:06,822.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:54:06,822.food_b_consumer.INFO                               
+2023-09-28 09:54:36,833.food_b_consumer.INFO                               
+2023-09-28 09:54:36,833.food_b_consumer.INFO  [x] Received 05/22/21 13:42:15,
+2023-09-28 09:54:36,833.food_b_consumer.INFO                               
+2023-09-28 09:54:36,833.food_b_consumer.INFO                               
+2023-09-28 09:54:36,833.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:54:36,833.food_b_consumer.INFO                               
+2023-09-28 09:55:06,843.food_b_consumer.INFO                               
+2023-09-28 09:55:06,843.food_b_consumer.INFO  [x] Received 05/22/21 13:43:10,
+2023-09-28 09:55:06,843.food_b_consumer.INFO                               
+2023-09-28 09:55:06,843.food_b_consumer.INFO                               
+2023-09-28 09:55:06,843.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:55:06,844.food_b_consumer.INFO                               
+2023-09-28 09:55:36,854.food_b_consumer.INFO                               
+2023-09-28 09:55:36,854.food_b_consumer.INFO  [x] Received 05/22/21 13:43:15,
+2023-09-28 09:55:36,854.food_b_consumer.INFO                               
+2023-09-28 09:55:36,854.food_b_consumer.INFO                               
+2023-09-28 09:55:36,855.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:55:36,855.food_b_consumer.INFO                               
+2023-09-28 09:56:06,858.food_b_consumer.INFO                               
+2023-09-28 09:56:06,859.food_b_consumer.INFO  [x] Received 05/22/21 13:44:10,
+2023-09-28 09:56:06,859.food_b_consumer.INFO                               
+2023-09-28 09:56:06,859.food_b_consumer.INFO                               
+2023-09-28 09:56:06,859.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:56:06,859.food_b_consumer.INFO                               
+2023-09-28 09:56:36,869.food_b_consumer.INFO                               
+2023-09-28 09:56:36,869.food_b_consumer.INFO  [x] Received 05/22/21 13:44:15,
+2023-09-28 09:56:36,869.food_b_consumer.INFO                               
+2023-09-28 09:56:36,870.food_b_consumer.INFO                               
+2023-09-28 09:56:36,870.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:56:36,870.food_b_consumer.INFO                               
+2023-09-28 09:57:06,880.food_b_consumer.INFO                               
+2023-09-28 09:57:06,881.food_b_consumer.INFO  [x] Received 05/22/21 13:45:10,
+2023-09-28 09:57:06,881.food_b_consumer.INFO                               
+2023-09-28 09:57:06,881.food_b_consumer.INFO                               
+2023-09-28 09:57:06,881.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:57:06,881.food_b_consumer.INFO                               
+2023-09-28 09:57:36,883.food_b_consumer.INFO                               
+2023-09-28 09:57:36,884.food_b_consumer.INFO  [x] Received 05/22/21 13:45:15,
+2023-09-28 09:57:36,884.food_b_consumer.INFO                               
+2023-09-28 09:57:36,884.food_b_consumer.INFO                               
+2023-09-28 09:57:36,884.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:57:36,884.food_b_consumer.INFO                               
+2023-09-28 09:58:06,888.food_b_consumer.INFO                               
+2023-09-28 09:58:06,888.food_b_consumer.INFO  [x] Received 05/22/21 13:46:10,
+2023-09-28 09:58:06,888.food_b_consumer.INFO                               
+2023-09-28 09:58:06,888.food_b_consumer.INFO                               
+2023-09-28 09:58:06,889.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:58:06,889.food_b_consumer.INFO                               
+2023-09-28 09:58:36,899.food_b_consumer.INFO                               
+2023-09-28 09:58:36,899.food_b_consumer.INFO  [x] Received 05/22/21 13:46:15,
+2023-09-28 09:58:36,899.food_b_consumer.INFO                               
+2023-09-28 09:58:36,899.food_b_consumer.INFO                               
+2023-09-28 09:58:36,900.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:58:36,900.food_b_consumer.INFO                               
+2023-09-28 09:59:06,908.food_b_consumer.INFO                               
+2023-09-28 09:59:06,908.food_b_consumer.INFO  [x] Received 05/22/21 13:46:35,
+2023-09-28 09:59:06,908.food_b_consumer.INFO                               
+2023-09-28 09:59:06,908.food_b_consumer.INFO                               
+2023-09-28 09:59:06,909.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:59:06,909.food_b_consumer.INFO                               
+2023-09-28 09:59:36,919.food_b_consumer.INFO                               
+2023-09-28 09:59:36,920.food_b_consumer.INFO  [x] Received 05/22/21 13:46:40,37.0
+2023-09-28 09:59:36,920.food_b_consumer.INFO                               
+2023-09-28 09:59:36,920.food_b_consumer.INFO                               
+2023-09-28 09:59:36,920.food_b_consumer.INFO  [x] Done.
+2023-09-28 09:59:36,920.food_b_consumer.INFO                               
+2023-09-28 10:00:06,931.food_b_consumer.INFO                               
+2023-09-28 10:00:06,931.food_b_consumer.INFO  [x] Received 05/22/21 13:46:45,37.0
+2023-09-28 10:00:06,931.food_b_consumer.INFO                               
+2023-09-28 10:00:06,931.food_b_consumer.INFO                               
+2023-09-28 10:00:06,931.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:00:06,931.food_b_consumer.INFO                               
+2023-09-28 10:00:36,941.food_b_consumer.INFO                               
+2023-09-28 10:00:36,942.food_b_consumer.INFO  [x] Received 05/22/21 13:47:10,
+2023-09-28 10:00:36,942.food_b_consumer.INFO                               
+2023-09-28 10:00:36,942.food_b_consumer.INFO                               
+2023-09-28 10:00:36,942.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:00:36,942.food_b_consumer.INFO                               
+2023-09-28 10:01:06,947.food_b_consumer.INFO                               
+2023-09-28 10:01:06,947.food_b_consumer.INFO  [x] Received 05/22/21 13:47:15,
+2023-09-28 10:01:06,947.food_b_consumer.INFO                               
+2023-09-28 10:01:06,947.food_b_consumer.INFO                               
+2023-09-28 10:01:06,947.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:01:06,948.food_b_consumer.INFO                               
+2023-09-28 10:01:36,958.food_b_consumer.INFO                               
+2023-09-28 10:01:36,958.food_b_consumer.INFO  [x] Received 05/22/21 13:47:35,
+2023-09-28 10:01:36,958.food_b_consumer.INFO                               
+2023-09-28 10:01:36,958.food_b_consumer.INFO                               
+2023-09-28 10:01:36,958.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:01:36,958.food_b_consumer.INFO                               
+2023-09-28 10:02:06,969.food_b_consumer.INFO                               
+2023-09-28 10:02:06,969.food_b_consumer.INFO  [x] Received 05/22/21 13:47:40,35.3
+2023-09-28 10:02:06,969.food_b_consumer.INFO                               
+2023-09-28 10:02:06,970.food_b_consumer.INFO                               
+2023-09-28 10:02:06,970.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:02:06,970.food_b_consumer.INFO                               
+2023-09-28 10:02:37,015.food_b_consumer.INFO                               
+2023-09-28 10:02:37,016.food_b_consumer.INFO  [x] Received 05/22/21 13:47:45,35.3
+2023-09-28 10:02:37,016.food_b_consumer.INFO                               
+2023-09-28 10:02:37,016.food_b_consumer.INFO                               
+2023-09-28 10:02:37,016.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:02:37,016.food_b_consumer.INFO                               
+2023-09-28 10:03:06,990.food_b_consumer.INFO                               
+2023-09-28 10:03:06,990.food_b_consumer.INFO  [x] Received 05/22/21 13:48:10,
+2023-09-28 10:03:06,990.food_b_consumer.INFO                               
+2023-09-28 10:03:06,990.food_b_consumer.INFO                               
+2023-09-28 10:03:06,990.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:03:06,990.food_b_consumer.INFO                               
+2023-09-28 10:03:37,001.food_b_consumer.INFO                               
+2023-09-28 10:03:37,001.food_b_consumer.INFO  [x] Received 05/22/21 13:48:15,
+2023-09-28 10:03:37,001.food_b_consumer.INFO                               
+2023-09-28 10:03:37,002.food_b_consumer.INFO                               
+2023-09-28 10:03:37,002.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:03:37,002.food_b_consumer.INFO                               
+2023-09-28 10:04:07,012.food_b_consumer.INFO                               
+2023-09-28 10:04:07,012.food_b_consumer.INFO  [x] Received 05/22/21 13:48:35,
+2023-09-28 10:04:07,012.food_b_consumer.INFO                               
+2023-09-28 10:04:07,012.food_b_consumer.INFO                               
+2023-09-28 10:04:07,013.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:04:07,013.food_b_consumer.INFO                               
+2023-09-28 10:04:37,021.food_b_consumer.INFO                               
+2023-09-28 10:04:37,021.food_b_consumer.INFO  [x] Received 05/22/21 13:48:40,35.2
+2023-09-28 10:04:37,021.food_b_consumer.INFO                               
+2023-09-28 10:04:37,021.food_b_consumer.INFO                               
+2023-09-28 10:04:37,021.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:04:37,021.food_b_consumer.INFO                               
+2023-09-28 10:05:07,031.food_b_consumer.INFO                               
+2023-09-28 10:05:07,031.food_b_consumer.INFO  [x] Received 05/22/21 13:48:45,35.2
+2023-09-28 10:05:07,031.food_b_consumer.INFO                               
+2023-09-28 10:05:07,032.food_b_consumer.INFO                               
+2023-09-28 10:05:07,032.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:05:07,032.food_b_consumer.INFO                               
+2023-09-28 10:05:37,042.food_b_consumer.INFO                               
+2023-09-28 10:05:37,042.food_b_consumer.INFO  [x] Received 05/22/21 13:49:10,
+2023-09-28 10:05:37,042.food_b_consumer.INFO                               
+2023-09-28 10:05:37,043.food_b_consumer.INFO                               
+2023-09-28 10:05:37,043.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:05:37,043.food_b_consumer.INFO                               
+2023-09-28 10:06:07,046.food_b_consumer.INFO                               
+2023-09-28 10:06:07,046.food_b_consumer.INFO  [x] Received 05/22/21 13:49:15,
+2023-09-28 10:06:07,046.food_b_consumer.INFO                               
+2023-09-28 10:06:07,046.food_b_consumer.INFO                               
+2023-09-28 10:06:07,046.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:06:07,046.food_b_consumer.INFO                               
+2023-09-28 10:06:37,050.food_b_consumer.INFO                               
+2023-09-28 10:06:37,050.food_b_consumer.INFO  [x] Received 05/22/21 13:49:35,
+2023-09-28 10:06:37,050.food_b_consumer.INFO                               
+2023-09-28 10:06:37,050.food_b_consumer.INFO                               
+2023-09-28 10:06:37,050.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:06:37,050.food_b_consumer.INFO                               
+2023-09-28 10:07:07,054.food_b_consumer.INFO                               
+2023-09-28 10:07:07,054.food_b_consumer.INFO  [x] Received 05/22/21 13:49:40,35.3
+2023-09-28 10:07:07,054.food_b_consumer.INFO                               
+2023-09-28 10:07:07,055.food_b_consumer.INFO                               
+2023-09-28 10:07:07,055.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:07:07,055.food_b_consumer.INFO                               
+2023-09-28 10:07:37,061.food_b_consumer.INFO                               
+2023-09-28 10:07:37,062.food_b_consumer.INFO  [x] Received 05/22/21 13:49:45,35.3
+2023-09-28 10:07:37,062.food_b_consumer.INFO                               
+2023-09-28 10:07:37,062.food_b_consumer.INFO                               
+2023-09-28 10:07:37,062.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:07:37,063.food_b_consumer.INFO                               
+2023-09-28 10:08:07,074.food_b_consumer.INFO                               
+2023-09-28 10:08:07,074.food_b_consumer.INFO  [x] Received 05/22/21 13:50:10,
+2023-09-28 10:08:07,074.food_b_consumer.INFO                               
+2023-09-28 10:08:07,074.food_b_consumer.INFO                               
+2023-09-28 10:08:07,074.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:08:07,074.food_b_consumer.INFO                               
+2023-09-28 10:08:37,079.food_b_consumer.INFO                               
+2023-09-28 10:08:37,079.food_b_consumer.INFO  [x] Received 05/22/21 13:50:15,
+2023-09-28 10:08:37,079.food_b_consumer.INFO                               
+2023-09-28 10:08:37,079.food_b_consumer.INFO                               
+2023-09-28 10:08:37,079.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:08:37,079.food_b_consumer.INFO                               
+2023-09-28 10:09:07,081.food_b_consumer.INFO                               
+2023-09-28 10:09:07,082.food_b_consumer.INFO  [x] Received 05/22/21 13:50:35,
+2023-09-28 10:09:07,082.food_b_consumer.INFO                               
+2023-09-28 10:09:07,082.food_b_consumer.INFO                               
+2023-09-28 10:09:07,082.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:09:07,082.food_b_consumer.INFO                               
+2023-09-28 10:09:37,092.food_b_consumer.INFO                               
+2023-09-28 10:09:37,092.food_b_consumer.INFO  [x] Received 05/22/21 13:50:40,35.2
+2023-09-28 10:09:37,092.food_b_consumer.INFO                               
+2023-09-28 10:09:37,092.food_b_consumer.INFO                               
+2023-09-28 10:09:37,093.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:09:37,093.food_b_consumer.INFO                               
+2023-09-28 10:10:07,103.food_b_consumer.INFO                               
+2023-09-28 10:10:07,103.food_b_consumer.INFO  [x] Received 05/22/21 13:50:45,35.2
+2023-09-28 10:10:07,104.food_b_consumer.INFO                               
+2023-09-28 10:10:07,104.food_b_consumer.INFO                               
+2023-09-28 10:10:07,104.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:10:07,104.food_b_consumer.INFO                               
+2023-09-28 10:10:37,115.food_b_consumer.INFO                               
+2023-09-28 10:10:37,115.food_b_consumer.INFO  [x] Received 05/22/21 13:51:10,
+2023-09-28 10:10:37,115.food_b_consumer.INFO                               
+2023-09-28 10:10:37,115.food_b_consumer.INFO                               
+2023-09-28 10:10:37,115.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:10:37,115.food_b_consumer.INFO                               
+2023-09-28 10:11:07,125.food_b_consumer.INFO                               
+2023-09-28 10:11:07,126.food_b_consumer.INFO  [x] Received 05/22/21 13:51:15,
+2023-09-28 10:11:07,126.food_b_consumer.INFO                               
+2023-09-28 10:11:07,126.food_b_consumer.INFO                               
+2023-09-28 10:11:07,126.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:11:07,126.food_b_consumer.INFO                               
+2023-09-28 10:11:37,136.food_b_consumer.INFO                               
+2023-09-28 10:11:37,137.food_b_consumer.INFO  [x] Received 05/22/21 13:51:35,
+2023-09-28 10:11:37,137.food_b_consumer.INFO                               
+2023-09-28 10:11:37,137.food_b_consumer.INFO                               
+2023-09-28 10:11:37,137.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:11:37,137.food_b_consumer.INFO                               
+2023-09-28 10:12:07,148.food_b_consumer.INFO                               
+2023-09-28 10:12:07,148.food_b_consumer.INFO  [x] Received 05/22/21 13:51:40,35.2
+2023-09-28 10:12:07,148.food_b_consumer.INFO                               
+2023-09-28 10:12:07,148.food_b_consumer.INFO                               
+2023-09-28 10:12:07,149.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:12:07,149.food_b_consumer.INFO                               
+2023-09-28 10:12:37,159.food_b_consumer.INFO                               
+2023-09-28 10:12:37,159.food_b_consumer.INFO  [x] Received 05/22/21 13:51:45,35.2
+2023-09-28 10:12:37,159.food_b_consumer.INFO                               
+2023-09-28 10:12:37,160.food_b_consumer.INFO                               
+2023-09-28 10:12:37,160.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:12:37,160.food_b_consumer.INFO                               
+2023-09-28 10:13:07,161.food_b_consumer.INFO                               
+2023-09-28 10:13:07,161.food_b_consumer.INFO  [x] Received 05/22/21 13:52:10,
+2023-09-28 10:13:07,161.food_b_consumer.INFO                               
+2023-09-28 10:13:07,161.food_b_consumer.INFO                               
+2023-09-28 10:13:07,161.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:13:07,161.food_b_consumer.INFO                               
+2023-09-28 10:13:37,166.food_b_consumer.INFO                               
+2023-09-28 10:13:37,166.food_b_consumer.INFO  [x] Received 05/22/21 13:52:15,
+2023-09-28 10:13:37,166.food_b_consumer.INFO                               
+2023-09-28 10:13:37,166.food_b_consumer.INFO                               
+2023-09-28 10:13:37,166.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:13:37,167.food_b_consumer.INFO                               
+2023-09-28 10:14:07,177.food_b_consumer.INFO                               
+2023-09-28 10:14:07,177.food_b_consumer.INFO  [x] Received 05/22/21 13:52:35,
+2023-09-28 10:14:07,177.food_b_consumer.INFO                               
+2023-09-28 10:14:07,177.food_b_consumer.INFO                               
+2023-09-28 10:14:07,178.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:14:07,178.food_b_consumer.INFO                               
+2023-09-28 10:14:37,189.food_b_consumer.INFO                               
+2023-09-28 10:14:37,189.food_b_consumer.INFO  [x] Received 05/22/21 13:52:40,35.6
+2023-09-28 10:14:37,189.food_b_consumer.INFO                               
+2023-09-28 10:14:37,189.food_b_consumer.INFO                               
+2023-09-28 10:14:37,189.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:14:37,190.food_b_consumer.INFO                               
+2023-09-28 10:15:07,200.food_b_consumer.INFO                               
+2023-09-28 10:15:07,200.food_b_consumer.INFO  [x] Received 05/22/21 13:52:45,35.6
+2023-09-28 10:15:07,200.food_b_consumer.INFO                               
+2023-09-28 10:15:07,200.food_b_consumer.INFO                               
+2023-09-28 10:15:07,200.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:15:07,200.food_b_consumer.INFO                               
+2023-09-28 10:15:37,209.food_b_consumer.INFO                               
+2023-09-28 10:15:37,209.food_b_consumer.INFO  [x] Received 05/22/21 13:53:10,
+2023-09-28 10:15:37,210.food_b_consumer.INFO                               
+2023-09-28 10:15:37,210.food_b_consumer.INFO                               
+2023-09-28 10:15:37,210.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:15:37,210.food_b_consumer.INFO                               
+2023-09-28 10:16:07,218.food_b_consumer.INFO                               
+2023-09-28 10:16:07,218.food_b_consumer.INFO  [x] Received 05/22/21 13:53:15,
+2023-09-28 10:16:07,219.food_b_consumer.INFO                               
+2023-09-28 10:16:07,219.food_b_consumer.INFO                               
+2023-09-28 10:16:07,219.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:16:07,219.food_b_consumer.INFO                               
+2023-09-28 10:16:37,229.food_b_consumer.INFO                               
+2023-09-28 10:16:37,229.food_b_consumer.INFO  [x] Received 05/22/21 13:53:35,
+2023-09-28 10:16:37,229.food_b_consumer.INFO                               
+2023-09-28 10:16:37,229.food_b_consumer.INFO                               
+2023-09-28 10:16:37,230.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:16:37,230.food_b_consumer.INFO                               
+2023-09-28 10:17:07,229.food_b_consumer.INFO                               
+2023-09-28 10:17:07,230.food_b_consumer.INFO  [x] Received 05/22/21 13:53:40,35.7
+2023-09-28 10:17:07,230.food_b_consumer.INFO                               
+2023-09-28 10:17:07,230.food_b_consumer.INFO                               
+2023-09-28 10:17:07,230.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:17:07,230.food_b_consumer.INFO                               
+2023-09-28 10:17:37,241.food_b_consumer.INFO                               
+2023-09-28 10:17:37,241.food_b_consumer.INFO  [x] Received 05/22/21 13:53:45,35.7
+2023-09-28 10:17:37,242.food_b_consumer.INFO                               
+2023-09-28 10:17:37,242.food_b_consumer.INFO                               
+2023-09-28 10:17:37,242.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:17:37,242.food_b_consumer.INFO                               
+2023-09-28 10:18:07,244.food_b_consumer.INFO                               
+2023-09-28 10:18:07,244.food_b_consumer.INFO  [x] Received 05/22/21 13:54:10,
+2023-09-28 10:18:07,245.food_b_consumer.INFO                               
+2023-09-28 10:18:07,245.food_b_consumer.INFO                               
+2023-09-28 10:18:07,245.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:18:07,245.food_b_consumer.INFO                               
+2023-09-28 10:18:37,256.food_b_consumer.INFO                               
+2023-09-28 10:18:37,256.food_b_consumer.INFO  [x] Received 05/22/21 13:54:15,
+2023-09-28 10:18:37,256.food_b_consumer.INFO                               
+2023-09-28 10:18:37,256.food_b_consumer.INFO                               
+2023-09-28 10:18:37,256.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:18:37,257.food_b_consumer.INFO                               
+2023-09-28 10:19:07,267.food_b_consumer.INFO                               
+2023-09-28 10:19:07,267.food_b_consumer.INFO  [x] Received 05/22/21 13:54:35,
+2023-09-28 10:19:07,267.food_b_consumer.INFO                               
+2023-09-28 10:19:07,267.food_b_consumer.INFO                               
+2023-09-28 10:19:07,267.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:19:07,267.food_b_consumer.INFO                               
+2023-09-28 10:19:37,277.food_b_consumer.INFO                               
+2023-09-28 10:19:37,278.food_b_consumer.INFO  [x] Received 05/22/21 13:54:40,36.0
+2023-09-28 10:19:37,278.food_b_consumer.INFO                               
+2023-09-28 10:19:37,278.food_b_consumer.INFO                               
+2023-09-28 10:19:37,278.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:19:37,278.food_b_consumer.INFO                               
+2023-09-28 10:20:07,287.food_b_consumer.INFO                               
+2023-09-28 10:20:07,287.food_b_consumer.INFO  [x] Received 05/22/21 13:54:45,36.0
+2023-09-28 10:20:07,287.food_b_consumer.INFO                               
+2023-09-28 10:20:07,287.food_b_consumer.INFO                               
+2023-09-28 10:20:07,288.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:20:07,288.food_b_consumer.INFO                               
+2023-09-28 10:20:37,291.food_b_consumer.INFO                               
+2023-09-28 10:20:37,292.food_b_consumer.INFO  [x] Received 05/22/21 13:55:10,
+2023-09-28 10:20:37,292.food_b_consumer.INFO                               
+2023-09-28 10:20:37,292.food_b_consumer.INFO                               
+2023-09-28 10:20:37,292.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:20:37,292.food_b_consumer.INFO                               
+2023-09-28 10:21:07,303.food_b_consumer.INFO                               
+2023-09-28 10:21:07,303.food_b_consumer.INFO  [x] Received 05/22/21 13:55:15,
+2023-09-28 10:21:07,303.food_b_consumer.INFO                               
+2023-09-28 10:21:07,303.food_b_consumer.INFO                               
+2023-09-28 10:21:07,303.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:21:07,303.food_b_consumer.INFO                               
+2023-09-28 10:21:37,312.food_b_consumer.INFO                               
+2023-09-28 10:21:37,313.food_b_consumer.INFO  [x] Received 05/22/21 13:55:35,
+2023-09-28 10:21:37,313.food_b_consumer.INFO                               
+2023-09-28 10:21:37,313.food_b_consumer.INFO                               
+2023-09-28 10:21:37,313.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:21:37,313.food_b_consumer.INFO                               
+2023-09-28 10:22:07,323.food_b_consumer.INFO                               
+2023-09-28 10:22:07,323.food_b_consumer.INFO  [x] Received 05/22/21 13:55:40,36.0
+2023-09-28 10:22:07,324.food_b_consumer.INFO                               
+2023-09-28 10:22:07,324.food_b_consumer.INFO                               
+2023-09-28 10:22:07,324.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:22:07,324.food_b_consumer.INFO                               
+2023-09-28 10:22:37,335.food_b_consumer.INFO                               
+2023-09-28 10:22:37,335.food_b_consumer.INFO  [x] Received 05/22/21 13:55:45,36.0
+2023-09-28 10:22:37,335.food_b_consumer.INFO                               
+2023-09-28 10:22:37,335.food_b_consumer.INFO                               
+2023-09-28 10:22:37,335.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:22:37,335.food_b_consumer.INFO                               
+2023-09-28 10:23:07,346.food_b_consumer.INFO                               
+2023-09-28 10:23:07,346.food_b_consumer.INFO  [x] Received 05/22/21 13:56:10,
+2023-09-28 10:23:07,346.food_b_consumer.INFO                               
+2023-09-28 10:23:07,346.food_b_consumer.INFO                               
+2023-09-28 10:23:07,346.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:23:07,346.food_b_consumer.INFO                               
+2023-09-28 10:23:37,356.food_b_consumer.INFO                               
+2023-09-28 10:23:37,356.food_b_consumer.INFO  [x] Received 05/22/21 13:56:15,
+2023-09-28 10:23:37,356.food_b_consumer.INFO                               
+2023-09-28 10:23:37,356.food_b_consumer.INFO                               
+2023-09-28 10:23:37,357.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:23:37,357.food_b_consumer.INFO                               
+2023-09-28 10:24:07,362.food_b_consumer.INFO                               
+2023-09-28 10:24:07,362.food_b_consumer.INFO  [x] Received 05/22/21 13:56:35,
+2023-09-28 10:24:07,363.food_b_consumer.INFO                               
+2023-09-28 10:24:07,363.food_b_consumer.INFO                               
+2023-09-28 10:24:07,363.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:24:07,363.food_b_consumer.INFO                               
+2023-09-28 10:24:37,373.food_b_consumer.INFO                               
+2023-09-28 10:24:37,374.food_b_consumer.INFO  [x] Received 05/22/21 13:56:40,36.4
+2023-09-28 10:24:37,374.food_b_consumer.INFO                               
+2023-09-28 10:24:37,374.food_b_consumer.INFO                               
+2023-09-28 10:24:37,374.food_b_consumer.INFO Warning! You hit a food stall at 05/22/21 13:56:40. The temperature has not changed in the past 10 minutes!
+2023-09-28 10:24:37,374.food_b_consumer.INFO                               
+2023-09-28 10:24:37,374.food_b_consumer.INFO                               
+2023-09-28 10:24:37,374.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:24:37,375.food_b_consumer.INFO                               
+2023-09-28 10:25:07,385.food_b_consumer.INFO                               
+2023-09-28 10:25:07,385.food_b_consumer.INFO  [x] Received 05/22/21 13:56:45,36.4
+2023-09-28 10:25:07,385.food_b_consumer.INFO                               
+2023-09-28 10:25:07,385.food_b_consumer.INFO                               
+2023-09-28 10:25:07,385.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:25:07,385.food_b_consumer.INFO                               
+2023-09-28 10:25:37,395.food_b_consumer.INFO                               
+2023-09-28 10:25:37,396.food_b_consumer.INFO  [x] Received 05/22/21 13:57:10,
+2023-09-28 10:25:37,396.food_b_consumer.INFO                               
+2023-09-28 10:25:37,396.food_b_consumer.INFO                               
+2023-09-28 10:25:37,396.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:25:37,396.food_b_consumer.INFO                               
+2023-09-28 10:26:07,407.food_b_consumer.INFO                               
+2023-09-28 10:26:07,407.food_b_consumer.INFO  [x] Received 05/22/21 13:57:15,
+2023-09-28 10:26:07,407.food_b_consumer.INFO                               
+2023-09-28 10:26:07,407.food_b_consumer.INFO                               
+2023-09-28 10:26:07,407.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:26:07,408.food_b_consumer.INFO                               
+2023-09-28 10:26:37,413.food_b_consumer.INFO                               
+2023-09-28 10:26:37,413.food_b_consumer.INFO  [x] Received 05/22/21 13:57:35,
+2023-09-28 10:26:37,413.food_b_consumer.INFO                               
+2023-09-28 10:26:37,413.food_b_consumer.INFO                               
+2023-09-28 10:26:37,414.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:26:37,414.food_b_consumer.INFO                               
+2023-09-28 10:27:07,424.food_b_consumer.INFO                               
+2023-09-28 10:27:07,425.food_b_consumer.INFO  [x] Received 05/22/21 13:57:40,36.7
+2023-09-28 10:27:07,425.food_b_consumer.INFO                               
+2023-09-28 10:27:07,425.food_b_consumer.INFO                               
+2023-09-28 10:27:07,425.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:27:07,425.food_b_consumer.INFO                               
+2023-09-28 10:27:37,436.food_b_consumer.INFO                               
+2023-09-28 10:27:37,436.food_b_consumer.INFO  [x] Received 05/22/21 13:57:45,36.7
+2023-09-28 10:27:37,436.food_b_consumer.INFO                               
+2023-09-28 10:27:37,437.food_b_consumer.INFO                               
+2023-09-28 10:27:37,437.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:27:37,437.food_b_consumer.INFO                               
+2023-09-28 10:28:07,447.food_b_consumer.INFO                               
+2023-09-28 10:28:07,447.food_b_consumer.INFO  [x] Received 05/22/21 13:58:10,
+2023-09-28 10:28:07,447.food_b_consumer.INFO                               
+2023-09-28 10:28:07,447.food_b_consumer.INFO                               
+2023-09-28 10:28:07,447.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:28:07,448.food_b_consumer.INFO                               
+2023-09-28 10:28:37,458.food_b_consumer.INFO                               
+2023-09-28 10:28:37,458.food_b_consumer.INFO  [x] Received 05/22/21 13:58:15,
+2023-09-28 10:28:37,458.food_b_consumer.INFO                               
+2023-09-28 10:28:37,459.food_b_consumer.INFO                               
+2023-09-28 10:28:37,459.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:28:37,459.food_b_consumer.INFO                               
+2023-09-28 10:29:07,469.food_b_consumer.INFO                               
+2023-09-28 10:29:07,469.food_b_consumer.INFO  [x] Received 05/22/21 13:58:35,
+2023-09-28 10:29:07,469.food_b_consumer.INFO                               
+2023-09-28 10:29:07,470.food_b_consumer.INFO                               
+2023-09-28 10:29:07,470.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:29:07,470.food_b_consumer.INFO                               
+2023-09-28 10:29:37,479.food_b_consumer.INFO                               
+2023-09-28 10:29:37,479.food_b_consumer.INFO  [x] Received 05/22/21 13:58:40,37.1
+2023-09-28 10:29:37,480.food_b_consumer.INFO                               
+2023-09-28 10:29:37,480.food_b_consumer.INFO                               
+2023-09-28 10:29:37,480.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:29:37,480.food_b_consumer.INFO                               
+2023-09-28 10:30:07,491.food_b_consumer.INFO                               
+2023-09-28 10:30:07,492.food_b_consumer.INFO  [x] Received 05/22/21 13:58:45,37.1
+2023-09-28 10:30:07,492.food_b_consumer.INFO                               
+2023-09-28 10:30:07,492.food_b_consumer.INFO                               
+2023-09-28 10:30:07,492.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:30:07,492.food_b_consumer.INFO                               
+2023-09-28 10:30:37,502.food_b_consumer.INFO                               
+2023-09-28 10:30:37,502.food_b_consumer.INFO  [x] Received 05/22/21 13:59:10,
+2023-09-28 10:30:37,502.food_b_consumer.INFO                               
+2023-09-28 10:30:37,502.food_b_consumer.INFO                               
+2023-09-28 10:30:37,503.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:30:37,503.food_b_consumer.INFO                               
+2023-09-28 10:31:07,514.food_b_consumer.INFO                               
+2023-09-28 10:31:07,514.food_b_consumer.INFO  [x] Received 05/22/21 13:59:15,
+2023-09-28 10:31:07,514.food_b_consumer.INFO                               
+2023-09-28 10:31:07,514.food_b_consumer.INFO                               
+2023-09-28 10:31:07,514.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:31:07,514.food_b_consumer.INFO                               
+2023-09-28 10:31:37,518.food_b_consumer.INFO                               
+2023-09-28 10:31:37,518.food_b_consumer.INFO  [x] Received 05/22/21 13:59:35,
+2023-09-28 10:31:37,518.food_b_consumer.INFO                               
+2023-09-28 10:31:37,519.food_b_consumer.INFO                               
+2023-09-28 10:31:37,519.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:31:37,519.food_b_consumer.INFO                               
+2023-09-28 10:32:07,529.food_b_consumer.INFO                               
+2023-09-28 10:32:07,529.food_b_consumer.INFO  [x] Received 05/22/21 13:59:40,37.6
+2023-09-28 10:32:07,529.food_b_consumer.INFO                               
+2023-09-28 10:32:07,529.food_b_consumer.INFO                               
+2023-09-28 10:32:07,530.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:32:07,530.food_b_consumer.INFO                               
+2023-09-28 10:32:37,538.food_b_consumer.INFO                               
+2023-09-28 10:32:37,538.food_b_consumer.INFO  [x] Received 05/22/21 13:59:45,37.6
+2023-09-28 10:32:37,538.food_b_consumer.INFO                               
+2023-09-28 10:32:37,538.food_b_consumer.INFO                               
+2023-09-28 10:32:37,538.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:32:37,539.food_b_consumer.INFO                               
+2023-09-28 10:33:07,548.food_b_consumer.INFO                               
+2023-09-28 10:33:07,548.food_b_consumer.INFO  [x] Received 05/22/21 14:00:10,
+2023-09-28 10:33:07,548.food_b_consumer.INFO                               
+2023-09-28 10:33:07,549.food_b_consumer.INFO                               
+2023-09-28 10:33:07,549.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:33:07,549.food_b_consumer.INFO                               
+2023-09-28 10:33:37,559.food_b_consumer.INFO                               
+2023-09-28 10:33:37,560.food_b_consumer.INFO  [x] Received 05/22/21 14:00:15,
+2023-09-28 10:33:37,560.food_b_consumer.INFO                               
+2023-09-28 10:33:37,560.food_b_consumer.INFO                               
+2023-09-28 10:33:37,560.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:33:37,560.food_b_consumer.INFO                               
+2023-09-28 10:34:07,571.food_b_consumer.INFO                               
+2023-09-28 10:34:07,571.food_b_consumer.INFO  [x] Received 05/22/21 14:00:35,
+2023-09-28 10:34:07,571.food_b_consumer.INFO                               
+2023-09-28 10:34:07,571.food_b_consumer.INFO                               
+2023-09-28 10:34:07,571.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:34:07,571.food_b_consumer.INFO                               
+2023-09-28 10:34:37,578.food_b_consumer.INFO                               
+2023-09-28 10:34:37,578.food_b_consumer.INFO  [x] Received 05/22/21 14:00:40,38.0
+2023-09-28 10:34:37,579.food_b_consumer.INFO                               
+2023-09-28 10:34:37,579.food_b_consumer.INFO                               
+2023-09-28 10:34:37,579.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:34:37,579.food_b_consumer.INFO                               
+2023-09-28 10:35:07,581.food_b_consumer.INFO                               
+2023-09-28 10:35:07,581.food_b_consumer.INFO  [x] Received 05/22/21 14:00:45,38.0
+2023-09-28 10:35:07,581.food_b_consumer.INFO                               
+2023-09-28 10:35:07,582.food_b_consumer.INFO                               
+2023-09-28 10:35:07,582.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:35:07,582.food_b_consumer.INFO                               
+2023-09-28 10:35:37,594.food_b_consumer.INFO                               
+2023-09-28 10:35:37,594.food_b_consumer.INFO  [x] Received 05/22/21 14:01:10,
+2023-09-28 10:35:37,594.food_b_consumer.INFO                               
+2023-09-28 10:35:37,594.food_b_consumer.INFO                               
+2023-09-28 10:35:37,594.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:35:37,595.food_b_consumer.INFO                               
+2023-09-28 10:36:07,599.food_b_consumer.INFO                               
+2023-09-28 10:36:07,599.food_b_consumer.INFO  [x] Received 05/22/21 14:01:15,
+2023-09-28 10:36:07,599.food_b_consumer.INFO                               
+2023-09-28 10:36:07,599.food_b_consumer.INFO                               
+2023-09-28 10:36:07,599.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:36:07,599.food_b_consumer.INFO                               
+2023-09-28 10:36:37,609.food_b_consumer.INFO                               
+2023-09-28 10:36:37,610.food_b_consumer.INFO  [x] Received 05/22/21 14:01:35,
+2023-09-28 10:36:37,610.food_b_consumer.INFO                               
+2023-09-28 10:36:37,610.food_b_consumer.INFO                               
+2023-09-28 10:36:37,610.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:36:37,610.food_b_consumer.INFO                               
+2023-09-28 10:37:07,621.food_b_consumer.INFO                               
+2023-09-28 10:37:07,621.food_b_consumer.INFO  [x] Received 05/22/21 14:01:40,38.5
+2023-09-28 10:37:07,621.food_b_consumer.INFO                               
+2023-09-28 10:37:07,621.food_b_consumer.INFO                               
+2023-09-28 10:37:07,621.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:37:07,621.food_b_consumer.INFO                               
+2023-09-28 10:37:37,626.food_b_consumer.INFO                               
+2023-09-28 10:37:37,626.food_b_consumer.INFO  [x] Received 05/22/21 14:01:45,38.5
+2023-09-28 10:37:37,626.food_b_consumer.INFO                               
+2023-09-28 10:37:37,626.food_b_consumer.INFO                               
+2023-09-28 10:37:37,627.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:37:37,627.food_b_consumer.INFO                               
+2023-09-28 10:38:07,637.food_b_consumer.INFO                               
+2023-09-28 10:38:07,637.food_b_consumer.INFO  [x] Received 05/22/21 14:02:10,
+2023-09-28 10:38:07,637.food_b_consumer.INFO                               
+2023-09-28 10:38:07,637.food_b_consumer.INFO                               
+2023-09-28 10:38:07,637.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:38:07,637.food_b_consumer.INFO                               
+2023-09-28 10:38:37,648.food_b_consumer.INFO                               
+2023-09-28 10:38:37,649.food_b_consumer.INFO  [x] Received 05/22/21 14:02:15,
+2023-09-28 10:38:37,649.food_b_consumer.INFO                               
+2023-09-28 10:38:37,649.food_b_consumer.INFO                               
+2023-09-28 10:38:37,649.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:38:37,649.food_b_consumer.INFO                               
+2023-09-28 10:39:07,658.food_b_consumer.INFO                               
+2023-09-28 10:39:07,659.food_b_consumer.INFO  [x] Received 05/22/21 14:02:35,
+2023-09-28 10:39:07,659.food_b_consumer.INFO                               
+2023-09-28 10:39:07,659.food_b_consumer.INFO                               
+2023-09-28 10:39:07,659.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:39:07,659.food_b_consumer.INFO                               
+2023-09-28 10:39:37,669.food_b_consumer.INFO                               
+2023-09-28 10:39:37,670.food_b_consumer.INFO  [x] Received 05/22/21 14:02:40,39.2
+2023-09-28 10:39:37,670.food_b_consumer.INFO                               
+2023-09-28 10:39:37,670.food_b_consumer.INFO                               
+2023-09-28 10:39:37,670.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:39:37,670.food_b_consumer.INFO                               
+2023-09-28 10:40:07,718.food_b_consumer.INFO                               
+2023-09-28 10:40:07,718.food_b_consumer.INFO  [x] Received 05/22/21 14:02:45,39.2
+2023-09-28 10:40:07,718.food_b_consumer.INFO                               
+2023-09-28 10:40:07,718.food_b_consumer.INFO                               
+2023-09-28 10:40:07,718.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:40:07,718.food_b_consumer.INFO                               
+2023-09-28 10:40:37,692.food_b_consumer.INFO                               
+2023-09-28 10:40:37,692.food_b_consumer.INFO  [x] Received 05/22/21 14:03:10,
+2023-09-28 10:40:37,692.food_b_consumer.INFO                               
+2023-09-28 10:40:37,692.food_b_consumer.INFO                               
+2023-09-28 10:40:37,692.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:40:37,692.food_b_consumer.INFO                               
+2023-09-28 10:41:07,703.food_b_consumer.INFO                               
+2023-09-28 10:41:07,703.food_b_consumer.INFO  [x] Received 05/22/21 14:03:15,
+2023-09-28 10:41:07,703.food_b_consumer.INFO                               
+2023-09-28 10:41:07,703.food_b_consumer.INFO                               
+2023-09-28 10:41:07,703.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:41:07,704.food_b_consumer.INFO                               
+2023-09-28 10:41:37,713.food_b_consumer.INFO                               
+2023-09-28 10:41:37,713.food_b_consumer.INFO  [x] Received 05/22/21 14:03:35,
+2023-09-28 10:41:37,714.food_b_consumer.INFO                               
+2023-09-28 10:41:37,714.food_b_consumer.INFO                               
+2023-09-28 10:41:37,714.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:41:37,714.food_b_consumer.INFO                               
+2023-09-28 10:42:07,719.food_b_consumer.INFO                               
+2023-09-28 10:42:07,719.food_b_consumer.INFO  [x] Received 05/22/21 14:03:40,39.8
+2023-09-28 10:42:07,719.food_b_consumer.INFO                               
+2023-09-28 10:42:07,719.food_b_consumer.INFO                               
+2023-09-28 10:42:07,719.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:42:07,719.food_b_consumer.INFO                               
+2023-09-28 10:42:37,729.food_b_consumer.INFO                               
+2023-09-28 10:42:37,729.food_b_consumer.INFO  [x] Received 05/22/21 14:03:45,39.8
+2023-09-28 10:42:37,729.food_b_consumer.INFO                               
+2023-09-28 10:42:37,730.food_b_consumer.INFO                               
+2023-09-28 10:42:37,730.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:42:37,730.food_b_consumer.INFO                               
+2023-09-28 10:43:07,741.food_b_consumer.INFO                               
+2023-09-28 10:43:07,741.food_b_consumer.INFO  [x] Received 05/22/21 14:04:10,
+2023-09-28 10:43:07,741.food_b_consumer.INFO                               
+2023-09-28 10:43:07,741.food_b_consumer.INFO                               
+2023-09-28 10:43:07,742.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:43:07,742.food_b_consumer.INFO                               
+2023-09-28 10:43:37,752.food_b_consumer.INFO                               
+2023-09-28 10:43:37,752.food_b_consumer.INFO  [x] Received 05/22/21 14:04:15,
+2023-09-28 10:43:37,752.food_b_consumer.INFO                               
+2023-09-28 10:43:37,752.food_b_consumer.INFO                               
+2023-09-28 10:43:37,752.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:43:37,752.food_b_consumer.INFO                               
+2023-09-28 10:44:07,763.food_b_consumer.INFO                               
+2023-09-28 10:44:07,763.food_b_consumer.INFO  [x] Received 05/22/21 14:04:35,
+2023-09-28 10:44:07,763.food_b_consumer.INFO                               
+2023-09-28 10:44:07,763.food_b_consumer.INFO                               
+2023-09-28 10:44:07,763.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:44:07,764.food_b_consumer.INFO                               
+2023-09-28 10:44:37,774.food_b_consumer.INFO                               
+2023-09-28 10:44:37,774.food_b_consumer.INFO  [x] Received 05/22/21 14:04:40,40.4
+2023-09-28 10:44:37,775.food_b_consumer.INFO                               
+2023-09-28 10:44:37,775.food_b_consumer.INFO                               
+2023-09-28 10:44:37,775.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:44:37,775.food_b_consumer.INFO                               
+2023-09-28 10:45:07,785.food_b_consumer.INFO                               
+2023-09-28 10:45:07,785.food_b_consumer.INFO  [x] Received 05/22/21 14:04:45,40.4
+2023-09-28 10:45:07,785.food_b_consumer.INFO                               
+2023-09-28 10:45:07,786.food_b_consumer.INFO                               
+2023-09-28 10:45:07,786.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:45:07,786.food_b_consumer.INFO                               
+2023-09-28 10:45:37,790.food_b_consumer.INFO                               
+2023-09-28 10:45:37,790.food_b_consumer.INFO  [x] Received 05/22/21 14:05:10,
+2023-09-28 10:45:37,791.food_b_consumer.INFO                               
+2023-09-28 10:45:37,791.food_b_consumer.INFO                               
+2023-09-28 10:45:37,791.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:45:37,791.food_b_consumer.INFO                               
+2023-09-28 10:46:07,796.food_b_consumer.INFO                               
+2023-09-28 10:46:07,796.food_b_consumer.INFO  [x] Received 05/22/21 14:05:15,
+2023-09-28 10:46:07,797.food_b_consumer.INFO                               
+2023-09-28 10:46:07,797.food_b_consumer.INFO                               
+2023-09-28 10:46:07,797.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:46:07,797.food_b_consumer.INFO                               
+2023-09-28 10:46:37,809.food_b_consumer.INFO                               
+2023-09-28 10:46:37,809.food_b_consumer.INFO  [x] Received 05/22/21 14:05:35,
+2023-09-28 10:46:37,809.food_b_consumer.INFO                               
+2023-09-28 10:46:37,809.food_b_consumer.INFO                               
+2023-09-28 10:46:37,809.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:46:37,810.food_b_consumer.INFO                               
+2023-09-28 10:47:07,820.food_b_consumer.INFO                               
+2023-09-28 10:47:07,820.food_b_consumer.INFO  [x] Received 05/22/21 14:05:40,41.1
+2023-09-28 10:47:07,820.food_b_consumer.INFO                               
+2023-09-28 10:47:07,820.food_b_consumer.INFO                               
+2023-09-28 10:47:07,821.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:47:07,821.food_b_consumer.INFO                               
+2023-09-28 10:47:37,828.food_b_consumer.INFO                               
+2023-09-28 10:47:37,828.food_b_consumer.INFO  [x] Received 05/22/21 14:05:45,41.1
+2023-09-28 10:47:37,829.food_b_consumer.INFO                               
+2023-09-28 10:47:37,829.food_b_consumer.INFO                               
+2023-09-28 10:47:37,829.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:47:37,829.food_b_consumer.INFO                               
+2023-09-28 10:48:07,840.food_b_consumer.INFO                               
+2023-09-28 10:48:07,840.food_b_consumer.INFO  [x] Received 05/22/21 14:06:10,
+2023-09-28 10:48:07,840.food_b_consumer.INFO                               
+2023-09-28 10:48:07,840.food_b_consumer.INFO                               
+2023-09-28 10:48:07,840.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:48:07,840.food_b_consumer.INFO                               
+2023-09-28 10:48:37,842.food_b_consumer.INFO                               
+2023-09-28 10:48:37,843.food_b_consumer.INFO  [x] Received 05/22/21 14:06:15,
+2023-09-28 10:48:37,843.food_b_consumer.INFO                               
+2023-09-28 10:48:37,843.food_b_consumer.INFO                               
+2023-09-28 10:48:37,843.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:48:37,843.food_b_consumer.INFO                               
+2023-09-28 10:49:07,854.food_b_consumer.INFO                               
+2023-09-28 10:49:07,854.food_b_consumer.INFO  [x] Received 05/22/21 14:06:35,
+2023-09-28 10:49:07,854.food_b_consumer.INFO                               
+2023-09-28 10:49:07,854.food_b_consumer.INFO                               
+2023-09-28 10:49:07,855.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:49:07,855.food_b_consumer.INFO                               
+2023-09-28 10:49:37,863.food_b_consumer.INFO                               
+2023-09-28 10:49:37,863.food_b_consumer.INFO  [x] Received 05/22/21 14:06:40,41.9
+2023-09-28 10:49:37,864.food_b_consumer.INFO                               
+2023-09-28 10:49:37,864.food_b_consumer.INFO                               
+2023-09-28 10:49:37,864.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:49:37,864.food_b_consumer.INFO                               
+2023-09-28 10:50:07,874.food_b_consumer.INFO                               
+2023-09-28 10:50:07,874.food_b_consumer.INFO  [x] Received 05/22/21 14:06:45,41.9
+2023-09-28 10:50:07,874.food_b_consumer.INFO                               
+2023-09-28 10:50:07,875.food_b_consumer.INFO                               
+2023-09-28 10:50:07,875.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:50:07,875.food_b_consumer.INFO                               
+2023-09-28 10:50:37,879.food_b_consumer.INFO                               
+2023-09-28 10:50:37,879.food_b_consumer.INFO  [x] Received 05/22/21 14:07:10,
+2023-09-28 10:50:37,880.food_b_consumer.INFO                               
+2023-09-28 10:50:37,880.food_b_consumer.INFO                               
+2023-09-28 10:50:37,880.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:50:37,880.food_b_consumer.INFO                               
+2023-09-28 10:51:07,880.food_b_consumer.INFO                               
+2023-09-28 10:51:07,880.food_b_consumer.INFO  [x] Received 05/22/21 14:07:15,
+2023-09-28 10:51:07,880.food_b_consumer.INFO                               
+2023-09-28 10:51:07,881.food_b_consumer.INFO                               
+2023-09-28 10:51:07,881.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:51:07,881.food_b_consumer.INFO                               
+2023-09-28 10:51:37,891.food_b_consumer.INFO                               
+2023-09-28 10:51:37,891.food_b_consumer.INFO  [x] Received 05/22/21 14:07:35,
+2023-09-28 10:51:37,891.food_b_consumer.INFO                               
+2023-09-28 10:51:37,891.food_b_consumer.INFO                               
+2023-09-28 10:51:37,891.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:51:37,892.food_b_consumer.INFO                               
+2023-09-28 10:52:07,903.food_b_consumer.INFO                               
+2023-09-28 10:52:07,903.food_b_consumer.INFO  [x] Received 05/22/21 14:07:40,42.7
+2023-09-28 10:52:07,903.food_b_consumer.INFO                               
+2023-09-28 10:52:07,903.food_b_consumer.INFO                               
+2023-09-28 10:52:07,903.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:52:07,903.food_b_consumer.INFO                               
+2023-09-28 10:52:37,903.food_b_consumer.INFO                               
+2023-09-28 10:52:37,903.food_b_consumer.INFO  [x] Received 05/22/21 14:07:45,42.7
+2023-09-28 10:52:37,903.food_b_consumer.INFO                               
+2023-09-28 10:52:37,903.food_b_consumer.INFO                               
+2023-09-28 10:52:37,903.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:52:37,903.food_b_consumer.INFO                               
+2023-09-28 10:53:07,915.food_b_consumer.INFO                               
+2023-09-28 10:53:07,915.food_b_consumer.INFO  [x] Received 05/22/21 14:08:10,
+2023-09-28 10:53:07,916.food_b_consumer.INFO                               
+2023-09-28 10:53:07,916.food_b_consumer.INFO                               
+2023-09-28 10:53:07,916.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:53:07,916.food_b_consumer.INFO                               
+2023-09-28 10:53:37,922.food_b_consumer.INFO                               
+2023-09-28 10:53:37,922.food_b_consumer.INFO  [x] Received 05/22/21 14:08:15,
+2023-09-28 10:53:37,922.food_b_consumer.INFO                               
+2023-09-28 10:53:37,922.food_b_consumer.INFO                               
+2023-09-28 10:53:37,923.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:53:37,923.food_b_consumer.INFO                               
+2023-09-28 10:54:07,932.food_b_consumer.INFO                               
+2023-09-28 10:54:07,933.food_b_consumer.INFO  [x] Received 05/22/21 14:08:35,
+2023-09-28 10:54:07,933.food_b_consumer.INFO                               
+2023-09-28 10:54:07,933.food_b_consumer.INFO                               
+2023-09-28 10:54:07,933.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:54:07,933.food_b_consumer.INFO                               
+2023-09-28 10:54:37,943.food_b_consumer.INFO                               
+2023-09-28 10:54:37,944.food_b_consumer.INFO  [x] Received 05/22/21 14:08:40,43.4
+2023-09-28 10:54:37,944.food_b_consumer.INFO                               
+2023-09-28 10:54:37,944.food_b_consumer.INFO                               
+2023-09-28 10:54:37,944.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:54:37,944.food_b_consumer.INFO                               
+2023-09-28 10:55:07,953.food_b_consumer.INFO                               
+2023-09-28 10:55:07,953.food_b_consumer.INFO  [x] Received 05/22/21 14:08:45,43.4
+2023-09-28 10:55:07,953.food_b_consumer.INFO                               
+2023-09-28 10:55:07,953.food_b_consumer.INFO                               
+2023-09-28 10:55:07,953.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:55:07,953.food_b_consumer.INFO                               
+2023-09-28 10:55:37,964.food_b_consumer.INFO                               
+2023-09-28 10:55:37,964.food_b_consumer.INFO  [x] Received 05/22/21 14:09:10,
+2023-09-28 10:55:37,964.food_b_consumer.INFO                               
+2023-09-28 10:55:37,964.food_b_consumer.INFO                               
+2023-09-28 10:55:37,964.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:55:37,964.food_b_consumer.INFO                               
+2023-09-28 10:56:07,968.food_b_consumer.INFO                               
+2023-09-28 10:56:07,968.food_b_consumer.INFO  [x] Received 05/22/21 14:09:15,
+2023-09-28 10:56:07,968.food_b_consumer.INFO                               
+2023-09-28 10:56:07,968.food_b_consumer.INFO                               
+2023-09-28 10:56:07,968.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:56:07,968.food_b_consumer.INFO                               
+2023-09-28 10:56:37,975.food_b_consumer.INFO                               
+2023-09-28 10:56:37,975.food_b_consumer.INFO  [x] Received 05/22/21 14:09:35,
+2023-09-28 10:56:37,975.food_b_consumer.INFO                               
+2023-09-28 10:56:37,975.food_b_consumer.INFO                               
+2023-09-28 10:56:37,975.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:56:37,975.food_b_consumer.INFO                               
+2023-09-28 10:57:07,986.food_b_consumer.INFO                               
+2023-09-28 10:57:07,986.food_b_consumer.INFO  [x] Received 05/22/21 14:09:40,44.3
+2023-09-28 10:57:07,986.food_b_consumer.INFO                               
+2023-09-28 10:57:07,986.food_b_consumer.INFO                               
+2023-09-28 10:57:07,986.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:57:07,986.food_b_consumer.INFO                               
+2023-09-28 10:57:37,997.food_b_consumer.INFO                               
+2023-09-28 10:57:37,997.food_b_consumer.INFO  [x] Received 05/22/21 14:09:45,44.3
+2023-09-28 10:57:37,997.food_b_consumer.INFO                               
+2023-09-28 10:57:37,998.food_b_consumer.INFO                               
+2023-09-28 10:57:37,998.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:57:37,998.food_b_consumer.INFO                               
+2023-09-28 10:58:08,009.food_b_consumer.INFO                               
+2023-09-28 10:58:08,009.food_b_consumer.INFO  [x] Received 05/22/21 14:10:10,
+2023-09-28 10:58:08,009.food_b_consumer.INFO                               
+2023-09-28 10:58:08,009.food_b_consumer.INFO                               
+2023-09-28 10:58:08,009.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:58:08,009.food_b_consumer.INFO                               
+2023-09-28 10:58:38,020.food_b_consumer.INFO                               
+2023-09-28 10:58:38,020.food_b_consumer.INFO  [x] Received 05/22/21 14:10:15,
+2023-09-28 10:58:38,020.food_b_consumer.INFO                               
+2023-09-28 10:58:38,020.food_b_consumer.INFO                               
+2023-09-28 10:58:38,021.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:58:38,021.food_b_consumer.INFO                               
+2023-09-28 10:59:08,025.food_b_consumer.INFO                               
+2023-09-28 10:59:08,026.food_b_consumer.INFO  [x] Received 05/22/21 14:10:35,
+2023-09-28 10:59:08,026.food_b_consumer.INFO                               
+2023-09-28 10:59:08,026.food_b_consumer.INFO                               
+2023-09-28 10:59:08,026.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:59:08,026.food_b_consumer.INFO                               
+2023-09-28 10:59:38,037.food_b_consumer.INFO                               
+2023-09-28 10:59:38,037.food_b_consumer.INFO  [x] Received 05/22/21 14:10:40,45.4
+2023-09-28 10:59:38,037.food_b_consumer.INFO                               
+2023-09-28 10:59:38,037.food_b_consumer.INFO                               
+2023-09-28 10:59:38,038.food_b_consumer.INFO  [x] Done.
+2023-09-28 10:59:38,038.food_b_consumer.INFO                               
+2023-09-28 11:00:08,043.food_b_consumer.INFO                               
+2023-09-28 11:00:08,043.food_b_consumer.INFO  [x] Received 05/22/21 14:10:45,45.4
+2023-09-28 11:00:08,043.food_b_consumer.INFO                               
+2023-09-28 11:00:08,043.food_b_consumer.INFO                               
+2023-09-28 11:00:08,043.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:00:08,044.food_b_consumer.INFO                               
+2023-09-28 11:00:38,054.food_b_consumer.INFO                               
+2023-09-28 11:00:38,054.food_b_consumer.INFO  [x] Received 05/22/21 14:11:10,
+2023-09-28 11:00:38,055.food_b_consumer.INFO                               
+2023-09-28 11:00:38,055.food_b_consumer.INFO                               
+2023-09-28 11:00:38,055.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:00:38,055.food_b_consumer.INFO                               
+2023-09-28 11:01:08,055.food_b_consumer.INFO                               
+2023-09-28 11:01:08,055.food_b_consumer.INFO  [x] Received 05/22/21 14:11:15,
+2023-09-28 11:01:08,055.food_b_consumer.INFO                               
+2023-09-28 11:01:08,055.food_b_consumer.INFO                               
+2023-09-28 11:01:08,055.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:01:08,055.food_b_consumer.INFO                               
+2023-09-28 11:01:38,066.food_b_consumer.INFO                               
+2023-09-28 11:01:38,066.food_b_consumer.INFO  [x] Received 05/22/21 14:11:35,
+2023-09-28 11:01:38,066.food_b_consumer.INFO                               
+2023-09-28 11:01:38,067.food_b_consumer.INFO                               
+2023-09-28 11:01:38,067.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:01:38,067.food_b_consumer.INFO                               
+2023-09-28 11:02:08,078.food_b_consumer.INFO                               
+2023-09-28 11:02:08,078.food_b_consumer.INFO  [x] Received 05/22/21 14:11:40,46.1
+2023-09-28 11:02:08,078.food_b_consumer.INFO                               
+2023-09-28 11:02:08,078.food_b_consumer.INFO                               
+2023-09-28 11:02:08,078.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:02:08,078.food_b_consumer.INFO                               
+2023-09-28 11:02:38,089.food_b_consumer.INFO                               
+2023-09-28 11:02:38,089.food_b_consumer.INFO  [x] Received 05/22/21 14:11:45,46.1
+2023-09-28 11:02:38,089.food_b_consumer.INFO                               
+2023-09-28 11:02:38,089.food_b_consumer.INFO                               
+2023-09-28 11:02:38,089.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:02:38,089.food_b_consumer.INFO                               
+2023-09-28 11:03:08,100.food_b_consumer.INFO                               
+2023-09-28 11:03:08,100.food_b_consumer.INFO  [x] Received 05/22/21 14:12:10,
+2023-09-28 11:03:08,100.food_b_consumer.INFO                               
+2023-09-28 11:03:08,100.food_b_consumer.INFO                               
+2023-09-28 11:03:08,100.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:03:08,100.food_b_consumer.INFO                               
+2023-09-28 11:03:38,111.food_b_consumer.INFO                               
+2023-09-28 11:03:38,111.food_b_consumer.INFO  [x] Received 05/22/21 14:12:15,
+2023-09-28 11:03:38,111.food_b_consumer.INFO                               
+2023-09-28 11:03:38,111.food_b_consumer.INFO                               
+2023-09-28 11:03:38,111.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:03:38,111.food_b_consumer.INFO                               
+2023-09-28 11:04:08,122.food_b_consumer.INFO                               
+2023-09-28 11:04:08,123.food_b_consumer.INFO  [x] Received 05/22/21 14:12:35,
+2023-09-28 11:04:08,123.food_b_consumer.INFO                               
+2023-09-28 11:04:08,123.food_b_consumer.INFO                               
+2023-09-28 11:04:08,123.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:04:08,123.food_b_consumer.INFO                               
+2023-09-28 11:04:38,127.food_b_consumer.INFO                               
+2023-09-28 11:04:38,127.food_b_consumer.INFO  [x] Received 05/22/21 14:12:40,47.1
+2023-09-28 11:04:38,127.food_b_consumer.INFO                               
+2023-09-28 11:04:38,127.food_b_consumer.INFO                               
+2023-09-28 11:04:38,127.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:04:38,127.food_b_consumer.INFO                               
+2023-09-28 11:05:08,129.food_b_consumer.INFO                               
+2023-09-28 11:05:08,130.food_b_consumer.INFO  [x] Received 05/22/21 14:12:45,47.1
+2023-09-28 11:05:08,130.food_b_consumer.INFO                               
+2023-09-28 11:05:08,130.food_b_consumer.INFO                               
+2023-09-28 11:05:08,130.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:05:08,130.food_b_consumer.INFO                               
+2023-09-28 11:05:38,141.food_b_consumer.INFO                               
+2023-09-28 11:05:38,141.food_b_consumer.INFO  [x] Received 05/22/21 14:13:10,
+2023-09-28 11:05:38,141.food_b_consumer.INFO                               
+2023-09-28 11:05:38,141.food_b_consumer.INFO                               
+2023-09-28 11:05:38,141.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:05:38,141.food_b_consumer.INFO                               
+2023-09-28 11:06:08,149.food_b_consumer.INFO                               
+2023-09-28 11:06:08,149.food_b_consumer.INFO  [x] Received 05/22/21 14:13:15,
+2023-09-28 11:06:08,150.food_b_consumer.INFO                               
+2023-09-28 11:06:08,150.food_b_consumer.INFO                               
+2023-09-28 11:06:08,150.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:06:08,150.food_b_consumer.INFO                               
+2023-09-28 11:06:38,160.food_b_consumer.INFO                               
+2023-09-28 11:06:38,160.food_b_consumer.INFO  [x] Received 05/22/21 14:13:35,
+2023-09-28 11:06:38,161.food_b_consumer.INFO                               
+2023-09-28 11:06:38,161.food_b_consumer.INFO                               
+2023-09-28 11:06:38,161.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:06:38,161.food_b_consumer.INFO                               
+2023-09-28 11:07:08,172.food_b_consumer.INFO                               
+2023-09-28 11:07:08,172.food_b_consumer.INFO  [x] Received 05/22/21 14:13:40,48.1
+2023-09-28 11:07:08,172.food_b_consumer.INFO                               
+2023-09-28 11:07:08,172.food_b_consumer.INFO                               
+2023-09-28 11:07:08,172.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:07:08,172.food_b_consumer.INFO                               
+2023-09-28 11:07:38,174.food_b_consumer.INFO                               
+2023-09-28 11:07:38,174.food_b_consumer.INFO  [x] Received 05/22/21 14:13:45,48.1
+2023-09-28 11:07:38,174.food_b_consumer.INFO                               
+2023-09-28 11:07:38,174.food_b_consumer.INFO                               
+2023-09-28 11:07:38,174.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:07:38,174.food_b_consumer.INFO                               
+2023-09-28 11:08:08,180.food_b_consumer.INFO                               
+2023-09-28 11:08:08,180.food_b_consumer.INFO  [x] Received 05/22/21 14:14:10,
+2023-09-28 11:08:08,180.food_b_consumer.INFO                               
+2023-09-28 11:08:08,180.food_b_consumer.INFO                               
+2023-09-28 11:08:08,180.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:08:08,181.food_b_consumer.INFO                               
+2023-09-28 11:08:38,182.food_b_consumer.INFO                               
+2023-09-28 11:08:38,182.food_b_consumer.INFO  [x] Received 05/22/21 14:14:15,
+2023-09-28 11:08:38,182.food_b_consumer.INFO                               
+2023-09-28 11:08:38,182.food_b_consumer.INFO                               
+2023-09-28 11:08:38,182.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:08:38,182.food_b_consumer.INFO                               
+2023-09-28 11:09:08,191.food_b_consumer.INFO                               
+2023-09-28 11:09:08,192.food_b_consumer.INFO  [x] Received 05/22/21 14:14:35,
+2023-09-28 11:09:08,192.food_b_consumer.INFO                               
+2023-09-28 11:09:08,192.food_b_consumer.INFO                               
+2023-09-28 11:09:08,192.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:09:08,192.food_b_consumer.INFO                               
+2023-09-28 11:09:38,193.food_b_consumer.INFO                               
+2023-09-28 11:09:38,193.food_b_consumer.INFO  [x] Received 05/22/21 14:14:40,49.1
+2023-09-28 11:09:38,193.food_b_consumer.INFO                               
+2023-09-28 11:09:38,193.food_b_consumer.INFO                               
+2023-09-28 11:09:38,193.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:09:38,194.food_b_consumer.INFO                               
+2023-09-28 11:10:08,194.food_b_consumer.INFO                               
+2023-09-28 11:10:08,195.food_b_consumer.INFO  [x] Received 05/22/21 14:14:45,49.1
+2023-09-28 11:10:08,195.food_b_consumer.INFO                               
+2023-09-28 11:10:08,195.food_b_consumer.INFO                               
+2023-09-28 11:10:08,195.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:10:08,195.food_b_consumer.INFO                               
+2023-09-28 11:10:38,196.food_b_consumer.INFO                               
+2023-09-28 11:10:38,197.food_b_consumer.INFO  [x] Received 05/22/21 14:15:10,
+2023-09-28 11:10:38,197.food_b_consumer.INFO                               
+2023-09-28 11:10:38,197.food_b_consumer.INFO                               
+2023-09-28 11:10:38,197.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:10:38,197.food_b_consumer.INFO                               
+2023-09-28 11:11:08,206.food_b_consumer.INFO                               
+2023-09-28 11:11:08,207.food_b_consumer.INFO  [x] Received 05/22/21 14:15:15,
+2023-09-28 11:11:08,207.food_b_consumer.INFO                               
+2023-09-28 11:11:08,207.food_b_consumer.INFO                               
+2023-09-28 11:11:08,207.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:11:08,207.food_b_consumer.INFO                               
+2023-09-28 11:11:38,217.food_b_consumer.INFO                               
+2023-09-28 11:11:38,218.food_b_consumer.INFO  [x] Received 05/22/21 14:15:35,
+2023-09-28 11:11:38,218.food_b_consumer.INFO                               
+2023-09-28 11:11:38,218.food_b_consumer.INFO                               
+2023-09-28 11:11:38,218.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:11:38,218.food_b_consumer.INFO                               
+2023-09-28 11:12:08,229.food_b_consumer.INFO                               
+2023-09-28 11:12:08,229.food_b_consumer.INFO  [x] Received 05/22/21 14:15:40,50.2
+2023-09-28 11:12:08,229.food_b_consumer.INFO                               
+2023-09-28 11:12:08,229.food_b_consumer.INFO                               
+2023-09-28 11:12:08,229.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:12:08,230.food_b_consumer.INFO                               
+2023-09-28 11:12:38,240.food_b_consumer.INFO                               
+2023-09-28 11:12:38,240.food_b_consumer.INFO  [x] Received 05/22/21 14:15:45,50.2
+2023-09-28 11:12:38,240.food_b_consumer.INFO                               
+2023-09-28 11:12:38,240.food_b_consumer.INFO                               
+2023-09-28 11:12:38,240.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:12:38,240.food_b_consumer.INFO                               
+2023-09-28 11:13:08,251.food_b_consumer.INFO                               
+2023-09-28 11:13:08,251.food_b_consumer.INFO  [x] Received 05/22/21 14:16:10,
+2023-09-28 11:13:08,251.food_b_consumer.INFO                               
+2023-09-28 11:13:08,251.food_b_consumer.INFO                               
+2023-09-28 11:13:08,252.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:13:08,252.food_b_consumer.INFO                               
+2023-09-28 11:13:38,262.food_b_consumer.INFO                               
+2023-09-28 11:13:38,263.food_b_consumer.INFO  [x] Received 05/22/21 14:16:15,
+2023-09-28 11:13:38,263.food_b_consumer.INFO                               
+2023-09-28 11:13:38,263.food_b_consumer.INFO                               
+2023-09-28 11:13:38,263.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:13:38,263.food_b_consumer.INFO                               
+2023-09-28 11:14:08,274.food_b_consumer.INFO                               
+2023-09-28 11:14:08,274.food_b_consumer.INFO  [x] Received 05/22/21 14:16:35,
+2023-09-28 11:14:08,275.food_b_consumer.INFO                               
+2023-09-28 11:14:08,275.food_b_consumer.INFO                               
+2023-09-28 11:14:08,275.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:14:08,275.food_b_consumer.INFO                               
+2023-09-28 11:14:38,285.food_b_consumer.INFO                               
+2023-09-28 11:14:38,285.food_b_consumer.INFO  [x] Received 05/22/21 14:16:40,51.2
+2023-09-28 11:14:38,285.food_b_consumer.INFO                               
+2023-09-28 11:14:38,285.food_b_consumer.INFO                               
+2023-09-28 11:14:38,285.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:14:38,285.food_b_consumer.INFO                               
+2023-09-28 11:15:08,291.food_b_consumer.INFO                               
+2023-09-28 11:15:08,292.food_b_consumer.INFO  [x] Received 05/22/21 14:16:45,51.2
+2023-09-28 11:15:08,292.food_b_consumer.INFO                               
+2023-09-28 11:15:08,292.food_b_consumer.INFO                               
+2023-09-28 11:15:08,292.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:15:08,292.food_b_consumer.INFO                               
+2023-09-28 11:15:38,302.food_b_consumer.INFO                               
+2023-09-28 11:15:38,302.food_b_consumer.INFO  [x] Received 05/22/21 14:17:10,
+2023-09-28 11:15:38,302.food_b_consumer.INFO                               
+2023-09-28 11:15:38,303.food_b_consumer.INFO                               
+2023-09-28 11:15:38,303.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:15:38,303.food_b_consumer.INFO                               
+2023-09-28 11:16:08,314.food_b_consumer.INFO                               
+2023-09-28 11:16:08,314.food_b_consumer.INFO  [x] Received 05/22/21 14:17:15,
+2023-09-28 11:16:08,314.food_b_consumer.INFO                               
+2023-09-28 11:16:08,315.food_b_consumer.INFO                               
+2023-09-28 11:16:08,315.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:16:08,315.food_b_consumer.INFO                               
+2023-09-28 11:16:38,325.food_b_consumer.INFO                               
+2023-09-28 11:16:38,325.food_b_consumer.INFO  [x] Received 05/22/21 14:17:35,
+2023-09-28 11:16:38,325.food_b_consumer.INFO                               
+2023-09-28 11:16:38,325.food_b_consumer.INFO                               
+2023-09-28 11:16:38,325.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:16:38,326.food_b_consumer.INFO                               
+2023-09-28 11:17:08,331.food_b_consumer.INFO                               
+2023-09-28 11:17:08,331.food_b_consumer.INFO  [x] Received 05/22/21 14:17:40,52.3
+2023-09-28 11:17:08,332.food_b_consumer.INFO                               
+2023-09-28 11:17:08,332.food_b_consumer.INFO                               
+2023-09-28 11:17:08,332.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:17:08,332.food_b_consumer.INFO                               
+2023-09-28 11:17:38,336.food_b_consumer.INFO                               
+2023-09-28 11:17:38,336.food_b_consumer.INFO  [x] Received 05/22/21 14:17:45,52.3
+2023-09-28 11:17:38,336.food_b_consumer.INFO                               
+2023-09-28 11:17:38,336.food_b_consumer.INFO                               
+2023-09-28 11:17:38,336.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:17:38,337.food_b_consumer.INFO                               
+2023-09-28 11:18:08,347.food_b_consumer.INFO                               
+2023-09-28 11:18:08,347.food_b_consumer.INFO  [x] Received 05/22/21 14:18:10,
+2023-09-28 11:18:08,347.food_b_consumer.INFO                               
+2023-09-28 11:18:08,347.food_b_consumer.INFO                               
+2023-09-28 11:18:08,347.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:18:08,347.food_b_consumer.INFO                               
+2023-09-28 11:18:38,358.food_b_consumer.INFO                               
+2023-09-28 11:18:38,358.food_b_consumer.INFO  [x] Received 05/22/21 14:18:15,
+2023-09-28 11:18:38,358.food_b_consumer.INFO                               
+2023-09-28 11:18:38,359.food_b_consumer.INFO                               
+2023-09-28 11:18:38,359.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:18:38,359.food_b_consumer.INFO                               
+2023-09-28 11:19:08,359.food_b_consumer.INFO                               
+2023-09-28 11:19:08,359.food_b_consumer.INFO  [x] Received 05/22/21 14:18:35,
+2023-09-28 11:19:08,359.food_b_consumer.INFO                               
+2023-09-28 11:19:08,360.food_b_consumer.INFO                               
+2023-09-28 11:19:08,360.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:19:08,360.food_b_consumer.INFO                               
+2023-09-28 11:19:38,370.food_b_consumer.INFO                               
+2023-09-28 11:19:38,371.food_b_consumer.INFO  [x] Received 05/22/21 14:18:40,53.3
+2023-09-28 11:19:38,371.food_b_consumer.INFO                               
+2023-09-28 11:19:38,371.food_b_consumer.INFO                               
+2023-09-28 11:19:38,371.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:19:38,371.food_b_consumer.INFO                               
+2023-09-28 11:20:08,381.food_b_consumer.INFO                               
+2023-09-28 11:20:08,381.food_b_consumer.INFO  [x] Received 05/22/21 14:18:45,53.3
+2023-09-28 11:20:08,382.food_b_consumer.INFO                               
+2023-09-28 11:20:08,382.food_b_consumer.INFO                               
+2023-09-28 11:20:08,382.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:20:08,382.food_b_consumer.INFO                               
+2023-09-28 11:20:38,382.food_b_consumer.INFO                               
+2023-09-28 11:20:38,383.food_b_consumer.INFO  [x] Received 05/22/21 14:19:10,
+2023-09-28 11:20:38,383.food_b_consumer.INFO                               
+2023-09-28 11:20:38,383.food_b_consumer.INFO                               
+2023-09-28 11:20:38,383.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:20:38,383.food_b_consumer.INFO                               
+2023-09-28 11:21:08,394.food_b_consumer.INFO                               
+2023-09-28 11:21:08,394.food_b_consumer.INFO  [x] Received 05/22/21 14:19:15,
+2023-09-28 11:21:08,394.food_b_consumer.INFO                               
+2023-09-28 11:21:08,394.food_b_consumer.INFO                               
+2023-09-28 11:21:08,394.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:21:08,394.food_b_consumer.INFO                               
+2023-09-28 11:21:38,403.food_b_consumer.INFO                               
+2023-09-28 11:21:38,403.food_b_consumer.INFO  [x] Received 05/22/21 14:19:35,
+2023-09-28 11:21:38,403.food_b_consumer.INFO                               
+2023-09-28 11:21:38,403.food_b_consumer.INFO                               
+2023-09-28 11:21:38,403.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:21:38,404.food_b_consumer.INFO                               
+2023-09-28 11:22:08,413.food_b_consumer.INFO                               
+2023-09-28 11:22:08,414.food_b_consumer.INFO  [x] Received 05/22/21 14:19:40,54.4
+2023-09-28 11:22:08,414.food_b_consumer.INFO                               
+2023-09-28 11:22:08,414.food_b_consumer.INFO                               
+2023-09-28 11:22:08,414.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:22:08,414.food_b_consumer.INFO                               
+2023-09-28 11:22:38,424.food_b_consumer.INFO                               
+2023-09-28 11:22:38,425.food_b_consumer.INFO  [x] Received 05/22/21 14:19:45,54.4
+2023-09-28 11:22:38,425.food_b_consumer.INFO                               
+2023-09-28 11:22:38,425.food_b_consumer.INFO                               
+2023-09-28 11:22:38,425.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:22:38,425.food_b_consumer.INFO                               
+2023-09-28 11:23:08,429.food_b_consumer.INFO                               
+2023-09-28 11:23:08,429.food_b_consumer.INFO  [x] Received 05/22/21 14:20:10,
+2023-09-28 11:23:08,429.food_b_consumer.INFO                               
+2023-09-28 11:23:08,430.food_b_consumer.INFO                               
+2023-09-28 11:23:08,430.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:23:08,430.food_b_consumer.INFO                               
+2023-09-28 11:23:38,440.food_b_consumer.INFO                               
+2023-09-28 11:23:38,441.food_b_consumer.INFO  [x] Received 05/22/21 14:20:15,
+2023-09-28 11:23:38,441.food_b_consumer.INFO                               
+2023-09-28 11:23:38,441.food_b_consumer.INFO                               
+2023-09-28 11:23:38,441.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:23:38,441.food_b_consumer.INFO                               
+2023-09-28 11:24:08,452.food_b_consumer.INFO                               
+2023-09-28 11:24:08,452.food_b_consumer.INFO  [x] Received 05/22/21 14:20:35,
+2023-09-28 11:24:08,452.food_b_consumer.INFO                               
+2023-09-28 11:24:08,452.food_b_consumer.INFO                               
+2023-09-28 11:24:08,452.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:24:08,452.food_b_consumer.INFO                               
+2023-09-28 11:24:38,463.food_b_consumer.INFO                               
+2023-09-28 11:24:38,463.food_b_consumer.INFO  [x] Received 05/22/21 14:20:40,55.6
+2023-09-28 11:24:38,463.food_b_consumer.INFO                               
+2023-09-28 11:24:38,464.food_b_consumer.INFO                               
+2023-09-28 11:24:38,464.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:24:38,464.food_b_consumer.INFO                               
+2023-09-28 11:25:08,474.food_b_consumer.INFO                               
+2023-09-28 11:25:08,474.food_b_consumer.INFO  [x] Received 05/22/21 14:20:45,55.6
+2023-09-28 11:25:08,474.food_b_consumer.INFO                               
+2023-09-28 11:25:08,474.food_b_consumer.INFO                               
+2023-09-28 11:25:08,474.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:25:08,474.food_b_consumer.INFO                               
+2023-09-28 11:25:38,486.food_b_consumer.INFO                               
+2023-09-28 11:25:38,486.food_b_consumer.INFO  [x] Received 05/22/21 14:21:10,
+2023-09-28 11:25:38,486.food_b_consumer.INFO                               
+2023-09-28 11:25:38,486.food_b_consumer.INFO                               
+2023-09-28 11:25:38,486.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:25:38,486.food_b_consumer.INFO                               
+2023-09-28 11:26:08,496.food_b_consumer.INFO                               
+2023-09-28 11:26:08,496.food_b_consumer.INFO  [x] Received 05/22/21 14:21:15,
+2023-09-28 11:26:08,496.food_b_consumer.INFO                               
+2023-09-28 11:26:08,497.food_b_consumer.INFO                               
+2023-09-28 11:26:08,497.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:26:08,497.food_b_consumer.INFO                               
+2023-09-28 11:26:38,500.food_b_consumer.INFO                               
+2023-09-28 11:26:38,500.food_b_consumer.INFO  [x] Received 05/22/21 14:21:35,
+2023-09-28 11:26:38,500.food_b_consumer.INFO                               
+2023-09-28 11:26:38,500.food_b_consumer.INFO                               
+2023-09-28 11:26:38,500.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:26:38,501.food_b_consumer.INFO                               
+2023-09-28 11:27:08,511.food_b_consumer.INFO                               
+2023-09-28 11:27:08,511.food_b_consumer.INFO  [x] Received 05/22/21 14:21:40,56.7
+2023-09-28 11:27:08,512.food_b_consumer.INFO                               
+2023-09-28 11:27:08,512.food_b_consumer.INFO                               
+2023-09-28 11:27:08,512.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:27:08,512.food_b_consumer.INFO                               
+2023-09-28 11:27:38,512.food_b_consumer.INFO                               
+2023-09-28 11:27:38,513.food_b_consumer.INFO  [x] Received 05/22/21 14:21:45,56.7
+2023-09-28 11:27:38,513.food_b_consumer.INFO                               
+2023-09-28 11:27:38,513.food_b_consumer.INFO                               
+2023-09-28 11:27:38,513.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:27:38,513.food_b_consumer.INFO                               
+2023-09-28 11:28:08,524.food_b_consumer.INFO                               
+2023-09-28 11:28:08,524.food_b_consumer.INFO  [x] Received 05/22/21 14:22:10,
+2023-09-28 11:28:08,524.food_b_consumer.INFO                               
+2023-09-28 11:28:08,524.food_b_consumer.INFO                               
+2023-09-28 11:28:08,524.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:28:08,525.food_b_consumer.INFO                               
+2023-09-28 11:28:38,533.food_b_consumer.INFO                               
+2023-09-28 11:28:38,533.food_b_consumer.INFO  [x] Received 05/22/21 14:22:15,
+2023-09-28 11:28:38,533.food_b_consumer.INFO                               
+2023-09-28 11:28:38,533.food_b_consumer.INFO                               
+2023-09-28 11:28:38,533.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:28:38,534.food_b_consumer.INFO                               
+2023-09-28 11:29:08,544.food_b_consumer.INFO                               
+2023-09-28 11:29:08,544.food_b_consumer.INFO  [x] Received 05/22/21 14:22:35,
+2023-09-28 11:29:08,544.food_b_consumer.INFO                               
+2023-09-28 11:29:08,545.food_b_consumer.INFO                               
+2023-09-28 11:29:08,545.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:29:08,545.food_b_consumer.INFO                               
+2023-09-28 11:29:38,554.food_b_consumer.INFO                               
+2023-09-28 11:29:38,554.food_b_consumer.INFO  [x] Received 05/22/21 14:22:40,57.9
+2023-09-28 11:29:38,554.food_b_consumer.INFO                               
+2023-09-28 11:29:38,554.food_b_consumer.INFO                               
+2023-09-28 11:29:38,555.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:29:38,555.food_b_consumer.INFO                               
+2023-09-28 11:30:08,562.food_b_consumer.INFO                               
+2023-09-28 11:30:08,563.food_b_consumer.INFO  [x] Received 05/22/21 14:22:45,57.9
+2023-09-28 11:30:08,563.food_b_consumer.INFO                               
+2023-09-28 11:30:08,563.food_b_consumer.INFO                               
+2023-09-28 11:30:08,563.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:30:08,563.food_b_consumer.INFO                               
+2023-09-28 11:30:38,579.food_b_consumer.INFO                               
+2023-09-28 11:30:38,580.food_b_consumer.INFO  [x] Received 05/22/21 14:23:10,
+2023-09-28 11:30:38,580.food_b_consumer.INFO                               
+2023-09-28 11:30:38,580.food_b_consumer.INFO                               
+2023-09-28 11:30:38,580.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:30:38,581.food_b_consumer.INFO                               
+2023-09-28 11:31:08,592.food_b_consumer.INFO                               
+2023-09-28 11:31:08,592.food_b_consumer.INFO  [x] Received 05/22/21 14:23:15,
+2023-09-28 11:31:08,592.food_b_consumer.INFO                               
+2023-09-28 11:31:08,592.food_b_consumer.INFO                               
+2023-09-28 11:31:08,592.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:31:08,592.food_b_consumer.INFO                               
+2023-09-28 11:31:38,602.food_b_consumer.INFO                               
+2023-09-28 11:31:38,602.food_b_consumer.INFO  [x] Received 05/22/21 14:23:35,
+2023-09-28 11:31:38,602.food_b_consumer.INFO                               
+2023-09-28 11:31:38,602.food_b_consumer.INFO                               
+2023-09-28 11:31:38,603.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:31:38,603.food_b_consumer.INFO                               
+2023-09-28 11:32:08,614.food_b_consumer.INFO                               
+2023-09-28 11:32:08,614.food_b_consumer.INFO  [x] Received 05/22/21 14:23:40,59.1
+2023-09-28 11:32:08,614.food_b_consumer.INFO                               
+2023-09-28 11:32:08,614.food_b_consumer.INFO                               
+2023-09-28 11:32:08,614.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:32:08,615.food_b_consumer.INFO                               
+2023-09-28 11:32:38,616.food_b_consumer.INFO                               
+2023-09-28 11:32:38,616.food_b_consumer.INFO  [x] Received 05/22/21 14:23:45,59.1
+2023-09-28 11:32:38,616.food_b_consumer.INFO                               
+2023-09-28 11:32:38,617.food_b_consumer.INFO                               
+2023-09-28 11:32:38,617.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:32:38,617.food_b_consumer.INFO                               
+2023-09-28 11:33:08,626.food_b_consumer.INFO                               
+2023-09-28 11:33:08,626.food_b_consumer.INFO  [x] Received 05/22/21 14:24:10,
+2023-09-28 11:33:08,626.food_b_consumer.INFO                               
+2023-09-28 11:33:08,627.food_b_consumer.INFO                               
+2023-09-28 11:33:08,627.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:33:08,627.food_b_consumer.INFO                               
+2023-09-28 11:33:38,627.food_b_consumer.INFO                               
+2023-09-28 11:33:38,627.food_b_consumer.INFO  [x] Received 05/22/21 14:24:15,
+2023-09-28 11:33:38,628.food_b_consumer.INFO                               
+2023-09-28 11:33:38,628.food_b_consumer.INFO                               
+2023-09-28 11:33:38,628.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:33:38,628.food_b_consumer.INFO                               
+2023-09-28 11:34:08,638.food_b_consumer.INFO                               
+2023-09-28 11:34:08,638.food_b_consumer.INFO  [x] Received 05/22/21 14:24:35,
+2023-09-28 11:34:08,639.food_b_consumer.INFO                               
+2023-09-28 11:34:08,639.food_b_consumer.INFO                               
+2023-09-28 11:34:08,639.food_b_consumer.INFO  [x] Done.
+2023-09-28 11:34:08,639.food_b_consumer.INFO                               
+2023-09-28 12:09:48,875.food_b_consumer.INFO                               
+2023-09-28 12:09:48,875.food_b_consumer.INFO  [x] Received 05/22/21 14:24:40,60.3
+2023-09-28 12:09:48,875.food_b_consumer.INFO                               
+2023-09-28 12:09:48,875.food_b_consumer.INFO                               
+2023-09-28 12:09:48,875.food_b_consumer.INFO  [x] Done.
+2023-09-28 12:09:48,875.food_b_consumer.INFO                               
+2023-09-28 12:10:19,254.food_b_consumer.INFO                               
+2023-09-28 12:10:19,254.food_b_consumer.INFO  [x] Received 05/22/21 14:24:45,60.3
+2023-09-28 12:10:19,254.food_b_consumer.INFO                               
+2023-09-28 12:10:19,254.food_b_consumer.INFO                               
+2023-09-28 12:10:19,254.food_b_consumer.INFO  [x] Done.
+2023-09-28 12:10:19,255.food_b_consumer.INFO                               
+2023-09-28 15:32:48,185.food_b_consumer.INFO                               
+2023-09-28 15:32:48,185.food_b_consumer.INFO  [x] Received 05/22/21 14:25:10,
+2023-09-28 15:32:48,185.food_b_consumer.INFO                               
+2023-09-28 15:32:48,185.food_b_consumer.INFO                               
+2023-09-28 15:32:48,185.food_b_consumer.INFO  [x] Done.
+2023-09-28 15:32:48,185.food_b_consumer.INFO                               
+2023-09-28 15:33:18,192.food_b_consumer.INFO                               
+2023-09-28 15:33:18,192.food_b_consumer.INFO  [x] Received 05/22/21 14:25:15,
+2023-09-28 15:33:18,192.food_b_consumer.INFO                               
+2023-09-28 15:33:18,192.food_b_consumer.INFO                               
+2023-09-28 15:33:18,192.food_b_consumer.INFO  [x] Done.
+2023-09-28 15:33:18,192.food_b_consumer.INFO                               
+2023-09-28 15:36:26,134.food_b_consumer.INFO                               
+2023-09-28 15:36:26,134.food_b_consumer.INFO  [x] Received 05/22/21 14:25:35,
+2023-09-28 15:36:26,135.food_b_consumer.INFO                               
+2023-09-28 15:36:26,135.food_b_consumer.INFO                               
+2023-09-28 15:36:26,135.food_b_consumer.INFO  [x] Done.
+2023-09-28 15:36:26,135.food_b_consumer.INFO                               
+2023-09-28 15:36:56,145.food_b_consumer.INFO                               
+2023-09-28 15:36:56,145.food_b_consumer.INFO  [x] Received 05/22/21 14:25:40,61.5
+2023-09-28 15:36:56,145.food_b_consumer.INFO                               
+2023-09-28 15:36:56,145.food_b_consumer.INFO                               
+2023-09-28 15:36:56,145.food_b_consumer.INFO  [x] Done.
+2023-09-28 15:36:56,145.food_b_consumer.INFO                               
+2023-09-28 19:33:17,125.food_b_consumer.INFO                               
+2023-09-28 19:33:17,125.food_b_consumer.INFO  [x] Received 05/22/21 14:25:45,61.5
+2023-09-28 19:33:17,125.food_b_consumer.INFO                               
+2023-09-28 19:33:17,125.food_b_consumer.INFO                               
+2023-09-28 19:33:17,125.food_b_consumer.INFO  [x] Done.
+2023-09-28 19:33:17,126.food_b_consumer.INFO                               
